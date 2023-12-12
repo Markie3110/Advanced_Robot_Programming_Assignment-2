@@ -1,0 +1,271 @@
+                     DATE/TIME                   MESSAGE/VARIABLE                               DATA
+  12-12-2023 02:39:04:940:938                 initialised ncurses                                 -
+  12-12-2023 02:39:04:940:973                        initial yMax                                 53
+  12-12-2023 02:39:04:940:998                        initial xMax                                 78
+   12-12-2023 02:39:04:941:34                           droneMaxY                                 26
+   12-12-2023 02:39:04:941:65                           droneMaxX                                 76
+  12-12-2023 02:39:04:942:735                   Created UIpidfifo                                 -
+  12-12-2023 02:39:04:942:775                    Opened UIpidfifo                                 -
+  12-12-2023 02:39:04:942:821                Sent pid to watchdog                                 -
+  12-12-2023 02:39:04:942:880                 Opened sem_watchdog                                 -
+  12-12-2023 02:39:04:942:935                 Opened shm_watchdog                                 -
+   12-12-2023 02:39:04:943:62               received watchdog pid                                 -
+   12-12-2023 02:39:04:943:98                        watchdog_pid                              40409
+  12-12-2023 02:39:04:943:158              Created keypressedfifo                                 -
+  12-12-2023 02:39:04:943:206                   Opened sem_window                                 -
+  12-12-2023 02:39:04:943:242                   Opened shm_window                                 -
+  12-12-2023 02:39:04:943:288               error: open sem_drone          No such file or directory
+  12-12-2023 02:39:04:943:397                    Opened sem_drone                                 -
+  12-12-2023 02:39:04:943:435                    Opened shm_drone                                 -
+   12-12-2023 02:39:05:43:716                          user input                                 -1
+   12-12-2023 02:39:05:43:846               passed input to drone                                 -
+   12-12-2023 02:39:05:43:963         passed window size to drone                                 -
+    12-12-2023 02:39:05:44:30                            yMax_now                                 53
+    12-12-2023 02:39:05:44:88                            xMax_now                                 78
+   12-12-2023 02:39:05:45:991                      dronePositionY                                 15
+    12-12-2023 02:39:05:46:64                      dronePositionX                                 15
+   12-12-2023 02:39:05:148:93                          user input                                 -1
+  12-12-2023 02:39:05:148:207               passed input to drone                                 -
+  12-12-2023 02:39:05:148:328         passed window size to drone                                 -
+  12-12-2023 02:39:05:148:391                            yMax_now                                 53
+  12-12-2023 02:39:05:148:448                            xMax_now                                 78
+  12-12-2023 02:39:05:150:329                      dronePositionY                                 15
+  12-12-2023 02:39:05:150:402                      dronePositionX                                 15
+  12-12-2023 02:39:05:252:454                          user input                                 -1
+  12-12-2023 02:39:05:252:592               passed input to drone                                 -
+  12-12-2023 02:39:05:252:718         passed window size to drone                                 -
+  12-12-2023 02:39:05:252:783                            yMax_now                                 53
+  12-12-2023 02:39:05:252:843                            xMax_now                                 78
+  12-12-2023 02:39:05:254:719                      dronePositionY                                 15
+  12-12-2023 02:39:05:254:791                      dronePositionX                                 15
+  12-12-2023 02:39:05:356:993                          user input                                 -1
+  12-12-2023 02:39:05:357:170               passed input to drone                                 -
+  12-12-2023 02:39:05:357:306         passed window size to drone                                 -
+  12-12-2023 02:39:05:357:382                            yMax_now                                 53
+  12-12-2023 02:39:05:357:453                            xMax_now                                 78
+  12-12-2023 02:39:05:359:599                      dronePositionY                                 15
+  12-12-2023 02:39:05:359:679                      dronePositionX                                 15
+  12-12-2023 02:39:05:461:946                          user input                                 -1
+   12-12-2023 02:39:05:462:93               passed input to drone                                 -
+  12-12-2023 02:39:05:462:229         passed window size to drone                                 -
+  12-12-2023 02:39:05:462:303                            yMax_now                                 53
+  12-12-2023 02:39:05:462:369                            xMax_now                                 78
+  12-12-2023 02:39:05:464:465                      dronePositionY                                 15
+  12-12-2023 02:39:05:464:536                      dronePositionX                                 15
+  12-12-2023 02:39:05:566:895                          user input                                 -1
+   12-12-2023 02:39:05:567:36               passed input to drone                                 -
+  12-12-2023 02:39:05:567:173         passed window size to drone                                 -
+  12-12-2023 02:39:05:567:246                            yMax_now                                 53
+  12-12-2023 02:39:05:567:313                            xMax_now                                 78
+  12-12-2023 02:39:05:569:420                      dronePositionY                                 15
+  12-12-2023 02:39:05:569:491                      dronePositionX                                 15
+   12-12-2023 02:39:05:672:49                          user input                                 -1
+  12-12-2023 02:39:05:672:196               passed input to drone                                 -
+  12-12-2023 02:39:05:672:332         passed window size to drone                                 -
+  12-12-2023 02:39:05:672:407                            yMax_now                                 53
+  12-12-2023 02:39:05:672:476                            xMax_now                                 78
+  12-12-2023 02:39:05:674:617                      dronePositionY                                 15
+  12-12-2023 02:39:05:674:694                      dronePositionX                                 15
+  12-12-2023 02:39:05:777:267                          user input                                 -1
+  12-12-2023 02:39:05:777:413               passed input to drone                                 -
+  12-12-2023 02:39:05:777:548         passed window size to drone                                 -
+  12-12-2023 02:39:05:777:622                            yMax_now                                 53
+  12-12-2023 02:39:05:777:745                            xMax_now                                 78
+  12-12-2023 02:39:05:779:838                      dronePositionY                                 15
+  12-12-2023 02:39:05:779:911                      dronePositionX                                 15
+  12-12-2023 02:39:05:882:244                          user input                                 -1
+  12-12-2023 02:39:05:882:390               passed input to drone                                 -
+  12-12-2023 02:39:05:882:526         passed window size to drone                                 -
+  12-12-2023 02:39:05:882:599                            yMax_now                                 53
+  12-12-2023 02:39:05:882:670                            xMax_now                                 78
+  12-12-2023 02:39:05:884:769                      dronePositionY                                 15
+  12-12-2023 02:39:05:884:841                      dronePositionX                                 15
+  12-12-2023 02:39:05:987:183                          user input                                 -1
+  12-12-2023 02:39:05:987:325               passed input to drone                                 -
+  12-12-2023 02:39:05:987:463         passed window size to drone                                 -
+  12-12-2023 02:39:05:987:539                            yMax_now                                 53
+  12-12-2023 02:39:05:987:610                            xMax_now                                 78
+  12-12-2023 02:39:05:989:774                      dronePositionY                                 15
+  12-12-2023 02:39:05:989:855                      dronePositionX                                 15
+   12-12-2023 02:39:06:92:517                          user input                                 -1
+   12-12-2023 02:39:06:92:662               passed input to drone                                 -
+   12-12-2023 02:39:06:92:797         passed window size to drone                                 -
+   12-12-2023 02:39:06:92:871                            yMax_now                                 53
+   12-12-2023 02:39:06:92:944                            xMax_now                                 78
+    12-12-2023 02:39:06:95:71                      dronePositionY                                 15
+   12-12-2023 02:39:06:95:152                      dronePositionX                                 15
+  12-12-2023 02:39:06:197:553                          user input                                 -1
+  12-12-2023 02:39:06:197:735               passed input to drone                                 -
+  12-12-2023 02:39:06:197:877         passed window size to drone                                 -
+  12-12-2023 02:39:06:197:951                            yMax_now                                 53
+   12-12-2023 02:39:06:198:25                            xMax_now                                 78
+  12-12-2023 02:39:06:200:119                      dronePositionY                                 15
+  12-12-2023 02:39:06:200:190                      dronePositionX                                 15
+  12-12-2023 02:39:06:302:451                          user input                                 -1
+  12-12-2023 02:39:06:302:591               passed input to drone                                 -
+  12-12-2023 02:39:06:302:727         passed window size to drone                                 -
+  12-12-2023 02:39:06:302:799                            yMax_now                                 53
+  12-12-2023 02:39:06:302:863                            xMax_now                                 78
+   12-12-2023 02:39:06:305:93                      dronePositionY                                 15
+  12-12-2023 02:39:06:305:194                      dronePositionX                                 15
+  12-12-2023 02:39:06:407:457                          user input                                 -1
+  12-12-2023 02:39:06:407:604               passed input to drone                                 -
+  12-12-2023 02:39:06:407:741         passed window size to drone                                 -
+  12-12-2023 02:39:06:407:815                            yMax_now                                 53
+  12-12-2023 02:39:06:407:883                            xMax_now                                 78
+   12-12-2023 02:39:06:410:26                      dronePositionY                                 15
+  12-12-2023 02:39:06:410:104                      dronePositionX                                 15
+  12-12-2023 02:39:06:512:580                          user input                                 -1
+  12-12-2023 02:39:06:512:725               passed input to drone                                 -
+  12-12-2023 02:39:06:512:862         passed window size to drone                                 -
+  12-12-2023 02:39:06:512:936                            yMax_now                                 53
+    12-12-2023 02:39:06:513:5                            xMax_now                                 78
+  12-12-2023 02:39:06:515:136                      dronePositionY                                 15
+  12-12-2023 02:39:06:515:240                      dronePositionX                                 15
+  12-12-2023 02:39:06:617:751                          user input                                 -1
+  12-12-2023 02:39:06:617:897               passed input to drone                                 -
+   12-12-2023 02:39:06:618:33         passed window size to drone                                 -
+  12-12-2023 02:39:06:618:105                            yMax_now                                 53
+  12-12-2023 02:39:06:618:175                            xMax_now                                 78
+  12-12-2023 02:39:06:620:267                      dronePositionY                                 15
+  12-12-2023 02:39:06:620:338                      dronePositionX                                 15
+  12-12-2023 02:39:06:722:575                          user input                                 -1
+  12-12-2023 02:39:06:722:717               passed input to drone                                 -
+  12-12-2023 02:39:06:722:857         passed window size to drone                                 -
+  12-12-2023 02:39:06:722:929                            yMax_now                                 53
+    12-12-2023 02:39:06:723:1                            xMax_now                                 78
+   12-12-2023 02:39:06:725:57                      dronePositionY                                 15
+  12-12-2023 02:39:06:725:129                      dronePositionX                                 15
+  12-12-2023 02:39:06:827:687                          user input                                 -1
+  12-12-2023 02:39:06:827:825               passed input to drone                                 -
+  12-12-2023 02:39:06:827:960         passed window size to drone                                 -
+   12-12-2023 02:39:06:828:35                            yMax_now                                 53
+  12-12-2023 02:39:06:828:108                            xMax_now                                 78
+  12-12-2023 02:39:06:830:241                      dronePositionY                                 15
+  12-12-2023 02:39:06:830:318                      dronePositionX                                 15
+  12-12-2023 02:39:06:932:623                          user input                                 -1
+  12-12-2023 02:39:06:932:764               passed input to drone                                 -
+  12-12-2023 02:39:06:932:899         passed window size to drone                                 -
+  12-12-2023 02:39:06:932:973                            yMax_now                                 53
+   12-12-2023 02:39:06:933:45                            xMax_now                                 78
+  12-12-2023 02:39:06:935:168                      dronePositionY                                 15
+  12-12-2023 02:39:06:935:247                      dronePositionX                                 15
+   12-12-2023 02:39:07:37:898                          user input                                 -1
+    12-12-2023 02:39:07:38:48               passed input to drone                                 -
+   12-12-2023 02:39:07:38:184         passed window size to drone                                 -
+   12-12-2023 02:39:07:38:260                            yMax_now                                 53
+   12-12-2023 02:39:07:38:331                            xMax_now                                 78
+   12-12-2023 02:39:07:40:406                      dronePositionY                                 15
+   12-12-2023 02:39:07:40:477                      dronePositionX                                 15
+  12-12-2023 02:39:07:142:739                          user input                                 -1
+  12-12-2023 02:39:07:142:880               passed input to drone                                 -
+   12-12-2023 02:39:07:143:54         passed window size to drone                                 -
+  12-12-2023 02:39:07:143:160                            yMax_now                                 53
+  12-12-2023 02:39:07:143:288                            xMax_now                                 78
+  12-12-2023 02:39:07:145:969                      dronePositionY                                 15
+   12-12-2023 02:39:07:146:55                      dronePositionX                                 15
+  12-12-2023 02:39:07:248:377                          user input                                 -1
+  12-12-2023 02:39:07:248:519               passed input to drone                                 -
+  12-12-2023 02:39:07:248:699         passed window size to drone                                 -
+  12-12-2023 02:39:07:248:792                            yMax_now                                 53
+  12-12-2023 02:39:07:248:889                            xMax_now                                 78
+  12-12-2023 02:39:07:251:304                      dronePositionY                                 15
+  12-12-2023 02:39:07:251:385                      dronePositionX                                 15
+  12-12-2023 02:39:07:353:637                          user input                                 -1
+  12-12-2023 02:39:07:353:853               passed input to drone                                 -
+   12-12-2023 02:39:07:354:56         passed window size to drone                                 -
+  12-12-2023 02:39:07:354:171                            yMax_now                                 53
+  12-12-2023 02:39:07:354:285                            xMax_now                                 78
+  12-12-2023 02:39:07:356:620                      dronePositionY                                 15
+  12-12-2023 02:39:07:356:695                      dronePositionX                                 15
+  12-12-2023 02:39:07:458:771                          user input                                 -1
+  12-12-2023 02:39:07:458:919               passed input to drone                                 -
+  12-12-2023 02:39:07:459:117         passed window size to drone                                 -
+  12-12-2023 02:39:07:459:223                            yMax_now                                 53
+  12-12-2023 02:39:07:459:333                            xMax_now                                 78
+  12-12-2023 02:39:07:461:713                      dronePositionY                                 15
+  12-12-2023 02:39:07:461:807                      dronePositionX                                 15
+  12-12-2023 02:39:07:564:377                          user input                                 -1
+  12-12-2023 02:39:07:564:542               passed input to drone                                 -
+  12-12-2023 02:39:07:564:743         passed window size to drone                                 -
+  12-12-2023 02:39:07:564:864                            yMax_now                                 53
+  12-12-2023 02:39:07:564:981                            xMax_now                                 78
+  12-12-2023 02:39:07:567:478                      dronePositionY                                 15
+  12-12-2023 02:39:07:567:565                      dronePositionX                                 15
+  12-12-2023 02:39:07:669:854                          user input                                 -1
+   12-12-2023 02:39:07:670:21               passed input to drone                                 -
+  12-12-2023 02:39:07:670:220         passed window size to drone                                 -
+  12-12-2023 02:39:07:670:335                            yMax_now                                 53
+  12-12-2023 02:39:07:670:455                            xMax_now                                 78
+  12-12-2023 02:39:07:672:802                      dronePositionY                                 15
+  12-12-2023 02:39:07:672:885                      dronePositionX                                 15
+  12-12-2023 02:39:07:775:530                          user input                                 -1
+  12-12-2023 02:39:07:775:692               passed input to drone                                 -
+  12-12-2023 02:39:07:775:889         passed window size to drone                                 -
+   12-12-2023 02:39:07:776:35                            yMax_now                                 53
+  12-12-2023 02:39:07:776:140                            xMax_now                                 78
+  12-12-2023 02:39:07:778:542                      dronePositionY                                 15
+  12-12-2023 02:39:07:778:629                      dronePositionX                                 15
+  12-12-2023 02:39:07:880:951                          user input                                 -1
+   12-12-2023 02:39:07:881:11               passed input to drone                                 -
+   12-12-2023 02:39:07:881:81         passed window size to drone                                 -
+  12-12-2023 02:39:07:881:116                            yMax_now                                 53
+  12-12-2023 02:39:07:881:154                            xMax_now                                 78
+  12-12-2023 02:39:07:882:115                      dronePositionY                                 15
+  12-12-2023 02:39:07:882:146                      dronePositionX                                 15
+  12-12-2023 02:39:07:983:197                          user input                                 -1
+  12-12-2023 02:39:07:983:358               passed input to drone                                 -
+  12-12-2023 02:39:07:983:562         passed window size to drone                                 -
+  12-12-2023 02:39:07:983:681                            yMax_now                                 53
+  12-12-2023 02:39:07:983:798                            xMax_now                                 78
+  12-12-2023 02:39:07:986:229                      dronePositionY                                 15
+  12-12-2023 02:39:07:986:318                      dronePositionX                                 15
+   12-12-2023 02:39:08:88:824                          user input                                 -1
+   12-12-2023 02:39:08:88:991               passed input to drone                                 -
+   12-12-2023 02:39:08:89:194         passed window size to drone                                 -
+   12-12-2023 02:39:08:89:315                            yMax_now                                 53
+   12-12-2023 02:39:08:89:429                            xMax_now                                 78
+   12-12-2023 02:39:08:91:838                      dronePositionY                                 15
+   12-12-2023 02:39:08:91:925                      dronePositionX                                 15
+  12-12-2023 02:39:08:194:220                          user input                                 -1
+  12-12-2023 02:39:08:194:382               passed input to drone                                 -
+  12-12-2023 02:39:08:194:586         passed window size to drone                                 -
+  12-12-2023 02:39:08:194:708                            yMax_now                                 53
+  12-12-2023 02:39:08:194:822                            xMax_now                                 78
+  12-12-2023 02:39:08:197:160                      dronePositionY                                 15
+  12-12-2023 02:39:08:197:241                      dronePositionX                                 15
+  12-12-2023 02:39:08:299:800                          user input                                 -1
+  12-12-2023 02:39:08:299:961               passed input to drone                                 -
+  12-12-2023 02:39:08:300:164         passed window size to drone                                 -
+  12-12-2023 02:39:08:300:287                            yMax_now                                 53
+  12-12-2023 02:39:08:300:404                            xMax_now                                 78
+  12-12-2023 02:39:08:302:815                      dronePositionY                                 15
+  12-12-2023 02:39:08:302:903                      dronePositionX                                 15
+  12-12-2023 02:39:08:405:579                          user input                                 -1
+  12-12-2023 02:39:08:405:782               passed input to drone                                 -
+   12-12-2023 02:39:08:406:47         passed window size to drone                                 -
+  12-12-2023 02:39:08:406:177                            yMax_now                                 53
+  12-12-2023 02:39:08:406:304                            xMax_now                                 78
+  12-12-2023 02:39:08:408:579                      dronePositionY                                 15
+  12-12-2023 02:39:08:408:655                      dronePositionX                                 15
+  12-12-2023 02:39:08:510:917                          user input                                 -1
+   12-12-2023 02:39:08:511:79               passed input to drone                                 -
+  12-12-2023 02:39:08:511:281         passed window size to drone                                 -
+  12-12-2023 02:39:08:511:404                            yMax_now                                 53
+  12-12-2023 02:39:08:511:523                            xMax_now                                 78
+  12-12-2023 02:39:08:513:983                      dronePositionY                                 15
+  12-12-2023 02:39:08:514:119                      dronePositionX                                 15
+  12-12-2023 02:39:08:616:546                          user input                                 -1
+  12-12-2023 02:39:08:616:691               passed input to drone                                 -
+  12-12-2023 02:39:08:616:876         passed window size to drone                                 -
+  12-12-2023 02:39:08:616:983                            yMax_now                                 53
+   12-12-2023 02:39:08:617:87                            xMax_now                                 78
+  12-12-2023 02:39:08:619:373                      dronePositionY                                 15
+  12-12-2023 02:39:08:619:463                      dronePositionX                                 15
+  12-12-2023 02:39:08:721:746                          user input                                 -1
+  12-12-2023 02:39:08:721:883               passed input to drone                                 -
+    12-12-2023 02:39:08:722:9         passed window size to drone                                 -
+   12-12-2023 02:39:08:722:75                            yMax_now                                 53
+  12-12-2023 02:39:08:722:137                            xMax_now                                 78
+  12-12-2023 02:39:08:724:348                      dronePositionY                                 15
+  12-12-2023 02:39:08:724:427                      dronePositionX                                 15

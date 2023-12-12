@@ -1,0 +1,10 @@
+{
+  "name": "C Launch",
+  "type": "cppdbg",
+  "request": "launch",
+  "program": "${workspaceRoot}/Robotics_Masters/Advanced_Robot_Programming/Assignments/Assignment_1/*",
+  "cwd": "${workspaceRoot}",
+  "environment": [],
+  "preLaunchTask": "cppbuild"
+}
+
