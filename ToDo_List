@@ -1,0 +1,8 @@
+To-Do List ARP Assignment 2:
+1. Create header files to make the code compact
+2. Change the window resize logic to one of rescaling
+3. Go over OOP in C and come up with a logic for obstacle and target generation
+4. Modify the dynamic equation to account for the repulsive forces by the obstacles and border
+5. Create a seperate keyboard manager to extract the input forces according to user input
+6. Change all the IPCs used to pipes
+7. Learn about make files to create a comprehensive one for the 2nd assignment
