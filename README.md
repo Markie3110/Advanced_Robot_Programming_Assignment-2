@@ -16,8 +16,6 @@ Table of Contents
 4. [How to Run](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#how-to-run)
 5. [Operational instructions](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#operational-instructions)
 6. [Known Errors](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#known-errors)
-7. [Authors Notes](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#authors-notes)
-
 
 Architecture
 ----------------------
@@ -44,7 +42,7 @@ The server is the first of the core processes to be run by the parent. Its role 
 The server runs in a loop with a time interval until it receives a terminate signal (`SIGTERM`) either from the watchdog, or due to a user input.
 
 ### User interface ###
-The user interface is the frontend process for the entire system. It is the location where all the inputs from the user are gathered, as well as where all the visual outputs to the user are depicted. The process first creates a graphical user interface with the help of the `ncurses` library, consisting of two windows: one drone window, to depict the virtual environement the drone moves in, and an inspector window, that displays the drone's position numerically. Subsequently, the process enters a loop where in each iteration, it looks to see if the user has given any key inputs using the `wgetch()` function, following which it passes on the acquired keyvalue to the shared memory. Given that there may be times the user does not provide any input, to ensure that the `wgetch()` function does not block each iteration of the loop indefinetely waiting for it, we also use the `wtimeout()` function, which specifies a maximum time interval `wgetch()` should wait for, at the end of which the execution is continued. Besides passing keyvalues, the UI also reads the latest drone position from the shared memory and depicts it as such. 
+The user interface is the frontend process for the entire system. It is the location where all the inputs from the user are gathered, as well as where all the visual outputs to the user are depicted. The process first creates a graphical user interface with the help of the `ncurses` library, consisting of two windows: one drone window, to depict the virtual environement the drone moves in, and an inspector window, that displays the drone's position numerically. Subsequently, the process enters a loop where in each iteration, it looks to see if the user has given any key inputs using the `wgetch()` function, following which it passes on the acquired keyvalue to the drone via the server. Given that there may be times the user does not provide any input, to ensure that the `wgetch()` function does not block each iteration of the loop indefinetely waiting for it, we also use the `wtimeout()` function, which specifies a maximum time interval `wgetch()` should wait for, at the end of which the execution is continued. Besides passing keyvalues, the UI also reads the latest drone, targets and obstacle positions from the server and depicts them as such. In the event that all targets have been collected, the UI displays a game end message.
 
 ### Drone ###
 The drone is the process in which the dynamical behaviour of the drone has been modelled. The equation describing the drone movement have been taken as follows:
@@ -61,10 +59,15 @@ x_i = {{F*T^2 - M*x_{i-2} + 2*M*x_{i-1} + K*T*x_{i-1}} \over {M + K*T}}
 ```math
 y_i = {{F*T^2 - M*y_{i-2} + 2*M*y_{i-1} + K*T*y_{i-1}} \over {M + K*T}}
 ```
-Like the UI, the drone process runs in a loop and receives the keypressed values given by the user. Depending on the value of the key, the input force in either axis is either incremented or decremented. Subsequently, the drone position is calculated using the current values of the input forces and is passed on to the shared memory. Do note, that if the drone is moving and the user pushes the stop key, the drone does not stop immediately, but keeps on moving for a small duration due to inertia.
+Like the UI, the drone process runs in a loop and receives the keypressed values given by the user. Depending on the value of the key, the input force in either axis is either incremented or decremented. Besides the keypressed values, the drone also monitors the positions of the obstacles and borders with respect to the drone, and models the repulsive forces instilled by these objects based on the distance and speed of the drone.
+Subsequently, the drone position is calculated using the current values of the input and repulsive forces and is passed on to the server. Do note, that if the drone is moving and the user pushes the stop key, the drone does not stop immediately, but keeps on moving for a small duration due to inertia.
 
 ### Watchdog ###
-The watchdog is the process that oversees the overall system behaviour by observing all the processes and terminating everything if any of them encounter a critical error. During their intialization, every process sends their pids to the watchdog using named pipes, which in turn conveys its own pid to them using a shared memory object. Using these pids, the watchdog sends a `SIGUSR1` signal to a process, which in turn is supposed to send back a `SIGUSR2` signal if it is working properly. The watchdog waits for upto three cycles, characterised by a time duration, for a response. If the process does not return the required signal within the required number of cycles, the watchdog takes this to mean that the process has encountered a critical error and subsequently terminates all the running processes. On the other hand, if the signal is received within the specificied time, the watchdog moves on to the next process. Once the watchdog reaches the final pid, it returns back to the first and starts over until the user terminates the system.
+The watchdog is the process that oversees the overall system behaviour by observing all the processes and terminating everything if any of them encounter a critical error. During their initialization, every process sends their pids to the watchdog using unnamed pipes, which in turn conveys its own pid to them in the same manner. Using these pids, the watchdog sends a `SIGUSR1` signal to a process, which in turn is supposed to send back a `SIGUSR2` signal if it is working properly. The watchdog waits for upto eight cycles, characterised by a time duration, for a response. If the process does not return the required signal within the required number of cycles, the watchdog takes this to mean that the process has encountered a critical error and subsequently terminates all the running processes. On the other hand, if the signal is received within the specificied time, the watchdog moves on to the next process. Once the watchdog reaches the final pid, it returns back to the first and starts over until the user terminates the system.
+
+### Targets ###
+
+### Obstacles ###
 
 ### Parameters ###
 The parameter file contains a set of constants that are used by the processes, stored in one compact location.
@@ -120,9 +123,3 @@ The keys represent the following movements for the drone
 Known Errors
 ----------------------
 Occassionaly, the simulator may hang or crash after executing `make` due to one or more shared memory objects or FIFOs not being initialized properly. In such a situation simply terminate the current program execution using CTRL+C, and call `make` again. 
-
-Authors Notes
-----------------------
-In subsequent iterations of the project, the following improvements will be attempted to be implemented:
-1. At present, there is a large amount of code repetiton present across several of the files, particularly when it comes to the creaton of IPC methods such as the FIFOs and shared memory. A special header file can be created to cover repetitive IPC creation.
-2. The watchdog contains a `sleep()` function call that makes the watchdog wait for a small duration to ensure that the watchdog does not send a signal before the processes have read the watchdog pid from shared memory. A better implementation would be to have a synchronisation mechanism in which the watchdog sends the signals only when the processes have completed the crucial reading of the watchdog's pid.
