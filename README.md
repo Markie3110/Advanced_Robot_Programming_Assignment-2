@@ -10,12 +10,11 @@ The following work has been performed by Mark Henry Dsouza.
 
 Table of Contents
 ----------------------
-1. [Architecture](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#architecture)
-2. [Overview](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#overview)
-3. [Installation](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#installation)
-4. [How to Run](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#how-to-run)
-5. [Operational instructions](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#operational-instructions)
-6. [Known Errors](https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2#known-errors)
+1. [Architecture](https://github.com/Markie3110/Advanced_Robot_Programming_Assignment-2/tree/main?tab=readme-ov-file#architecture)
+2. [Overview](https://github.com/Markie3110/Advanced_Robot_Programming_Assignment-2/tree/main?tab=readme-ov-file#overview)
+3. [Installation](https://github.com/Markie3110/Advanced_Robot_Programming_Assignment-2/tree/main?tab=readme-ov-file#installation)
+4. [How to Run](https://github.com/Markie3110/Advanced_Robot_Programming_Assignment-2/tree/main?tab=readme-ov-file#how-to-run)
+6. [Known Errors](https://github.com/Markie3110/Advanced_Robot_Programming_Assignment-2/tree/main?tab=readme-ov-file#known-errors)
 
 Architecture
 ----------------------
