@@ -66,8 +66,10 @@ Subsequently, the drone position is calculated using the current values of the i
 The watchdog is the process that oversees the overall system behaviour by observing all the processes and terminating everything if any of them encounter a critical error. During their initialization, every process sends their pids to the watchdog using unnamed pipes, which in turn conveys its own pid to them in the same manner. Using these pids, the watchdog sends a `SIGUSR1` signal to a process, which in turn is supposed to send back a `SIGUSR2` signal if it is working properly. The watchdog waits for upto eight cycles, characterised by a time duration, for a response. If the process does not return the required signal within the required number of cycles, the watchdog takes this to mean that the process has encountered a critical error and subsequently terminates all the running processes. On the other hand, if the signal is received within the specificied time, the watchdog moves on to the next process. Once the watchdog reaches the final pid, it returns back to the first and starts over until the user terminates the system.
 
 ### Targets ###
+Targets is the process that generates a random number of goals/prizes for the drone to catch. Both the target count and position, is created by seeding the `srandom()` function using the current time, and then subsequently extracting the required random numbers using `random()`. The process is also responsible for monitoring the position of the drone and disabling/removing targets whenever the drone goes over them. As such, like the other processes, it runs in a timed loop, where in every iteration it extracts the latest drone position, updates the targets positions and subsequently sends them to the server, from where it is passed on to the UI for display.
 
 ### Obstacles ###
+Obstacles is the process that generates a random number of obstacles that will repulse the drone. Like targets, it too uses the `srandom()` and `random()` functions to randomly generate the obstacle count and positions. However, do note, that unlike targets, this process of randomisation is periodic, with the number and positions of the obstacles constantly varying. The obstacle process also keeps a track of the drone positions. Whenever a new set of obstacles is created, any obstacle that is within a certain threshold of the drone position is discarded so as to not push the drone abruptly.
 
 ### Parameters ###
 The parameter file contains a set of constants that are used by the processes, stored in one compact location.
@@ -83,7 +85,7 @@ The core content of the project can be found in the folder "Assignment_2". To do
 1. Using git from your local system<br>
 To download the repo using git simply go to your terminal and go to the root directory of your system. Type the following command to clone the repository:
 ```bash
-$ git clone "https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2"
+$ git clone "git@github.com:Markie3110/Advanced_Robot_Programming_Assignment-2.git"
 ```
 
 2. Download the .zip from Github<br>
