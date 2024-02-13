@@ -32,14 +32,16 @@ As depicted in the architecture, the system consists of 7 core processes, namely
 Main is the parent process of the entire system and is solely responsible for executing each and every individual process required by the simulator. It does this by repeatedly forking itself using the `fork()` function, and then executing each process within the newly created child with `execvp()`. Once all the necessary processes have been created, main waits until all the created children have ended their execution, following which it itself is terminated.
 
 ### Server ###
-The server is the first of the core processes to be run by the parent. Its role is to create and allocate shared memory spaces that will subsequently be used by the different processes to transfer data, along with any necessary semaphores needed for the same. Given below are the different variables transfered using the shared memory objects, along with their respective producers and consumers:
+The server is the first of the core processes to be run by the parent. Its role is to maintain the latest state of the simulator, by continously checking for updates from the individual processes (polling) and transmitting them whenever needed via unnamed pipes. Given below are the different variables transfered using the pipes, along with their respective producers and consumers (barring the server which is the main enabler of communication and as such sees most of the data being used):
 | Variable | Producer Process | Consumer Processes |
 | --- | --- | --- |
-| Watchdog PID | watchdog | server, UI, drone |
-| Window Size | UI | drone |
-| Drone Position | drone | UI |
+| Watchdog PID | watchdog | server, UI, drone, targets, obstacles|
+| Drone Position | drone | UI, targets, obstacles|
+| User Input | UI | drone |
+| Target Positions| targets | UI |
+| Obstacle Positions | obstacles | UI, drone |
 
-Once the shared memory objects have been created, the server runs in a loop with a time interval until it receives a terminate signal (`SIGTERM`) either from the watchdog, or due to a user input.
+The server runs in a loop with a time interval until it receives a terminate signal (`SIGTERM`) either from the watchdog, or due to a user input.
 
 ### User interface ###
 The user interface is the frontend process for the entire system. It is the location where all the inputs from the user are gathered, as well as where all the visual outputs to the user are depicted. The process first creates a graphical user interface with the help of the `ncurses` library, consisting of two windows: one drone window, to depict the virtual environement the drone moves in, and an inspector window, that displays the drone's position numerically. Subsequently, the process enters a loop where in each iteration, it looks to see if the user has given any key inputs using the `wgetch()` function, following which it passes on the acquired keyvalue to the shared memory. Given that there may be times the user does not provide any input, to ensure that the `wgetch()` function does not block each iteration of the loop indefinetely waiting for it, we also use the `wtimeout()` function, which specifies a maximum time interval `wgetch()` should wait for, at the end of which the execution is continued. Besides passing keyvalues, the UI also reads the latest drone position from the shared memory and depicts it as such. 
