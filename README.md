@@ -22,7 +22,7 @@ Table of Contents
 Architecture
 ----------------------
 Shown here is the software architecture of the system depicting the parent/child relationships as well as interprocess communications used.<br>
-![Architecture](Assignment_2_Architecture.png)
+![Architecture](Assignment2_Architecture.png)
 
 Overview
 ----------------------
