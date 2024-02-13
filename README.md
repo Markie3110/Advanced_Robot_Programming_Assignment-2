@@ -73,29 +73,27 @@ The watchdog is the process that oversees the overall system behaviour by observ
 The parameter file contains a set of constants that are used by the processes, stored in one compact location.
 
 ### Log ###
-The log parameter file defines a series of functions that allow the processes to open and edit log files during runtime.
+The log parameter file defines a series of functions that allow the processes to open and edit log files during runtime. The log files can be found via the following path: 'Assignment_2/src/include/log/'.
 
 
 Installation
 ----------------------
-The core content of the project can be found in the folder "Assignment_1". To download the repository's contents to your local system you can do one of the following:
+The core content of the project can be found in the folder "Assignment_2". To download the repository's contents to your local system you can do one of the following:
 
 1. Using git from your local system<br>
 To download the repo using git simply go to your terminal and go to the root directory of your system. Type the following command to clone the repository:
 ```bash
-$ git clone "https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_1"
+$ git clone "https://github.com/Markie3110/Advanced_Robot_Programming-Assignment_2"
 ```
 
 2. Download the .zip from Github<br>
-In a browser go to the repository on Github and download the .zip file available in the code dropdown box found at the top right. Unzip the file to access the contents and store the Assignment_1 folder in your root directory.<br><br>
-**NOTE:** Due to the use of named FIFOs with paths, it is important that the Assignment_1 folder is stored in the root directory of your system. There should be no intermediary folders between the root and Assignment_1
-folder or else the system will not run. The directory the processes are executed in is displayed in the konsole terminal for every process. Ensure that the folder is stored only in the path mentioned in the terminal.
-
+In a browser go to the repository on Github and download the .zip file available in the code dropdown box found at the top right. Unzip the file to access the contents and store the Assignment_2 folder in a directory of your choice.<br><br>
 
 How to Run
 ----------------------
-To both build the executables and run the system, navigate to the src folder within a terminal and type in the following command:
+To both build the executables and run the system, execute the following commands in the terminal from within the 'Advanced_Robot_Programming_Assignment_2' directory: 
 ```bash
+cd Assignment_2/
 make
 ```
 The simulator should compile and then execute.
@@ -122,4 +120,4 @@ The keys represent the following movements for the drone
 
 Known Errors
 ----------------------
-Occassionaly, the simulator may hang or crash after executing `make` due to one or more shared memory objects or FIFOs not being initialized properly. In such a situation simply terminate the current program execution using CTRL+C, and call `make` again. 
+In rare occassions, the simulator may hang or crash after executing `make`. In such a situation simply terminate the current program execution using CTRL+C, and call `make` again. 
