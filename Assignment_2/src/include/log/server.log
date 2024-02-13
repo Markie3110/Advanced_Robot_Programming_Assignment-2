@@ -1,0 +1,1341 @@
+                     DATE/TIME                   MESSAGE/VARIABLE                               DATA
+  10-02-2024 21:50:53:926:449                sent pid to watchdog                                 -
+  10-02-2024 21:51:00:465:337               received watchdog pid                                 -
+  10-02-2024 21:51:00:465:431                        watchdog_pid                              65451
+  10-02-2024 21:51:00:565:627            Server performed 1 cycle                                 -
+  10-02-2024 21:51:00:565:762                     keypressedValue                                  0
+  10-02-2024 21:51:00:565:820                      dronePositionY                                 15
+  10-02-2024 21:51:00:565:873                      dronePositionX                                 15
+  10-02-2024 21:51:00:666:154            Server performed 1 cycle                                 -
+  10-02-2024 21:51:00:666:270                     keypressedValue                                 -1
+  10-02-2024 21:51:00:666:330                      dronePositionY                                 15
+  10-02-2024 21:51:00:666:382                      dronePositionX                                 15
+  10-02-2024 21:51:00:766:607            Server performed 1 cycle                                 -
+  10-02-2024 21:51:00:766:663                     keypressedValue                                 -1
+  10-02-2024 21:51:00:766:683                      dronePositionY                                 15
+  10-02-2024 21:51:00:766:702                      dronePositionX                                 15
+  10-02-2024 21:51:00:866:926            Server performed 1 cycle                                 -
+   10-02-2024 21:51:00:867:32                     keypressedValue                                 -1
+   10-02-2024 21:51:00:867:89                      dronePositionY                                 15
+  10-02-2024 21:51:00:867:141                      dronePositionX                                 15
+  10-02-2024 21:51:00:967:655            Server performed 1 cycle                                 -
+  10-02-2024 21:51:00:967:798                     keypressedValue                                 -1
+  10-02-2024 21:51:00:967:862                      dronePositionY                                 15
+  10-02-2024 21:51:00:967:921                      dronePositionX                                 15
+   10-02-2024 21:51:01:68:467            Server performed 1 cycle                                 -
+   10-02-2024 21:51:01:68:600                     keypressedValue                                 -1
+   10-02-2024 21:51:01:68:665                      dronePositionY                                 15
+   10-02-2024 21:51:01:68:724                      dronePositionX                                 15
+   10-02-2024 21:51:01:169:83            Server performed 1 cycle                                 -
+  10-02-2024 21:51:01:169:212                     keypressedValue                                 -1
+  10-02-2024 21:51:01:169:270                      dronePositionY                                 15
+  10-02-2024 21:51:01:169:322                      dronePositionX                                 15
+  10-02-2024 21:51:01:269:882            Server performed 1 cycle                                 -
+   10-02-2024 21:51:01:270:58                     keypressedValue                                 -1
+  10-02-2024 21:51:01:270:125                      dronePositionY                                 15
+  10-02-2024 21:51:01:270:185                      dronePositionX                                 15
+  10-02-2024 21:51:01:370:714            Server performed 1 cycle                                 -
+  10-02-2024 21:51:01:370:851                     keypressedValue                                 -1
+  10-02-2024 21:51:01:370:917                      dronePositionY                                 15
+  10-02-2024 21:51:01:370:977                      dronePositionX                                 15
+  10-02-2024 21:51:01:466:354            Server performed 1 cycle                                 -
+  10-02-2024 21:51:01:466:498                     keypressedValue                                 -1
+  10-02-2024 21:51:01:466:557                      dronePositionY                                 15
+  10-02-2024 21:51:01:466:610                      dronePositionX                                 15
+  10-02-2024 21:51:01:567:148            Server performed 1 cycle                                 -
+  10-02-2024 21:51:01:567:278                     keypressedValue                                 -1
+  10-02-2024 21:51:01:567:342                      dronePositionY                                 15
+  10-02-2024 21:51:01:567:402                      dronePositionX                                 15
+  10-02-2024 21:51:01:667:934            Server performed 1 cycle                                 -
+   10-02-2024 21:51:01:668:61                     keypressedValue                                 -1
+  10-02-2024 21:51:01:668:119                      dronePositionY                                 15
+  10-02-2024 21:51:01:668:173                      dronePositionX                                 15
+  10-02-2024 21:51:01:768:973            Server performed 1 cycle                                 -
+   10-02-2024 21:51:01:769:95                     keypressedValue                                 -1
+  10-02-2024 21:51:01:769:154                      dronePositionY                                 15
+  10-02-2024 21:51:01:769:206                      dronePositionX                                 15
+  10-02-2024 21:51:01:869:469            Server performed 1 cycle                                 -
+  10-02-2024 21:51:01:869:597                     keypressedValue                                 -1
+  10-02-2024 21:51:01:869:654                      dronePositionY                                 15
+  10-02-2024 21:51:01:869:705                      dronePositionX                                 15
+  10-02-2024 21:51:01:970:515            Server performed 1 cycle                                 -
+  10-02-2024 21:51:01:970:635                     keypressedValue                                 -1
+  10-02-2024 21:51:01:970:694                      dronePositionY                                 15
+  10-02-2024 21:51:01:970:775                      dronePositionX                                 15
+   10-02-2024 21:51:02:71:320            Server performed 1 cycle                                 -
+   10-02-2024 21:51:02:71:461                     keypressedValue                                 -1
+   10-02-2024 21:51:02:71:526                      dronePositionY                                 15
+   10-02-2024 21:51:02:71:585                      dronePositionX                                 15
+  10-02-2024 21:51:02:171:858            Server performed 1 cycle                                 -
+    10-02-2024 21:51:02:172:1                     keypressedValue                                 -1
+   10-02-2024 21:51:02:172:67                      dronePositionY                                 15
+  10-02-2024 21:51:02:172:126                      dronePositionX                                 15
+  10-02-2024 21:51:02:272:681            Server performed 1 cycle                                 -
+  10-02-2024 21:51:02:272:801                     keypressedValue                                 -1
+  10-02-2024 21:51:02:272:862                      dronePositionY                                 15
+  10-02-2024 21:51:02:272:914                      dronePositionX                                 15
+  10-02-2024 21:51:02:373:487            Server performed 1 cycle                                 -
+  10-02-2024 21:51:02:373:628                     keypressedValue                                 -1
+  10-02-2024 21:51:02:373:693                      dronePositionY                                 15
+  10-02-2024 21:51:02:373:751                      dronePositionX                                 15
+  10-02-2024 21:51:02:474:562            Server performed 1 cycle                                 -
+  10-02-2024 21:51:02:474:694                     keypressedValue                                 -1
+  10-02-2024 21:51:02:474:818                      dronePositionY                                 15
+  10-02-2024 21:51:02:474:880                      dronePositionX                                 15
+  10-02-2024 21:51:02:575:378            Server performed 1 cycle                                 -
+  10-02-2024 21:51:02:575:520                     keypressedValue                                 -1
+  10-02-2024 21:51:02:575:585                      dronePositionY                                 15
+  10-02-2024 21:51:02:575:645                      dronePositionX                                 15
+  10-02-2024 21:51:02:675:918            Server performed 1 cycle                                 -
+   10-02-2024 21:51:02:676:59                     keypressedValue                                 -1
+  10-02-2024 21:51:02:676:123                      dronePositionY                                 15
+  10-02-2024 21:51:02:676:181                      dronePositionX                                 15
+  10-02-2024 21:51:02:776:716            Server performed 1 cycle                                 -
+  10-02-2024 21:51:02:776:841                     keypressedValue                                 -1
+  10-02-2024 21:51:02:776:900                      dronePositionY                                 15
+  10-02-2024 21:51:02:776:954                      dronePositionX                                 15
+  10-02-2024 21:51:02:877:535            Server performed 1 cycle                                 -
+  10-02-2024 21:51:02:877:665                     keypressedValue                                 -1
+  10-02-2024 21:51:02:877:723                      dronePositionY                                 15
+  10-02-2024 21:51:02:877:776                      dronePositionX                                 15
+  10-02-2024 21:51:02:978:587            Server performed 1 cycle                                 -
+  10-02-2024 21:51:02:978:718                     keypressedValue                                 -1
+  10-02-2024 21:51:02:978:814                      dronePositionY                                 15
+  10-02-2024 21:51:02:978:876                      dronePositionX                                 15
+   10-02-2024 21:51:03:79:399            Server performed 1 cycle                                 -
+   10-02-2024 21:51:03:79:541                     keypressedValue                                 -1
+   10-02-2024 21:51:03:79:606                      dronePositionY                                 15
+   10-02-2024 21:51:03:79:665                      dronePositionX                                 15
+  10-02-2024 21:51:03:180:215            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:180:355                     keypressedValue                                 -1
+  10-02-2024 21:51:03:180:420                      dronePositionY                                 15
+  10-02-2024 21:51:03:180:479                      dronePositionX                                 15
+  10-02-2024 21:51:03:280:815            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:280:945                     keypressedValue                                 -1
+    10-02-2024 21:51:03:281:9                      dronePositionY                                 15
+   10-02-2024 21:51:03:281:67                      dronePositionX                                 15
+  10-02-2024 21:51:03:381:624            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:381:764                     keypressedValue                                 -1
+  10-02-2024 21:51:03:381:831                      dronePositionY                                 15
+  10-02-2024 21:51:03:381:892                      dronePositionX                                 15
+  10-02-2024 21:51:03:482:724            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:482:845                     keypressedValue                                 -1
+  10-02-2024 21:51:03:482:953                      dronePositionY                                 15
+    10-02-2024 21:51:03:483:9                      dronePositionX                                 15
+  10-02-2024 21:51:03:583:554            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:583:694                     keypressedValue                                 -1
+  10-02-2024 21:51:03:583:759                      dronePositionY                                 15
+  10-02-2024 21:51:03:583:819                      dronePositionX                                 15
+  10-02-2024 21:51:03:684:363            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:684:502                     keypressedValue                                 -1
+  10-02-2024 21:51:03:684:566                      dronePositionY                                 15
+  10-02-2024 21:51:03:684:626                      dronePositionX                                 15
+  10-02-2024 21:51:03:785:175            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:785:294                     keypressedValue                                 -1
+  10-02-2024 21:51:03:785:352                      dronePositionY                                 15
+  10-02-2024 21:51:03:785:405                      dronePositionX                                 15
+   10-02-2024 21:51:03:886:12            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:886:142                     keypressedValue                                 -1
+  10-02-2024 21:51:03:886:203                      dronePositionY                                 15
+  10-02-2024 21:51:03:886:259                      dronePositionX                                 15
+   10-02-2024 21:51:03:987:66            Server performed 1 cycle                                 -
+  10-02-2024 21:51:03:987:196                     keypressedValue                                 -1
+  10-02-2024 21:51:03:987:262                      dronePositionY                                 15
+  10-02-2024 21:51:03:987:351                      dronePositionX                                 15
+   10-02-2024 21:51:04:87:877            Server performed 1 cycle                                 -
+    10-02-2024 21:51:04:88:16                     keypressedValue                                 -1
+    10-02-2024 21:51:04:88:81                      dronePositionY                                 15
+   10-02-2024 21:51:04:88:139                      dronePositionX                                 15
+  10-02-2024 21:51:04:188:688            Server performed 1 cycle                                 -
+  10-02-2024 21:51:04:188:829                     keypressedValue                                 -1
+  10-02-2024 21:51:04:188:895                      dronePositionY                                 15
+  10-02-2024 21:51:04:188:953                      dronePositionX                                 15
+  10-02-2024 21:51:04:289:505            Server performed 1 cycle                                 -
+  10-02-2024 21:51:04:289:626                     keypressedValue                                 -1
+  10-02-2024 21:51:04:289:684                      dronePositionY                                 15
+  10-02-2024 21:51:04:289:736                      dronePositionX                                 15
+  10-02-2024 21:51:04:390:310            Server performed 1 cycle                                 -
+  10-02-2024 21:51:04:390:439                     keypressedValue                                 -1
+  10-02-2024 21:51:04:390:496                      dronePositionY                                 15
+  10-02-2024 21:51:04:390:549                      dronePositionX                                 15
+  10-02-2024 21:51:04:491:348            Server performed 1 cycle                                 -
+  10-02-2024 21:51:04:491:481                     keypressedValue                                 -1
+  10-02-2024 21:51:04:491:547                      dronePositionY                                 15
+  10-02-2024 21:51:04:491:665                      dronePositionX                                 15
+  10-02-2024 21:51:04:592:161            Server performed 1 cycle                                 -
+  10-02-2024 21:51:04:592:291                     keypressedValue                                 -1
+  10-02-2024 21:51:04:592:350                      dronePositionY                                 15
+  10-02-2024 21:51:04:592:405                      dronePositionX                                 15
+  10-02-2024 21:51:04:692:962            Server performed 1 cycle                                 -
+   10-02-2024 21:51:04:693:99                     keypressedValue                                 -1
+  10-02-2024 21:51:04:693:164                      dronePositionY                                 15
+  10-02-2024 21:51:04:693:224                      dronePositionX                                 15
+  10-02-2024 21:51:04:793:778            Server performed 1 cycle                                 -
+  10-02-2024 21:51:04:793:959                     keypressedValue                                 -1
+  10-02-2024 21:51:04:796:799                      dronePositionY                                 15
+  10-02-2024 21:51:04:796:900                      dronePositionX                                 15
+  10-02-2024 21:51:04:897:110            Server performed 1 cycle                                 -
+  10-02-2024 21:51:04:897:256                     keypressedValue                                 -1
+  10-02-2024 21:51:04:897:334                      dronePositionY                                 15
+  10-02-2024 21:51:04:897:393                      dronePositionX                                 15
+  10-02-2024 21:51:04:998:188            Server performed 1 cycle                                 -
+  10-02-2024 21:51:04:998:331                     keypressedValue                                 -1
+  10-02-2024 21:51:04:998:430                      dronePositionY                                 15
+  10-02-2024 21:51:04:998:492                      dronePositionX                                 15
+     10-02-2024 21:51:05:99:2            Server performed 1 cycle                                 -
+   10-02-2024 21:51:05:99:147                     keypressedValue                                 -1
+   10-02-2024 21:51:05:99:245                      dronePositionY                                 15
+   10-02-2024 21:51:05:99:349                      dronePositionX                                 15
+  10-02-2024 21:51:05:199:815            Server performed 1 cycle                                 -
+  10-02-2024 21:51:05:199:959                     keypressedValue                                 -1
+   10-02-2024 21:51:05:200:26                      dronePositionY                                 15
+   10-02-2024 21:51:05:200:86                      dronePositionX                                 15
+  10-02-2024 21:51:05:300:393            Server performed 1 cycle                                 -
+  10-02-2024 21:51:05:300:523                     keypressedValue                                 -1
+  10-02-2024 21:51:05:300:583                      dronePositionY                                 15
+  10-02-2024 21:51:05:300:637                      dronePositionX                                 15
+  10-02-2024 21:51:05:401:194            Server performed 1 cycle                                 -
+  10-02-2024 21:51:05:401:339                     keypressedValue                                 -1
+  10-02-2024 21:51:05:401:405                      dronePositionY                                 15
+  10-02-2024 21:51:05:401:466                      dronePositionX                                 15
+  10-02-2024 21:51:05:502:210            Server performed 1 cycle                                 -
+  10-02-2024 21:51:05:502:359                     keypressedValue                                 -1
+  10-02-2024 21:51:05:502:478                      dronePositionY                                 15
+  10-02-2024 21:51:05:502:538                      dronePositionX                                 15
+   10-02-2024 21:51:05:603:27            Server performed 1 cycle                                 -
+  10-02-2024 21:51:05:603:156                     keypressedValue                                 -1
+  10-02-2024 21:51:05:603:242                      dronePositionY                                 15
+  10-02-2024 21:51:05:603:332                      dronePositionX                                 15
+  10-02-2024 21:51:05:703:845            Server performed 1 cycle                                 -
+  10-02-2024 21:51:05:703:989                     keypressedValue                                 -1
+   10-02-2024 21:51:05:704:56                      dronePositionY                                 15
+  10-02-2024 21:51:05:704:116                      dronePositionX                                 15
+  10-02-2024 21:51:05:804:657            Server performed 1 cycle                                 -
+  10-02-2024 21:51:05:804:792                     keypressedValue                                 -1
+  10-02-2024 21:51:05:804:852                      dronePositionY                                 15
+  10-02-2024 21:51:05:804:906                      dronePositionX                                 15
+  10-02-2024 21:51:05:905:223            Server performed 1 cycle                                 -
+  10-02-2024 21:51:05:905:367                     keypressedValue                                 -1
+  10-02-2024 21:51:05:905:434                      dronePositionY                                 15
+  10-02-2024 21:51:05:905:494                      dronePositionX                                 15
+    10-02-2024 21:51:06:6:235            Server performed 1 cycle                                 -
+    10-02-2024 21:51:06:6:365                     keypressedValue                                 -1
+    10-02-2024 21:51:06:6:452                      dronePositionY                                 15
+    10-02-2024 21:51:06:6:507                      dronePositionX                                 15
+   10-02-2024 21:51:06:107:44            Server performed 1 cycle                                 -
+  10-02-2024 21:51:06:107:180                     keypressedValue                                 -1
+  10-02-2024 21:51:06:107:267                      dronePositionY                                 15
+  10-02-2024 21:51:06:107:361                      dronePositionX                                 15
+  10-02-2024 21:51:06:207:863            Server performed 1 cycle                                 -
+    10-02-2024 21:51:06:208:6                     keypressedValue                                 -1
+   10-02-2024 21:51:06:208:71                      dronePositionY                                 15
+  10-02-2024 21:51:06:208:133                      dronePositionX                                 15
+  10-02-2024 21:51:06:308:690            Server performed 1 cycle                                 -
+  10-02-2024 21:51:06:308:825                     keypressedValue                                 -1
+  10-02-2024 21:51:06:308:884                      dronePositionY                                 15
+  10-02-2024 21:51:06:308:939                      dronePositionX                                 15
+  10-02-2024 21:51:06:409:501            Server performed 1 cycle                                 -
+  10-02-2024 21:51:06:409:635                     keypressedValue                                 -1
+  10-02-2024 21:51:06:409:698                      dronePositionY                                 15
+  10-02-2024 21:51:06:409:753                      dronePositionX                                 15
+  10-02-2024 21:51:06:510:519            Server performed 1 cycle                                 -
+  10-02-2024 21:51:06:510:654                     keypressedValue                                 -1
+  10-02-2024 21:51:06:510:746                      dronePositionY                                 15
+  10-02-2024 21:51:06:510:802                      dronePositionX                                 15
+  10-02-2024 21:51:06:611:115            Server performed 1 cycle                                 -
+  10-02-2024 21:51:06:611:261                     keypressedValue                                 -1
+  10-02-2024 21:51:06:611:363                      dronePositionY                                 15
+  10-02-2024 21:51:06:611:457                      dronePositionX                                 15
+  10-02-2024 21:51:06:711:741            Server performed 1 cycle                                 -
+  10-02-2024 21:51:06:711:872                     keypressedValue                                 -1
+  10-02-2024 21:51:06:711:936                      dronePositionY                                 15
+  10-02-2024 21:51:06:711:997                      dronePositionX                                 15
+  10-02-2024 21:51:06:812:401            Server performed 1 cycle                                 -
+  10-02-2024 21:51:06:812:538                     keypressedValue                                 -1
+  10-02-2024 21:51:06:812:598                      dronePositionY                                 15
+  10-02-2024 21:51:06:812:652                      dronePositionX                                 15
+  10-02-2024 21:51:06:912:939            Server performed 1 cycle                                 -
+   10-02-2024 21:51:06:913:72                     keypressedValue                                 -1
+  10-02-2024 21:51:06:913:137                      dronePositionY                                 15
+  10-02-2024 21:51:06:913:197                      dronePositionX                                 15
+   10-02-2024 21:51:07:13:972            Server performed 1 cycle                                 -
+   10-02-2024 21:51:07:14:108                     keypressedValue                                 -1
+   10-02-2024 21:51:07:14:197                      dronePositionY                                 15
+   10-02-2024 21:51:07:14:250                      dronePositionX                                 15
+  10-02-2024 21:51:07:114:780            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:114:914                     keypressedValue                                 -1
+  10-02-2024 21:51:07:114:996                      dronePositionY                                 15
+   10-02-2024 21:51:07:115:85                      dronePositionX                                 15
+  10-02-2024 21:51:07:215:421            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:215:550                     keypressedValue                                 -1
+  10-02-2024 21:51:07:215:616                      dronePositionY                                 15
+  10-02-2024 21:51:07:215:677                      dronePositionX                                 15
+  10-02-2024 21:51:07:316:169            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:316:314                     keypressedValue                                 -1
+  10-02-2024 21:51:07:316:382                      dronePositionY                                 15
+  10-02-2024 21:51:07:316:441                      dronePositionX                                 15
+  10-02-2024 21:51:07:416:761            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:416:895                     keypressedValue                                 -1
+  10-02-2024 21:51:07:416:956                      dronePositionY                                 15
+   10-02-2024 21:51:07:417:10                      dronePositionX                                 15
+  10-02-2024 21:51:07:517:278            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:517:463                     keypressedValue                                 -1
+  10-02-2024 21:51:07:517:543                      dronePositionY                                 15
+  10-02-2024 21:51:07:517:614                      dronePositionX                                 15
+  10-02-2024 21:51:07:617:891            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:618:126                     keypressedValue                                 -1
+  10-02-2024 21:51:07:618:214                      dronePositionY                                 15
+  10-02-2024 21:51:07:618:305                      dronePositionX                                 15
+  10-02-2024 21:51:07:718:588            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:718:733                     keypressedValue                                 -1
+  10-02-2024 21:51:07:718:811                      dronePositionY                                 15
+  10-02-2024 21:51:07:718:884                      dronePositionX                                 15
+  10-02-2024 21:51:07:819:201            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:819:361                     keypressedValue                                 -1
+  10-02-2024 21:51:07:819:454                      dronePositionY                                 15
+  10-02-2024 21:51:07:819:536                      dronePositionX                                 15
+  10-02-2024 21:51:07:919:817            Server performed 1 cycle                                 -
+  10-02-2024 21:51:07:919:986                     keypressedValue                                 -1
+   10-02-2024 21:51:07:920:79                      dronePositionY                                 15
+  10-02-2024 21:51:07:920:159                      dronePositionX                                 15
+   10-02-2024 21:51:08:20:725            Server performed 1 cycle                                 -
+   10-02-2024 21:51:08:20:913                     keypressedValue                                 -1
+     10-02-2024 21:51:08:21:1                      dronePositionY                                 15
+    10-02-2024 21:51:08:21:74                      dronePositionX                                 15
+  10-02-2024 21:51:08:121:442            Server performed 1 cycle                                 -
+  10-02-2024 21:51:08:121:612                     keypressedValue                                 -1
+  10-02-2024 21:51:08:121:707                      dronePositionY                                 15
+  10-02-2024 21:51:08:121:790                      dronePositionX                                 15
+  10-02-2024 21:51:08:222:253            Server performed 1 cycle                                 -
+  10-02-2024 21:51:08:222:420                     keypressedValue                                 -1
+  10-02-2024 21:51:08:222:517                      dronePositionY                                 15
+  10-02-2024 21:51:08:222:599                      dronePositionX                                 15
+   10-02-2024 21:51:08:323:65            Server performed 1 cycle                                 -
+  10-02-2024 21:51:08:323:223                     keypressedValue                                 -1
+  10-02-2024 21:51:08:323:306                      dronePositionY                                 15
+  10-02-2024 21:51:08:323:379                      dronePositionX                                 15
+  10-02-2024 21:51:08:423:701            Server performed 1 cycle                                 -
+  10-02-2024 21:51:08:423:849                     keypressedValue                                 -1
+  10-02-2024 21:51:08:423:927                      dronePositionY                                 15
+    10-02-2024 21:51:08:424:0                      dronePositionX                                 15
+  10-02-2024 21:51:08:524:584            Server performed 1 cycle                                 -
+  10-02-2024 21:51:08:524:770                     keypressedValue                                 -1
+  10-02-2024 21:51:08:524:881                      dronePositionY                                 15
+  10-02-2024 21:51:08:524:960                      dronePositionX                                 15
+  10-02-2024 21:51:08:625:241            Server performed 1 cycle                                 -
+  10-02-2024 21:51:08:625:387                     keypressedValue                                 -1
+  10-02-2024 21:51:08:625:500                      dronePositionY                                 15
+  10-02-2024 21:51:08:625:574                      dronePositionX                                 15
+  10-02-2024 21:51:08:725:891            Server performed 1 cycle                                 -
+   10-02-2024 21:51:08:726:93                     keypressedValue                                 -1
+  10-02-2024 21:51:08:726:180                      dronePositionY                                 15
+  10-02-2024 21:51:08:726:260                      dronePositionX                                 15
+  10-02-2024 21:51:08:826:592            Server performed 1 cycle                                 -
+  10-02-2024 21:51:08:826:738                     keypressedValue                                 -1
+  10-02-2024 21:51:08:826:816                      dronePositionY                                 15
+  10-02-2024 21:51:08:826:887                      dronePositionX                                 15
+  10-02-2024 21:51:08:927:185            Server performed 1 cycle                                 -
+  10-02-2024 21:51:08:927:333                     keypressedValue                                 -1
+  10-02-2024 21:51:08:927:410                      dronePositionY                                 15
+  10-02-2024 21:51:08:927:482                      dronePositionX                                 15
+   10-02-2024 21:51:09:27:964            Server performed 1 cycle                                 -
+   10-02-2024 21:51:09:28:150                     keypressedValue                                 -1
+   10-02-2024 21:51:09:28:235                      dronePositionY                                 15
+   10-02-2024 21:51:09:28:308                      dronePositionX                                 15
+  10-02-2024 21:51:09:128:769            Server performed 1 cycle                                 -
+  10-02-2024 21:51:09:128:924                     keypressedValue                                 -1
+    10-02-2024 21:51:09:129:9                      dronePositionY                                 15
+   10-02-2024 21:51:09:129:84                      dronePositionX                                 15
+  10-02-2024 21:51:09:229:576            Server performed 1 cycle                                 -
+  10-02-2024 21:51:09:229:747                     keypressedValue                                 -1
+  10-02-2024 21:51:09:229:844                      dronePositionY                                 15
+  10-02-2024 21:51:09:229:971                      dronePositionX                                 15
+  10-02-2024 21:51:09:330:579            Server performed 1 cycle                                 -
+  10-02-2024 21:51:09:330:748                     keypressedValue                                 -1
+  10-02-2024 21:51:09:330:831                      dronePositionY                                 15
+  10-02-2024 21:51:09:330:904                      dronePositionX                                 15
+  10-02-2024 21:51:09:431:175            Server performed 1 cycle                                 -
+  10-02-2024 21:51:09:431:326                     keypressedValue                                 -1
+  10-02-2024 21:51:09:431:413                      dronePositionY                                 15
+  10-02-2024 21:51:09:431:489                      dronePositionX                                 15
+  10-02-2024 21:51:09:532:128            Server performed 1 cycle                                 -
+  10-02-2024 21:51:09:532:333                     keypressedValue                                 -1
+  10-02-2024 21:51:09:532:428                      dronePositionY                                 15
+  10-02-2024 21:51:09:532:507                      dronePositionX                                 15
+  10-02-2024 21:51:09:632:842            Server performed 1 cycle                                 -
+    10-02-2024 21:51:09:633:0                     keypressedValue                                 -1
+  10-02-2024 21:51:09:633:119                      dronePositionY                                 15
+  10-02-2024 21:51:09:633:193                      dronePositionX                                 15
+  10-02-2024 21:51:09:733:650            Server performed 1 cycle                                 -
+  10-02-2024 21:51:09:733:822                     keypressedValue                                 -1
+  10-02-2024 21:51:09:733:957                      dronePositionY                                 15
+   10-02-2024 21:51:09:734:47                      dronePositionX                                 15
+  10-02-2024 21:51:09:834:465            Server performed 1 cycle                                 -
+  10-02-2024 21:51:09:834:627                     keypressedValue                                 -1
+  10-02-2024 21:51:09:836:684                      dronePositionY                                 15
+  10-02-2024 21:51:09:836:760                      dronePositionX                                 15
+   10-02-2024 21:51:09:937:34            Server performed 1 cycle                                 -
+  10-02-2024 21:51:09:937:154                     keypressedValue                                 -1
+  10-02-2024 21:51:09:937:212                      dronePositionY                                 15
+  10-02-2024 21:51:09:937:266                      dronePositionX                                 15
+   10-02-2024 21:51:10:36:215            Server performed 1 cycle                                 -
+   10-02-2024 21:51:10:36:365                     keypressedValue                                 -1
+   10-02-2024 21:51:10:36:444                      dronePositionY                                 15
+   10-02-2024 21:51:10:36:516                      dronePositionX                                 15
+  10-02-2024 21:51:10:136:796            Server performed 1 cycle                                 -
+  10-02-2024 21:51:10:136:958                     keypressedValue                                 -1
+   10-02-2024 21:51:10:137:55                      dronePositionY                                 15
+  10-02-2024 21:51:10:137:137                      dronePositionX                                 15
+  10-02-2024 21:51:10:237:427            Server performed 1 cycle                                 -
+  10-02-2024 21:51:10:237:586                     keypressedValue                                 -1
+  10-02-2024 21:51:10:237:683                      dronePositionY                                 15
+  10-02-2024 21:51:10:237:764                      dronePositionX                                 15
+   10-02-2024 21:51:10:338:46            Server performed 1 cycle                                 -
+  10-02-2024 21:51:10:338:193                     keypressedValue                                 -1
+  10-02-2024 21:51:10:338:272                      dronePositionY                                 15
+  10-02-2024 21:51:10:338:345                      dronePositionX                                 15
+  10-02-2024 21:51:10:438:669            Server performed 1 cycle                                 -
+  10-02-2024 21:51:10:438:837                     keypressedValue                                 -1
+  10-02-2024 21:51:10:438:926                      dronePositionY                                 15
+    10-02-2024 21:51:10:439:8                      dronePositionX                                 15
+  10-02-2024 21:51:10:539:578            Server performed 1 cycle                                 -
+  10-02-2024 21:51:10:539:780                     keypressedValue                                 -1
+  10-02-2024 21:51:10:539:877                      dronePositionY                                 15
+  10-02-2024 21:51:10:539:959                      dronePositionX                                 15
+  10-02-2024 21:51:10:640:250            Server performed 1 cycle                                 -
+  10-02-2024 21:51:10:640:421                     keypressedValue                                 -1
+  10-02-2024 21:51:10:640:517                      dronePositionY                                 15
+  10-02-2024 21:51:10:640:635                      dronePositionX                                 15
+  10-02-2024 21:51:10:740:925            Server performed 1 cycle                                 -
+   10-02-2024 21:51:10:741:87                     keypressedValue                                 -1
+  10-02-2024 21:51:10:741:175                      dronePositionY                                 15
+  10-02-2024 21:51:10:741:256                      dronePositionX                                 15
+  10-02-2024 21:51:10:841:585            Server performed 1 cycle                                 -
+  10-02-2024 21:51:10:841:733                     keypressedValue                                 -1
+  10-02-2024 21:51:10:841:809                      dronePositionY                                 15
+  10-02-2024 21:51:10:841:881                      dronePositionX                                 15
+  10-02-2024 21:51:10:942:238            Server performed 1 cycle                                 -
+  10-02-2024 21:51:10:942:401                     keypressedValue                                 -1
+  10-02-2024 21:51:10:942:493                      dronePositionY                                 15
+  10-02-2024 21:51:10:942:575                      dronePositionX                                 15
+   10-02-2024 21:51:11:43:205            Server performed 1 cycle                                 -
+   10-02-2024 21:51:11:43:392                     keypressedValue                                 -1
+   10-02-2024 21:51:11:43:478                      dronePositionY                                 15
+   10-02-2024 21:51:11:43:551                      dronePositionX                                 15
+   10-02-2024 21:51:11:144:16            Server performed 1 cycle                                 -
+  10-02-2024 21:51:11:144:171                     keypressedValue                                 -1
+  10-02-2024 21:51:11:144:256                      dronePositionY                                 15
+  10-02-2024 21:51:11:144:329                      dronePositionX                                 15
+  10-02-2024 21:51:11:244:828            Server performed 1 cycle                                 -
+  10-02-2024 21:51:11:244:998                     keypressedValue                                 -1
+   10-02-2024 21:51:11:245:93                      dronePositionY                                 15
+  10-02-2024 21:51:11:245:173                      dronePositionX                                 15
+  10-02-2024 21:51:11:345:544            Server performed 1 cycle                                 -
+  10-02-2024 21:51:11:345:716                     keypressedValue                                 -1
+  10-02-2024 21:51:11:345:808                      dronePositionY                                 15
+  10-02-2024 21:51:11:345:888                      dronePositionX                                 15
+  10-02-2024 21:51:11:446:359            Server performed 1 cycle                                 -
+  10-02-2024 21:51:11:446:530                     keypressedValue                                 -1
+  10-02-2024 21:51:11:446:625                      dronePositionY                                 15
+  10-02-2024 21:51:11:446:707                      dronePositionX                                 15
+  10-02-2024 21:51:11:547:381            Server performed 1 cycle                                 -
+  10-02-2024 21:51:11:547:584                     keypressedValue                                 -1
+  10-02-2024 21:51:11:547:680                      dronePositionY                                 15
+  10-02-2024 21:51:11:547:760                      dronePositionX                                 15
+  10-02-2024 21:51:11:648:193            Server performed 1 cycle                                 -
+  10-02-2024 21:51:11:648:364                     keypressedValue                                 -1
+  10-02-2024 21:51:11:648:458                      dronePositionY                                 15
+  10-02-2024 21:51:11:648:539                      dronePositionX                                 15
+    10-02-2024 21:51:11:749:2            Server performed 1 cycle                                 -
+  10-02-2024 21:51:11:749:173                     keypressedValue                                 -1
+  10-02-2024 21:51:11:749:268                      dronePositionY                                 15
+  10-02-2024 21:51:11:749:351                      dronePositionX                                 15
+  10-02-2024 21:51:11:849:815            Server performed 1 cycle                                 -
+    10-02-2024 21:51:11:850:7                     keypressedValue                                 -1
+   10-02-2024 21:51:11:850:95                      dronePositionY                                 15
+  10-02-2024 21:51:11:850:168                      dronePositionX                                 15
+  10-02-2024 21:51:11:950:584            Server performed 1 cycle                                 -
+  10-02-2024 21:51:11:950:739                     keypressedValue                                 -1
+  10-02-2024 21:51:11:950:823                      dronePositionY                                 15
+  10-02-2024 21:51:11:950:900                      dronePositionX                                 15
+   10-02-2024 21:51:12:51:582            Server performed 1 cycle                                 -
+   10-02-2024 21:51:12:51:772                     keypressedValue                                 -1
+   10-02-2024 21:51:12:51:857                      dronePositionY                                 15
+   10-02-2024 21:51:12:51:930                      dronePositionX                                 15
+  10-02-2024 21:51:12:152:379            Server performed 1 cycle                                 -
+  10-02-2024 21:51:12:152:468                     keypressedValue                                 -1
+  10-02-2024 21:51:12:152:513                      dronePositionY                                 15
+  10-02-2024 21:51:12:152:552                      dronePositionX                                 15
+  10-02-2024 21:51:12:253:151            Server performed 1 cycle                                 -
+  10-02-2024 21:51:12:253:309                     keypressedValue                                 -1
+  10-02-2024 21:51:12:253:393                      dronePositionY                                 15
+  10-02-2024 21:51:12:253:468                      dronePositionX                                 15
+  10-02-2024 21:51:12:353:992            Server performed 1 cycle                                 -
+  10-02-2024 21:51:12:354:162                     keypressedValue                                 -1
+  10-02-2024 21:51:12:354:256                      dronePositionY                                 15
+  10-02-2024 21:51:12:354:337                      dronePositionX                                 15
+  10-02-2024 21:51:12:454:619            Server performed 1 cycle                                 -
+  10-02-2024 21:51:12:454:781                     keypressedValue                                 -1
+  10-02-2024 21:51:12:454:871                      dronePositionY                                 15
+  10-02-2024 21:51:12:454:954                      dronePositionX                                 15
+  10-02-2024 21:51:12:555:571            Server performed 1 cycle                                 -
+  10-02-2024 21:51:12:555:758                     keypressedValue                                 -1
+  10-02-2024 21:51:12:555:846                      dronePositionY                                 15
+  10-02-2024 21:51:12:555:919                      dronePositionX                                 15
+  10-02-2024 21:51:12:656:247            Server performed 1 cycle                                 -
+  10-02-2024 21:51:12:656:411                     keypressedValue                                 -1
+  10-02-2024 21:51:12:656:498                      dronePositionY                                 15
+  10-02-2024 21:51:12:656:580                      dronePositionX                                 15
+  10-02-2024 21:51:12:756:944            Server performed 1 cycle                                 -
+   10-02-2024 21:51:12:757:86                     keypressedValue                                 -1
+  10-02-2024 21:51:12:757:170                      dronePositionY                                 15
+  10-02-2024 21:51:12:757:243                      dronePositionX                                 15
+  10-02-2024 21:51:12:857:718            Server performed 1 cycle                                 -
+  10-02-2024 21:51:12:857:890                     keypressedValue                                 -1
+   10-02-2024 21:51:12:858:31                      dronePositionY                                 15
+  10-02-2024 21:51:12:858:114                      dronePositionX                                 15
+  10-02-2024 21:51:12:958:535            Server performed 1 cycle                                 -
+  10-02-2024 21:51:12:958:705                     keypressedValue                                 -1
+  10-02-2024 21:51:12:958:799                      dronePositionY                                 15
+  10-02-2024 21:51:12:958:880                      dronePositionX                                 15
+   10-02-2024 21:51:13:59:548            Server performed 1 cycle                                 -
+   10-02-2024 21:51:13:59:754                     keypressedValue                                 -1
+   10-02-2024 21:51:13:59:849                      dronePositionY                                 15
+   10-02-2024 21:51:13:59:928                      dronePositionX                                 15
+  10-02-2024 21:51:13:160:373            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:160:532                     keypressedValue                                 -1
+  10-02-2024 21:51:13:160:617                      dronePositionY                                 15
+  10-02-2024 21:51:13:160:690                      dronePositionX                                 15
+  10-02-2024 21:51:13:261:193            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:261:353                     keypressedValue                                 -1
+  10-02-2024 21:51:13:261:440                      dronePositionY                                 15
+  10-02-2024 21:51:13:261:514                      dronePositionX                                 15
+    10-02-2024 21:51:13:362:3            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:362:175                     keypressedValue                                 -1
+  10-02-2024 21:51:13:362:270                      dronePositionY                                 15
+  10-02-2024 21:51:13:362:352                      dronePositionX                                 15
+  10-02-2024 21:51:13:462:815            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:462:985                     keypressedValue                                 -1
+   10-02-2024 21:51:13:463:80                      dronePositionY                                 15
+  10-02-2024 21:51:13:463:162                      dronePositionX                                 15
+  10-02-2024 21:51:13:563:533            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:563:680                     keypressedValue                                 -1
+  10-02-2024 21:51:13:563:759                      dronePositionY                                 15
+  10-02-2024 21:51:13:563:830                      dronePositionX                                 15
+  10-02-2024 21:51:13:664:100            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:664:265                     keypressedValue                                 -1
+  10-02-2024 21:51:13:664:353                      dronePositionY                                 15
+  10-02-2024 21:51:13:664:433                      dronePositionX                                 15
+  10-02-2024 21:51:13:764:776            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:764:979                     keypressedValue                                 -1
+   10-02-2024 21:51:13:765:66                      dronePositionY                                 15
+  10-02-2024 21:51:13:765:146                      dronePositionX                                 15
+  10-02-2024 21:51:13:865:477            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:865:635                     keypressedValue                                 -1
+  10-02-2024 21:51:13:865:728                      dronePositionY                                 15
+  10-02-2024 21:51:13:865:807                      dronePositionX                                 15
+  10-02-2024 21:51:13:966:280            Server performed 1 cycle                                 -
+  10-02-2024 21:51:13:966:441                     keypressedValue                                 -1
+  10-02-2024 21:51:13:966:526                      dronePositionY                                 15
+  10-02-2024 21:51:13:966:605                      dronePositionX                                 15
+   10-02-2024 21:51:14:66:934            Server performed 1 cycle                                 -
+   10-02-2024 21:51:14:67:131                     keypressedValue                                 -1
+   10-02-2024 21:51:14:67:219                      dronePositionY                                 15
+   10-02-2024 21:51:14:67:299                      dronePositionX                                 15
+  10-02-2024 21:51:14:167:583            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:167:746                     keypressedValue                                 -1
+  10-02-2024 21:51:14:167:832                      dronePositionY                                 15
+  10-02-2024 21:51:14:167:914                      dronePositionX                                 15
+  10-02-2024 21:51:14:268:255            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:268:421                     keypressedValue                                 -1
+  10-02-2024 21:51:14:268:507                      dronePositionY                                 15
+  10-02-2024 21:51:14:268:587                      dronePositionX                                 15
+  10-02-2024 21:51:14:368:953            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:369:122                     keypressedValue                                 -1
+  10-02-2024 21:51:14:369:214                      dronePositionY                                 15
+  10-02-2024 21:51:14:369:294                      dronePositionX                                 15
+  10-02-2024 21:51:14:469:676            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:469:845                     keypressedValue                                 -1
+   10-02-2024 21:51:14:470:19                      dronePositionY                                 15
+  10-02-2024 21:51:14:470:115                      dronePositionX                                 15
+  10-02-2024 21:51:14:570:741            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:570:928                     keypressedValue                                 -1
+   10-02-2024 21:51:14:571:12                      dronePositionY                                 15
+   10-02-2024 21:51:14:571:83                      dronePositionX                                 15
+  10-02-2024 21:51:14:671:359            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:671:521                     keypressedValue                                 -1
+  10-02-2024 21:51:14:671:612                      dronePositionY                                 15
+  10-02-2024 21:51:14:671:700                      dronePositionX                                 15
+   10-02-2024 21:51:14:772:46            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:772:208                     keypressedValue                                 -1
+  10-02-2024 21:51:14:772:334                      dronePositionY                                 15
+  10-02-2024 21:51:14:772:415                      dronePositionX                                 15
+  10-02-2024 21:51:14:872:746            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:882:589                     keypressedValue                                 -1
+  10-02-2024 21:51:14:882:683                      dronePositionY                                 15
+  10-02-2024 21:51:14:882:755                      dronePositionX                                 15
+   10-02-2024 21:51:14:983:57            Server performed 1 cycle                                 -
+  10-02-2024 21:51:14:983:221                     keypressedValue                                 -1
+  10-02-2024 21:51:14:983:312                      dronePositionY                                 15
+  10-02-2024 21:51:14:983:397                      dronePositionX                                 15
+    10-02-2024 21:51:15:84:27            Server performed 1 cycle                                 -
+   10-02-2024 21:51:15:84:216                     keypressedValue                                 -1
+   10-02-2024 21:51:15:84:303                      dronePositionY                                 15
+   10-02-2024 21:51:15:84:375                      dronePositionX                                 15
+  10-02-2024 21:51:15:184:749            Server performed 1 cycle                                 -
+  10-02-2024 21:51:15:184:911                     keypressedValue                                 -1
+  10-02-2024 21:51:15:184:997                      dronePositionY                                 15
+   10-02-2024 21:51:15:185:73                      dronePositionX                                 15
+  10-02-2024 21:51:15:285:563            Server performed 1 cycle                                 -
+  10-02-2024 21:51:15:285:721                     keypressedValue                                 -1
+  10-02-2024 21:51:15:285:806                      dronePositionY                                 15
+  10-02-2024 21:51:15:285:879                      dronePositionX                                 15
+  10-02-2024 21:51:15:386:372            Server performed 1 cycle                                 -
+  10-02-2024 21:51:15:386:531                     keypressedValue                                 -1
+  10-02-2024 21:51:15:386:616                      dronePositionY                                 15
+  10-02-2024 21:51:15:386:689                      dronePositionX                                 15
+  10-02-2024 21:51:15:487:182            Server performed 1 cycle                                 -
+  10-02-2024 21:51:15:487:353                     keypressedValue                                 -1
+  10-02-2024 21:51:15:487:447                      dronePositionY                                 15
+  10-02-2024 21:51:15:487:529                      dronePositionX                                 15
+  10-02-2024 21:51:15:588:190            Server performed 1 cycle                                 -
+  10-02-2024 21:51:15:588:376                     keypressedValue                                 -1
+  10-02-2024 21:51:15:588:462                      dronePositionY                                 15
+  10-02-2024 21:51:15:588:534                      dronePositionX                                 15
+  10-02-2024 21:51:15:688:856            Server performed 1 cycle                                 -
+   10-02-2024 21:51:15:689:25                     keypressedValue                                 -1
+  10-02-2024 21:51:15:689:114                      dronePositionY                                 15
+  10-02-2024 21:51:15:689:196                      dronePositionX                                 15
+  10-02-2024 21:51:15:789:611            Server performed 1 cycle                                 -
+  10-02-2024 21:51:15:789:767                     keypressedValue                                 -1
+  10-02-2024 21:51:15:789:885                      dronePositionY                                 15
+    10-02-2024 21:51:15:790:3                      dronePositionX                                 15
+  10-02-2024 21:51:15:890:424            Server performed 1 cycle                                 -
+  10-02-2024 21:51:15:890:581                     keypressedValue                                 -1
+  10-02-2024 21:51:15:890:664                      dronePositionY                                 15
+  10-02-2024 21:51:15:890:738                      dronePositionX                                 15
+  10-02-2024 21:51:15:991:242            Server performed 1 cycle                                 -
+  10-02-2024 21:51:15:991:398                     keypressedValue                                 -1
+  10-02-2024 21:51:15:991:483                      dronePositionY                                 15
+  10-02-2024 21:51:15:991:556                      dronePositionX                                 15
+   10-02-2024 21:51:16:92:223            Server performed 1 cycle                                 -
+   10-02-2024 21:51:16:92:424                     keypressedValue                                 -1
+   10-02-2024 21:51:16:92:520                      dronePositionY                                 15
+   10-02-2024 21:51:16:92:603                      dronePositionX                                 15
+   10-02-2024 21:51:16:193:43            Server performed 1 cycle                                 -
+  10-02-2024 21:51:16:193:199                     keypressedValue                                 -1
+  10-02-2024 21:51:16:193:283                      dronePositionY                                 15
+  10-02-2024 21:51:16:193:357                      dronePositionX                                 15
+  10-02-2024 21:51:16:293:851            Server performed 1 cycle                                 -
+   10-02-2024 21:51:16:294:37                     keypressedValue                                 -1
+  10-02-2024 21:51:16:294:120                      dronePositionY                                 15
+  10-02-2024 21:51:16:294:196                      dronePositionX                                 15
+  10-02-2024 21:51:16:394:686            Server performed 1 cycle                                 -
+  10-02-2024 21:51:16:394:857                     keypressedValue                                 -1
+  10-02-2024 21:51:16:394:950                      dronePositionY                                 15
+   10-02-2024 21:51:16:395:32                      dronePositionX                                 15
+  10-02-2024 21:51:16:495:498            Server performed 1 cycle                                 -
+  10-02-2024 21:51:16:495:654                     keypressedValue                                 -1
+  10-02-2024 21:51:16:495:740                      dronePositionY                                 15
+  10-02-2024 21:51:16:495:814                      dronePositionX                                 15
+  10-02-2024 21:51:16:596:495            Server performed 1 cycle                                 -
+  10-02-2024 21:51:16:596:682                     keypressedValue                                 -1
+  10-02-2024 21:51:16:596:767                      dronePositionY                                 15
+  10-02-2024 21:51:16:596:839                      dronePositionX                                 15
+  10-02-2024 21:51:16:697:308            Server performed 1 cycle                                 -
+  10-02-2024 21:51:16:697:481                     keypressedValue                                 -1
+  10-02-2024 21:51:16:697:576                      dronePositionY                                 15
+  10-02-2024 21:51:16:697:658                      dronePositionX                                 15
+  10-02-2024 21:51:16:798:129            Server performed 1 cycle                                 -
+  10-02-2024 21:51:16:798:286                     keypressedValue                                 -1
+  10-02-2024 21:51:16:798:371                      dronePositionY                                 15
+  10-02-2024 21:51:16:798:478                      dronePositionX                                 15
+  10-02-2024 21:51:16:898:939            Server performed 1 cycle                                 -
+  10-02-2024 21:51:16:899:109                     keypressedValue                                 -1
+  10-02-2024 21:51:16:899:202                      dronePositionY                                 15
+  10-02-2024 21:51:16:899:283                      dronePositionX                                 15
+  10-02-2024 21:51:16:999:755            Server performed 1 cycle                                 -
+  10-02-2024 21:51:16:999:915                     keypressedValue                                 -1
+      10-02-2024 21:51:17:0:2                      dronePositionY                                 15
+     10-02-2024 21:51:17:0:76                      dronePositionX                                 15
+  10-02-2024 21:51:17:100:745            Server performed 1 cycle                                 -
+  10-02-2024 21:51:17:100:932                     keypressedValue                                 -1
+   10-02-2024 21:51:17:101:18                      dronePositionY                                 15
+   10-02-2024 21:51:17:101:89                      dronePositionX                                 15
+  10-02-2024 21:51:17:201:560            Server performed 1 cycle                                 -
+  10-02-2024 21:51:17:201:727                     keypressedValue                                 -1
+  10-02-2024 21:51:17:201:820                      dronePositionY                                 15
+  10-02-2024 21:51:17:201:938                      dronePositionX                                 15
+  10-02-2024 21:51:17:302:381            Server performed 1 cycle                                 -
+  10-02-2024 21:51:17:302:540                     keypressedValue                                 -1
+  10-02-2024 21:51:17:302:624                      dronePositionY                                 15
+  10-02-2024 21:51:17:302:702                      dronePositionX                                 15
+  10-02-2024 21:51:17:403:189            Server performed 1 cycle                                 -
+  10-02-2024 21:51:17:403:347                     keypressedValue                                 -1
+  10-02-2024 21:51:17:403:430                      dronePositionY                                 15
+  10-02-2024 21:51:17:403:503                      dronePositionX                                 15
+    10-02-2024 21:51:17:504:2            Server performed 1 cycle                                 -
+  10-02-2024 21:51:17:504:157                     keypressedValue                                 -1
+  10-02-2024 21:51:17:504:242                      dronePositionY                                 15
+  10-02-2024 21:51:17:504:317                      dronePositionX                                 15
+  10-02-2024 21:51:17:604:986            Server performed 1 cycle                                 -
+  10-02-2024 21:51:17:605:171                     keypressedValue                                 -1
+  10-02-2024 21:51:17:605:257                      dronePositionY                                 15
+  10-02-2024 21:51:17:605:328                      dronePositionX                                 15
+   10-02-2024 21:51:17:706:88            Server performed 1 cycle                                 -
+  10-02-2024 21:51:17:706:272                     keypressedValue                                 -1
+  10-02-2024 21:51:17:706:365                      dronePositionY                                 15
+  10-02-2024 21:51:17:706:446                      dronePositionX                                 15
+  10-02-2024 21:51:17:806:899            Server performed 1 cycle                                 -
+   10-02-2024 21:51:17:807:71                     keypressedValue                                 -1
+  10-02-2024 21:51:17:807:166                      dronePositionY                                 15
+  10-02-2024 21:51:17:807:247                      dronePositionX                                 15
+  10-02-2024 21:51:17:907:718            Server performed 1 cycle                                 -
+  10-02-2024 21:51:17:907:890                     keypressedValue                                 -1
+  10-02-2024 21:51:17:907:984                      dronePositionY                                 15
+   10-02-2024 21:51:17:908:65                      dronePositionX                                 15
+    10-02-2024 21:51:18:8:391            Server performed 1 cycle                                 -
+    10-02-2024 21:51:18:8:546                     keypressedValue                                 -1
+    10-02-2024 21:51:18:8:626                      dronePositionY                                 15
+    10-02-2024 21:51:18:8:700                      dronePositionX                                 15
+  10-02-2024 21:51:18:109:256            Server performed 1 cycle                                 -
+  10-02-2024 21:51:18:109:443                     keypressedValue                                 -1
+  10-02-2024 21:51:18:109:529                      dronePositionY                                 15
+  10-02-2024 21:51:18:109:600                      dronePositionX                                 15
+   10-02-2024 21:51:18:210:74            Server performed 1 cycle                                 -
+  10-02-2024 21:51:18:210:229                     keypressedValue                                 -1
+  10-02-2024 21:51:18:210:313                      dronePositionY                                 15
+  10-02-2024 21:51:18:210:387                      dronePositionX                                 15
+  10-02-2024 21:51:18:310:878            Server performed 1 cycle                                 -
+   10-02-2024 21:51:18:311:35                     keypressedValue                                 -1
+  10-02-2024 21:51:18:311:120                      dronePositionY                                 15
+  10-02-2024 21:51:18:311:198                      dronePositionX                                 15
+  10-02-2024 21:51:18:411:738            Server performed 1 cycle                                 -
+  10-02-2024 21:51:18:411:915                     keypressedValue                                 -1
+   10-02-2024 21:51:18:412:26                      dronePositionY                                 15
+  10-02-2024 21:51:18:412:133                      dronePositionX                                 15
+  10-02-2024 21:51:18:512:476            Server performed 1 cycle                                 -
+  10-02-2024 21:51:18:512:640                     keypressedValue                                 -1
+  10-02-2024 21:51:18:512:740                      dronePositionY                                 15
+  10-02-2024 21:51:18:512:842                      dronePositionX                                 15
+  10-02-2024 21:51:18:613:219            Server performed 1 cycle                                 -
+  10-02-2024 21:51:18:613:398                     keypressedValue                                 -1
+  10-02-2024 21:51:18:613:504                      dronePositionY                                 15
+  10-02-2024 21:51:18:613:605                      dronePositionX                                 15
+  10-02-2024 21:51:18:713:969            Server performed 1 cycle                                 -
+  10-02-2024 21:51:18:714:106                     keypressedValue                                 -1
+  10-02-2024 21:51:18:714:205                      dronePositionY                                 15
+  10-02-2024 21:51:18:714:299                      dronePositionX                                 15
+  10-02-2024 21:51:18:814:608            Server performed 1 cycle                                 -
+  10-02-2024 21:51:18:814:648                     keypressedValue                                 -1
+  10-02-2024 21:51:18:814:662                      dronePositionY                                 15
+  10-02-2024 21:51:18:814:677                      dronePositionX                                 15
+   10-02-2024 21:51:18:915:26            Server performed 1 cycle                                 -
+  10-02-2024 21:51:18:915:188                     keypressedValue                                 -1
+  10-02-2024 21:51:18:915:291                      dronePositionY                                 15
+  10-02-2024 21:51:18:915:385                      dronePositionX                                 15
+   10-02-2024 21:51:19:15:847            Server performed 1 cycle                                 -
+    10-02-2024 21:51:19:16:28                     keypressedValue                                 -1
+   10-02-2024 21:51:19:16:136                      dronePositionY                                 15
+   10-02-2024 21:51:19:16:241                      dronePositionX                                 15
+  10-02-2024 21:51:19:116:885            Server performed 1 cycle                                 -
+   10-02-2024 21:51:19:117:85                     keypressedValue                                 -1
+  10-02-2024 21:51:19:117:191                      dronePositionY                                 15
+  10-02-2024 21:51:19:117:288                      dronePositionX                                 15
+  10-02-2024 21:51:19:217:696            Server performed 1 cycle                                 -
+  10-02-2024 21:51:19:217:862                     keypressedValue                                 -1
+  10-02-2024 21:51:19:217:998                      dronePositionY                                 15
+   10-02-2024 21:51:19:218:94                      dronePositionX                                 15
+  10-02-2024 21:51:19:318:532            Server performed 1 cycle                                 -
+  10-02-2024 21:51:19:318:587                     keypressedValue                                 -1
+  10-02-2024 21:51:19:318:617                      dronePositionY                                 15
+  10-02-2024 21:51:19:318:647                      dronePositionX                                 15
+  10-02-2024 21:51:19:418:916            Server performed 1 cycle                                 -
+   10-02-2024 21:51:19:419:98                     keypressedValue                                 -1
+  10-02-2024 21:51:19:419:210                      dronePositionY                                 15
+  10-02-2024 21:51:19:419:315                      dronePositionX                                 15
+  10-02-2024 21:51:19:519:635            Server performed 1 cycle                                 -
+  10-02-2024 21:51:19:519:778                     keypressedValue                                 -1
+  10-02-2024 21:51:19:519:878                      dronePositionY                                 15
+  10-02-2024 21:51:19:519:971                      dronePositionX                                 15
+  10-02-2024 21:51:19:620:298            Server performed 1 cycle                                 -
+  10-02-2024 21:51:19:620:503                     keypressedValue                                 -1
+  10-02-2024 21:51:19:620:614                      dronePositionY                                 15
+  10-02-2024 21:51:19:620:716                      dronePositionX                                 15
+   10-02-2024 21:51:19:721:57            Server performed 1 cycle                                 -
+  10-02-2024 21:51:19:721:210                     keypressedValue                                 -1
+  10-02-2024 21:51:19:721:301                      dronePositionY                                 15
+  10-02-2024 21:51:19:721:394                      dronePositionX                                 15
+  10-02-2024 21:51:19:821:807            Server performed 1 cycle                                 -
+   10-02-2024 21:51:19:822:28                     keypressedValue                                 -1
+  10-02-2024 21:51:19:822:139                      dronePositionY                                 15
+  10-02-2024 21:51:19:822:242                      dronePositionX                                 15
+  10-02-2024 21:51:19:922:557            Server performed 1 cycle                                 -
+  10-02-2024 21:51:19:922:774                     keypressedValue                                 -1
+  10-02-2024 21:51:19:922:861                      dronePositionY                                 15
+  10-02-2024 21:51:19:922:917                      dronePositionX                                 15
+   10-02-2024 21:51:20:23:313            Server performed 1 cycle                                 -
+   10-02-2024 21:51:20:23:446                     keypressedValue                                 -1
+   10-02-2024 21:51:20:23:506                      dronePositionY                                 15
+   10-02-2024 21:51:20:23:560                      dronePositionX                                 15
+  10-02-2024 21:51:20:124:289            Server performed 1 cycle                                 -
+  10-02-2024 21:51:20:124:437                     keypressedValue                                 -1
+  10-02-2024 21:51:20:124:533                      dronePositionY                                 15
+  10-02-2024 21:51:20:124:592                      dronePositionX                                 15
+  10-02-2024 21:51:20:224:820            Server performed 1 cycle                                 -
+  10-02-2024 21:51:20:224:890                     keypressedValue                                 -1
+  10-02-2024 21:51:20:224:923                      dronePositionY                                 15
+  10-02-2024 21:51:20:224:952                      dronePositionX                                 15
+  10-02-2024 21:51:20:325:594            Server performed 1 cycle                                 -
+  10-02-2024 21:51:20:325:729                     keypressedValue                                 -1
+  10-02-2024 21:51:20:325:788                      dronePositionY                                 15
+  10-02-2024 21:51:20:325:842                      dronePositionX                                 15
+  10-02-2024 21:51:20:426:310            Server performed 1 cycle                                 -
+  10-02-2024 21:51:20:426:456                     keypressedValue                                 -1
+  10-02-2024 21:51:20:426:536                      dronePositionY                                 15
+  10-02-2024 21:51:20:426:636                      dronePositionX                                 15
+  10-02-2024 21:51:20:527:125            Server performed 1 cycle                                 -
+  10-02-2024 21:51:20:527:287                     keypressedValue                                 -1
+  10-02-2024 21:51:20:527:385                      dronePositionY                                 15
+  10-02-2024 21:51:20:527:479                      dronePositionX                                 15
+  10-02-2024 21:51:20:627:851            Server performed 1 cycle                                 -
+   10-02-2024 21:51:20:628:70                     keypressedValue                                 -1
+  10-02-2024 21:51:20:628:177                      dronePositionY                                 15
+  10-02-2024 21:51:20:628:283                      dronePositionX                                 15
+  10-02-2024 21:51:20:728:660            Server performed 1 cycle                                 -
+  10-02-2024 21:51:20:728:834                     keypressedValue                                 -1
+  10-02-2024 21:51:20:728:942                      dronePositionY                                 15
+   10-02-2024 21:51:20:729:44                      dronePositionX                                 15
+  10-02-2024 21:51:20:829:483            Server performed 1 cycle                                 -
+  10-02-2024 21:51:20:829:648                     keypressedValue                                 -1
+  10-02-2024 21:51:20:829:745                      dronePositionY                                 15
+  10-02-2024 21:51:20:829:838                      dronePositionX                                 15
+  10-02-2024 21:51:20:930:290            Server performed 1 cycle                                 -
+  10-02-2024 21:51:20:930:457                     keypressedValue                                 -1
+  10-02-2024 21:51:20:930:609                      dronePositionY                                 15
+  10-02-2024 21:51:20:930:712                      dronePositionX                                 15
+    10-02-2024 21:51:21:31:88            Server performed 1 cycle                                 -
+   10-02-2024 21:51:21:31:270                     keypressedValue                                 -1
+   10-02-2024 21:51:21:31:381                      dronePositionY                                 15
+   10-02-2024 21:51:21:31:488                      dronePositionX                                 15
+  10-02-2024 21:51:21:132:109            Server performed 1 cycle                                 -
+  10-02-2024 21:51:21:132:311                     keypressedValue                                 -1
+  10-02-2024 21:51:21:132:415                      dronePositionY                                 15
+  10-02-2024 21:51:21:132:512                      dronePositionX                                 15
+  10-02-2024 21:51:21:232:906            Server performed 1 cycle                                 -
+   10-02-2024 21:51:21:233:75                     keypressedValue                                 -1
+  10-02-2024 21:51:21:233:180                      dronePositionY                                 15
+  10-02-2024 21:51:21:233:274                      dronePositionX                                 15
+  10-02-2024 21:51:21:333:714            Server performed 1 cycle                                 -
+  10-02-2024 21:51:21:333:877                     keypressedValue                                 -1
+   10-02-2024 21:51:21:334:21                      dronePositionY                                 15
+  10-02-2024 21:51:21:334:118                      dronePositionX                                 15
+  10-02-2024 21:51:21:434:517            Server performed 1 cycle                                 -
+  10-02-2024 21:51:21:434:697                     keypressedValue                                 -1
+  10-02-2024 21:51:21:434:814                      dronePositionY                                 15
+  10-02-2024 21:51:21:434:920                      dronePositionX                                 15
+  10-02-2024 21:51:21:535:323            Server performed 1 cycle                                 -
+  10-02-2024 21:51:21:535:511                     keypressedValue                                 -1
+  10-02-2024 21:51:21:535:618                      dronePositionY                                 15
+  10-02-2024 21:51:21:535:724                      dronePositionX                                 15
+   10-02-2024 21:51:21:636:73            Server performed 1 cycle                                 -
+  10-02-2024 21:51:21:636:282                     keypressedValue                                 -1
+  10-02-2024 21:51:21:636:393                      dronePositionY                                 15
+  10-02-2024 21:51:21:636:499                      dronePositionX                                 15
+  10-02-2024 21:51:21:736:863            Server performed 1 cycle                                 -
+   10-02-2024 21:51:21:737:44                     keypressedValue                                 -1
+  10-02-2024 21:51:21:737:155                      dronePositionY                                 15
+  10-02-2024 21:51:21:737:260                      dronePositionX                                 15
+  10-02-2024 21:51:21:837:689            Server performed 1 cycle                                 -
+  10-02-2024 21:51:21:837:876                     keypressedValue                                 -1
+   10-02-2024 21:51:21:838:31                      dronePositionY                                 15
+  10-02-2024 21:51:21:838:137                      dronePositionX                                 15
+  10-02-2024 21:51:21:938:485            Server performed 1 cycle                                 -
+  10-02-2024 21:51:21:938:660                     keypressedValue                                 -1
+  10-02-2024 21:51:21:938:802                      dronePositionY                                 15
+  10-02-2024 21:51:21:938:901                      dronePositionX                                 15
+   10-02-2024 21:51:22:39:240            Server performed 1 cycle                                 -
+   10-02-2024 21:51:22:39:386                     keypressedValue                                 -1
+   10-02-2024 21:51:22:39:481                      dronePositionY                                 15
+   10-02-2024 21:51:22:39:571                      dronePositionX                                 15
+    10-02-2024 21:51:22:140:2            Server performed 1 cycle                                 -
+  10-02-2024 21:51:22:140:205                     keypressedValue                                 -1
+  10-02-2024 21:51:22:140:307                      dronePositionY                                 15
+  10-02-2024 21:51:22:140:404                      dronePositionX                                 15
+  10-02-2024 21:51:22:240:813            Server performed 1 cycle                                 -
+  10-02-2024 21:51:22:240:975                     keypressedValue                                 -1
+   10-02-2024 21:51:22:241:74                      dronePositionY                                 15
+  10-02-2024 21:51:22:241:168                      dronePositionX                                 15
+  10-02-2024 21:51:22:341:623            Server performed 1 cycle                                 -
+  10-02-2024 21:51:22:341:799                     keypressedValue                                 -1
+  10-02-2024 21:51:22:341:945                      dronePositionY                                 15
+   10-02-2024 21:51:22:342:54                      dronePositionX                                 15
+  10-02-2024 21:51:22:442:427            Server performed 1 cycle                                 -
+  10-02-2024 21:51:22:442:611                     keypressedValue                                 -1
+  10-02-2024 21:51:22:442:723                      dronePositionY                                 15
+  10-02-2024 21:51:22:442:834                      dronePositionX                                 15
+  10-02-2024 21:51:22:543:232            Server performed 1 cycle                                 -
+  10-02-2024 21:51:22:543:401                     keypressedValue                                 -1
+  10-02-2024 21:51:22:543:501                      dronePositionY                                 15
+  10-02-2024 21:51:22:543:597                      dronePositionX                                 15
+  10-02-2024 21:51:22:644:222            Server performed 1 cycle                                 -
+  10-02-2024 21:51:22:644:441                     keypressedValue                                 -1
+  10-02-2024 21:51:22:644:554                      dronePositionY                                 15
+  10-02-2024 21:51:22:644:662                      dronePositionX                                 15
+   10-02-2024 21:51:22:745:10            Server performed 1 cycle                                 -
+  10-02-2024 21:51:22:745:171                     keypressedValue                                 -1
+  10-02-2024 21:51:22:745:267                      dronePositionY                                 15
+  10-02-2024 21:51:22:745:360                      dronePositionX                                 15
+  10-02-2024 21:51:22:845:821            Server performed 1 cycle                                 -
+   10-02-2024 21:51:22:846:19                     keypressedValue                                 -1
+  10-02-2024 21:51:22:846:119                      dronePositionY                                 15
+  10-02-2024 21:51:22:846:213                      dronePositionX                                 15
+  10-02-2024 21:51:22:946:631            Server performed 1 cycle                                 -
+  10-02-2024 21:51:22:946:818                     keypressedValue                                 -1
+  10-02-2024 21:51:22:946:925                      dronePositionY                                 15
+   10-02-2024 21:51:22:947:63                      dronePositionX                                 15
+   10-02-2024 21:51:23:47:438            Server performed 1 cycle                                 -
+   10-02-2024 21:51:23:47:623                     keypressedValue                                 -1
+   10-02-2024 21:51:23:47:737                      dronePositionY                                 15
+   10-02-2024 21:51:23:47:848                      dronePositionX                                 15
+  10-02-2024 21:51:23:148:447            Server performed 1 cycle                                 -
+  10-02-2024 21:51:23:148:612                     keypressedValue                                 -1
+  10-02-2024 21:51:23:148:750                      dronePositionY                                 15
+  10-02-2024 21:51:23:148:847                      dronePositionX                                 15
+  10-02-2024 21:51:23:249:252            Server performed 1 cycle                                 -
+  10-02-2024 21:51:23:249:415                     keypressedValue                                 -1
+  10-02-2024 21:51:23:249:511                      dronePositionY                                 15
+  10-02-2024 21:51:23:249:602                      dronePositionX                                 15
+   10-02-2024 21:51:23:350:65            Server performed 1 cycle                                 -
+  10-02-2024 21:51:23:350:231                     keypressedValue                                 -1
+  10-02-2024 21:51:23:350:329                      dronePositionY                                 15
+  10-02-2024 21:51:23:350:421                      dronePositionX                                 15
+  10-02-2024 21:51:23:450:866            Server performed 1 cycle                                 -
+   10-02-2024 21:51:23:451:50                     keypressedValue                                 -1
+  10-02-2024 21:51:23:451:159                      dronePositionY                                 15
+  10-02-2024 21:51:23:451:264                      dronePositionX                                 15
+  10-02-2024 21:51:23:551:666            Server performed 1 cycle                                 -
+  10-02-2024 21:51:23:551:851                     keypressedValue                                 -1
+  10-02-2024 21:51:23:551:965                      dronePositionY                                 15
+   10-02-2024 21:51:23:552:68                      dronePositionX                                 15
+  10-02-2024 21:51:23:652:667            Server performed 1 cycle                                 -
+  10-02-2024 21:51:23:652:870                     keypressedValue                                 -1
+  10-02-2024 21:51:23:652:975                      dronePositionY                                 15
+   10-02-2024 21:51:23:653:73                      dronePositionX                                 15
+  10-02-2024 21:51:23:753:389            Server performed 1 cycle                                 -
+  10-02-2024 21:51:23:753:566                     keypressedValue                                 -1
+  10-02-2024 21:51:23:753:673                      dronePositionY                                 15
+  10-02-2024 21:51:23:753:776                      dronePositionX                                 15
+  10-02-2024 21:51:23:854:108            Server performed 1 cycle                                 -
+  10-02-2024 21:51:23:854:283                     keypressedValue                                 -1
+  10-02-2024 21:51:23:854:358                      dronePositionY                                 15
+  10-02-2024 21:51:23:854:420                      dronePositionX                                 15
+  10-02-2024 21:51:23:954:768            Server performed 1 cycle                                 -
+  10-02-2024 21:51:23:954:913                     keypressedValue                                 -1
+  10-02-2024 21:51:23:954:990                      dronePositionY                                 15
+  10-02-2024 21:51:23:955:105                      dronePositionX                                 15
+   10-02-2024 21:51:24:55:490            Server performed 1 cycle                                 -
+   10-02-2024 21:51:24:55:611                     keypressedValue                                 -1
+   10-02-2024 21:51:24:55:670                      dronePositionY                                 15
+   10-02-2024 21:51:24:55:724                      dronePositionX                                 15
+  10-02-2024 21:51:24:156:299            Server performed 1 cycle                                 -
+  10-02-2024 21:51:24:156:439                     keypressedValue                                 -1
+  10-02-2024 21:51:24:156:528                      dronePositionY                                 15
+  10-02-2024 21:51:24:156:582                      dronePositionX                                 15
+  10-02-2024 21:51:24:257:125            Server performed 1 cycle                                 -
+  10-02-2024 21:51:24:257:260                     keypressedValue                                 -1
+  10-02-2024 21:51:24:257:318                      dronePositionY                                 15
+  10-02-2024 21:51:24:257:371                      dronePositionX                                 15
+  10-02-2024 21:51:24:357:959            Server performed 1 cycle                                 -
+   10-02-2024 21:51:24:358:94                     keypressedValue                                 -1
+  10-02-2024 21:51:24:358:179                      dronePositionY                                 15
+  10-02-2024 21:51:24:358:264                      dronePositionX                                 15
+  10-02-2024 21:51:24:458:504            Server performed 1 cycle                                 -
+  10-02-2024 21:51:24:458:597                     keypressedValue                                 -1
+  10-02-2024 21:51:24:458:636                      dronePositionY                                 15
+  10-02-2024 21:51:24:458:672                      dronePositionX                                 15
+  10-02-2024 21:51:24:559:292            Server performed 1 cycle                                 -
+  10-02-2024 21:51:24:559:439                     keypressedValue                                 -1
+  10-02-2024 21:51:24:559:505                      dronePositionY                                 15
+  10-02-2024 21:51:24:559:565                      dronePositionX                                 15
+  10-02-2024 21:51:24:660:310            Server performed 1 cycle                                 -
+  10-02-2024 21:51:24:660:456                     keypressedValue                                 -1
+  10-02-2024 21:51:24:660:554                      dronePositionY                                 15
+  10-02-2024 21:51:24:660:614                      dronePositionX                                 15
+  10-02-2024 21:51:24:761:117            Server performed 1 cycle                                 -
+  10-02-2024 21:51:24:761:250                     keypressedValue                                 -1
+  10-02-2024 21:51:24:761:309                      dronePositionY                                 15
+  10-02-2024 21:51:24:761:362                      dronePositionX                                 15
+  10-02-2024 21:51:24:861:966            Server performed 1 cycle                                 -
+  10-02-2024 21:51:24:862:100                     keypressedValue                                 -1
+  10-02-2024 21:51:24:862:182                      dronePositionY                                 15
+  10-02-2024 21:51:24:862:271                      dronePositionX                                 15
+  10-02-2024 21:51:24:962:778            Server performed 1 cycle                                 -
+  10-02-2024 21:51:24:962:962                     keypressedValue                                 -1
+  10-02-2024 21:51:24:965:779                      dronePositionY                                 15
+  10-02-2024 21:51:24:965:880                      dronePositionX                                 15
+   10-02-2024 21:51:25:66:368            Server performed 1 cycle                                 -
+   10-02-2024 21:51:25:66:513                     keypressedValue                                 -1
+   10-02-2024 21:51:25:66:582                      dronePositionY                                 15
+   10-02-2024 21:51:25:66:644                      dronePositionX                                 15
+  10-02-2024 21:51:25:166:896            Server performed 1 cycle                                 -
+   10-02-2024 21:51:25:167:31                     keypressedValue                                 -1
+   10-02-2024 21:51:25:167:91                      dronePositionY                                 15
+  10-02-2024 21:51:25:167:147                      dronePositionX                                 15
+  10-02-2024 21:51:25:267:782            Server performed 1 cycle                                 -
+  10-02-2024 21:51:25:267:918                     keypressedValue                                 -1
+  10-02-2024 21:51:25:267:979                      dronePositionY                                 15
+   10-02-2024 21:51:25:268:33                      dronePositionX                                 15
+  10-02-2024 21:51:25:368:367            Server performed 1 cycle                                 -
+  10-02-2024 21:51:25:368:525                     keypressedValue                                 -1
+  10-02-2024 21:51:25:368:593                      dronePositionY                                 15
+  10-02-2024 21:51:25:368:654                      dronePositionX                                 15
+  10-02-2024 21:51:25:469:192            Server performed 1 cycle                                 -
+  10-02-2024 21:51:25:469:338                     keypressedValue                                 -1
+  10-02-2024 21:51:25:469:405                      dronePositionY                                 15
+  10-02-2024 21:51:25:469:464                      dronePositionX                                 15
+    10-02-2024 21:51:25:570:9            Server performed 1 cycle                                 -
+  10-02-2024 21:51:25:570:147                     keypressedValue                                 -1
+  10-02-2024 21:51:25:570:207                      dronePositionY                                 15
+  10-02-2024 21:51:25:570:260                      dronePositionX                                 15
+  10-02-2024 21:51:25:670:584            Server performed 1 cycle                                 -
+  10-02-2024 21:51:25:670:720                     keypressedValue                                 -1
+  10-02-2024 21:51:25:670:783                      dronePositionY                                 15
+  10-02-2024 21:51:25:670:865                      dronePositionX                                 15
+  10-02-2024 21:51:25:771:404            Server performed 1 cycle                                 -
+  10-02-2024 21:51:25:771:552                     keypressedValue                                 -1
+  10-02-2024 21:51:25:771:618                      dronePositionY                                 15
+  10-02-2024 21:51:25:771:677                      dronePositionX                                 15
+  10-02-2024 21:51:25:872:217            Server performed 1 cycle                                 -
+  10-02-2024 21:51:25:872:355                     keypressedValue                                 -1
+  10-02-2024 21:51:25:872:413                      dronePositionY                                 15
+  10-02-2024 21:51:25:872:472                      dronePositionX                                 15
+   10-02-2024 21:51:25:973:28            Server performed 1 cycle                                 -
+  10-02-2024 21:51:25:973:176                     keypressedValue                                 -1
+  10-02-2024 21:51:25:973:242                      dronePositionY                                 15
+  10-02-2024 21:51:25:973:302                      dronePositionX                                 15
+   10-02-2024 21:51:26:73:749            Server performed 1 cycle                                 -
+   10-02-2024 21:51:26:73:959                     keypressedValue                                 -1
+    10-02-2024 21:51:26:74:33                      dronePositionY                                 15
+    10-02-2024 21:51:26:74:95                      dronePositionX                                 15
+  10-02-2024 21:51:26:174:490            Server performed 1 cycle                                 -
+  10-02-2024 21:51:26:174:646                     keypressedValue                                 -1
+  10-02-2024 21:51:26:174:741                      dronePositionY                                 15
+  10-02-2024 21:51:26:174:805                      dronePositionX                                 15
+   10-02-2024 21:51:26:275:88            Server performed 1 cycle                                 -
+  10-02-2024 21:51:26:275:206                     keypressedValue                                 -1
+  10-02-2024 21:51:26:275:264                      dronePositionY                                 15
+  10-02-2024 21:51:26:275:318                      dronePositionX                                 15
+  10-02-2024 21:51:26:375:589            Server performed 1 cycle                                 -
+  10-02-2024 21:51:26:375:718                     keypressedValue                                 -1
+  10-02-2024 21:51:26:375:782                      dronePositionY                                 15
+  10-02-2024 21:51:26:375:842                      dronePositionX                                 15
+  10-02-2024 21:51:26:476:127            Server performed 1 cycle                                 -
+  10-02-2024 21:51:26:476:249                     keypressedValue                                 -1
+  10-02-2024 21:51:26:476:306                      dronePositionY                                 15
+  10-02-2024 21:51:26:476:360                      dronePositionX                                 15
+  10-02-2024 21:51:26:576:865            Server performed 1 cycle                                 -
+    10-02-2024 21:51:26:577:2                     keypressedValue                                 -1
+   10-02-2024 21:51:26:577:61                      dronePositionY                                 15
+  10-02-2024 21:51:26:577:114                      dronePositionX                                 15
+  10-02-2024 21:51:26:677:832            Server performed 1 cycle                                 -
+   10-02-2024 21:51:26:678:13                     keypressedValue                                 -1
+   10-02-2024 21:51:26:678:84                      dronePositionY                                 15
+  10-02-2024 21:51:26:678:176                      dronePositionX                                 15
+  10-02-2024 21:51:26:778:668            Server performed 1 cycle                                 -
+  10-02-2024 21:51:26:778:817                     keypressedValue                                 -1
+  10-02-2024 21:51:26:778:882                      dronePositionY                                 15
+  10-02-2024 21:51:26:778:943                      dronePositionX                                 15
+  10-02-2024 21:51:26:879:483            Server performed 1 cycle                                 -
+  10-02-2024 21:51:26:879:630                     keypressedValue                                 -1
+  10-02-2024 21:51:26:879:700                      dronePositionY                                 15
+  10-02-2024 21:51:26:879:799                      dronePositionX                                 15
+  10-02-2024 21:51:26:980:301            Server performed 1 cycle                                 -
+  10-02-2024 21:51:26:980:450                     keypressedValue                                 -1
+  10-02-2024 21:51:26:980:515                      dronePositionY                                 15
+  10-02-2024 21:51:26:980:574                      dronePositionX                                 15
+   10-02-2024 21:51:27:81:140            Server performed 1 cycle                                 -
+   10-02-2024 21:51:27:81:275                     keypressedValue                                 -1
+   10-02-2024 21:51:27:81:362                      dronePositionY                                 15
+   10-02-2024 21:51:27:81:418                      dronePositionX                                 15
+  10-02-2024 21:51:27:182:148            Server performed 1 cycle                                 -
+  10-02-2024 21:51:27:182:283                     keypressedValue                                 -1
+  10-02-2024 21:51:27:182:344                      dronePositionY                                 15
+  10-02-2024 21:51:27:182:425                      dronePositionX                                 15
+  10-02-2024 21:51:27:282:717            Server performed 1 cycle                                 -
+  10-02-2024 21:51:27:282:847                     keypressedValue                                 -1
+  10-02-2024 21:51:27:282:911                      dronePositionY                                 15
+  10-02-2024 21:51:27:282:970                      dronePositionX                                 15
+  10-02-2024 21:51:27:383:291            Server performed 1 cycle                                 -
+  10-02-2024 21:51:27:383:429                     keypressedValue                                 -1
+  10-02-2024 21:51:27:383:487                      dronePositionY                                 15
+  10-02-2024 21:51:27:383:541                      dronePositionX                                 15
+   10-02-2024 21:51:27:484:97            Server performed 1 cycle                                 -
+  10-02-2024 21:51:27:484:231                     keypressedValue                                 -1
+  10-02-2024 21:51:27:484:291                      dronePositionY                                 15
+  10-02-2024 21:51:27:484:345                      dronePositionX                                 15
+  10-02-2024 21:51:27:584:905            Server performed 1 cycle                                 -
+   10-02-2024 21:51:27:585:42                     keypressedValue                                 -1
+  10-02-2024 21:51:27:585:101                      dronePositionY                                 15
+  10-02-2024 21:51:27:585:155                      dronePositionX                                 15
+  10-02-2024 21:51:27:685:883            Server performed 1 cycle                                 -
+   10-02-2024 21:51:27:686:62                     keypressedValue                                 -1
+  10-02-2024 21:51:27:686:128                      dronePositionY                                 15
+  10-02-2024 21:51:27:686:219                      dronePositionX                                 15
+  10-02-2024 21:51:27:786:729            Server performed 1 cycle                                 -
+  10-02-2024 21:51:27:786:865                     keypressedValue                                 -1
+  10-02-2024 21:51:27:786:925                      dronePositionY                                 15
+  10-02-2024 21:51:27:786:978                      dronePositionX                                 15
+  10-02-2024 21:51:27:887:540            Server performed 1 cycle                                 -
+  10-02-2024 21:51:27:887:675                     keypressedValue                                 -1
+  10-02-2024 21:51:27:887:736                      dronePositionY                                 15
+  10-02-2024 21:51:27:887:823                      dronePositionX                                 15
+  10-02-2024 21:51:27:988:124            Server performed 1 cycle                                 -
+  10-02-2024 21:51:27:988:247                     keypressedValue                                 -1
+  10-02-2024 21:51:27:988:307                      dronePositionY                                 15
+  10-02-2024 21:51:27:988:362                      dronePositionX                                 15
+   10-02-2024 21:51:28:88:637            Server performed 1 cycle                                 -
+   10-02-2024 21:51:28:88:759                     keypressedValue                                 -1
+   10-02-2024 21:51:28:88:847                      dronePositionY                                 15
+   10-02-2024 21:51:28:88:902                      dronePositionX                                 15
+  10-02-2024 21:51:28:189:718            Server performed 1 cycle                                 -
+  10-02-2024 21:51:28:189:867                     keypressedValue                                 -1
+  10-02-2024 21:51:28:189:972                      dronePositionY                                 15
+   10-02-2024 21:51:28:190:69                      dronePositionX                                 15
+  10-02-2024 21:51:28:290:533            Server performed 1 cycle                                 -
+  10-02-2024 21:51:28:290:680                     keypressedValue                                 -1
+  10-02-2024 21:51:28:290:746                      dronePositionY                                 15
+  10-02-2024 21:51:28:290:806                      dronePositionX                                 15
+  10-02-2024 21:51:28:391:350            Server performed 1 cycle                                 -
+  10-02-2024 21:51:28:391:496                     keypressedValue                                 -1
+  10-02-2024 21:51:28:391:562                      dronePositionY                                 15
+  10-02-2024 21:51:28:391:647                      dronePositionX                                 15
+  10-02-2024 21:51:28:492:181            Server performed 1 cycle                                 -
+  10-02-2024 21:51:28:492:316                     keypressedValue                                 -1
+  10-02-2024 21:51:28:492:376                      dronePositionY                                 15
+  10-02-2024 21:51:28:492:428                      dronePositionX                                 15
+  10-02-2024 21:51:28:592:989            Server performed 1 cycle                                 -
+  10-02-2024 21:51:28:593:127                     keypressedValue                                 -1
+  10-02-2024 21:51:28:593:186                      dronePositionY                                 15
+  10-02-2024 21:51:28:593:240                      dronePositionX                                 15
+   10-02-2024 21:51:28:694:60            Server performed 1 cycle                                 -
+  10-02-2024 21:51:28:694:207                     keypressedValue                                 -1
+  10-02-2024 21:51:28:694:272                      dronePositionY                                 15
+  10-02-2024 21:51:28:694:365                      dronePositionX                                 15
+  10-02-2024 21:51:28:794:875            Server performed 1 cycle                                 -
+   10-02-2024 21:51:28:795:11                     keypressedValue                                 -1
+   10-02-2024 21:51:28:795:74                      dronePositionY                                 15
+  10-02-2024 21:51:28:795:129                      dronePositionX                                 15
+  10-02-2024 21:51:28:895:689            Server performed 1 cycle                                 -
+  10-02-2024 21:51:28:895:837                     keypressedValue                                 -1
+  10-02-2024 21:51:28:895:904                      dronePositionY                                 15
+    10-02-2024 21:51:28:896:3                      dronePositionX                                 15
+  10-02-2024 21:51:28:996:499            Server performed 1 cycle                                 -
+  10-02-2024 21:51:28:996:648                     keypressedValue                                 -1
+  10-02-2024 21:51:28:996:713                      dronePositionY                                 15
+  10-02-2024 21:51:28:996:772                      dronePositionX                                 15
+   10-02-2024 21:51:29:97:188            Server performed 1 cycle                                 -
+   10-02-2024 21:51:29:97:337                     keypressedValue                                 -1
+   10-02-2024 21:51:29:97:402                      dronePositionY                                 15
+   10-02-2024 21:51:29:97:492                      dronePositionX                                 15
+  10-02-2024 21:51:29:198:327            Server performed 1 cycle                                 -
+  10-02-2024 21:51:29:198:473                     keypressedValue                                 -1
+  10-02-2024 21:51:29:198:539                      dronePositionY                                 15
+  10-02-2024 21:51:29:198:630                      dronePositionX                                 15
+  10-02-2024 21:51:29:298:909            Server performed 1 cycle                                 -
+   10-02-2024 21:51:29:299:38                     keypressedValue                                 -1
+  10-02-2024 21:51:29:299:102                      dronePositionY                                 15
+  10-02-2024 21:51:29:299:164                      dronePositionX                                 15
+  10-02-2024 21:51:29:399:452            Server performed 1 cycle                                 -
+  10-02-2024 21:51:29:399:590                     keypressedValue                                 -1
+  10-02-2024 21:51:29:399:656                      dronePositionY                                 15
+  10-02-2024 21:51:29:399:718                      dronePositionX                                 15
+  10-02-2024 21:51:29:500:247            Server performed 1 cycle                                 -
+  10-02-2024 21:51:29:500:384                     keypressedValue                                 -1
+  10-02-2024 21:51:29:500:445                      dronePositionY                                 15
+  10-02-2024 21:51:29:500:501                      dronePositionX                                 15
+   10-02-2024 21:51:29:601:42            Server performed 1 cycle                                 -
+  10-02-2024 21:51:29:601:177                     keypressedValue                                 -1
+  10-02-2024 21:51:29:601:240                      dronePositionY                                 15
+  10-02-2024 21:51:29:601:293                      dronePositionX                                 15
+  10-02-2024 21:51:29:701:538            Server performed 1 cycle                                 -
+  10-02-2024 21:51:29:701:687                     keypressedValue                                 -1
+  10-02-2024 21:51:29:701:752                      dronePositionY                                 15
+  10-02-2024 21:51:29:701:812                      dronePositionX                                 15
+   10-02-2024 21:51:29:702:67            Server performed 1 cycle                                 -
+  10-02-2024 21:51:29:702:348                     keypressedValue                                 -1
+  10-02-2024 21:51:29:702:437                      dronePositionY                                 15
+  10-02-2024 21:51:29:702:499                      dronePositionX                                 15
+  10-02-2024 21:51:29:802:747            Server performed 1 cycle                                 -
+  10-02-2024 21:51:29:802:857                     keypressedValue                                 -1
+  10-02-2024 21:51:29:802:915                      dronePositionY                                 15
+  10-02-2024 21:51:29:802:970                      dronePositionX                                 15
+  10-02-2024 21:51:29:903:253            Server performed 1 cycle                                 -
+  10-02-2024 21:51:29:903:373                     keypressedValue                                 -1
+  10-02-2024 21:51:29:903:433                      dronePositionY                                 15
+  10-02-2024 21:51:29:903:528                      dronePositionX                                 15
+     10-02-2024 21:51:30:4:27            Server performed 1 cycle                                 -
+    10-02-2024 21:51:30:4:190                     keypressedValue                                 -1
+    10-02-2024 21:51:30:7:374                      dronePositionY                                 15
+    10-02-2024 21:51:30:7:469                      dronePositionX                                 15
+   10-02-2024 21:51:30:108:99            Server performed 1 cycle                                 -
+  10-02-2024 21:51:30:108:233                     keypressedValue                                 -1
+  10-02-2024 21:51:30:108:293                      dronePositionY                                 15
+  10-02-2024 21:51:30:108:346                      dronePositionX                                 15
+  10-02-2024 21:51:30:209:165            Server performed 1 cycle                                 -
+  10-02-2024 21:51:30:209:311                     keypressedValue                                 -1
+  10-02-2024 21:51:30:209:376                      dronePositionY                                 15
+  10-02-2024 21:51:30:209:467                      dronePositionX                                 15
+   10-02-2024 21:51:30:310:11            Server performed 1 cycle                                 -
+  10-02-2024 21:51:30:310:158                     keypressedValue                                 -1
+  10-02-2024 21:51:30:310:224                      dronePositionY                                 15
+  10-02-2024 21:51:30:310:284                      dronePositionX                                 15
+  10-02-2024 21:51:30:410:830            Server performed 1 cycle                                 -
+  10-02-2024 21:51:30:410:968                     keypressedValue                                 -1
+   10-02-2024 21:51:30:411:28                      dronePositionY                                 15
+  10-02-2024 21:51:30:411:117                      dronePositionX                                 15
+  10-02-2024 21:51:30:511:424            Server performed 1 cycle                                 -
+  10-02-2024 21:51:30:511:559                     keypressedValue                                 -1
+  10-02-2024 21:51:30:511:625                      dronePositionY                                 15
+  10-02-2024 21:51:30:511:683                      dronePositionX                                 15
+  10-02-2024 21:51:30:611:969            Server performed 1 cycle                                 -
+   10-02-2024 21:51:30:612:91                     keypressedValue                                 -1
+  10-02-2024 21:51:30:612:152                      dronePositionY                                 15
+  10-02-2024 21:51:30:612:206                      dronePositionX                                 15
+  10-02-2024 21:51:30:712:800            Server performed 1 cycle                                 -
+  10-02-2024 21:51:30:712:937                     keypressedValue                                 -1
+  10-02-2024 21:51:30:712:997                      dronePositionY                                 15
+   10-02-2024 21:51:30:713:82                      dronePositionX                                 15
+  10-02-2024 21:51:30:813:514            Server performed 1 cycle                                 -
+  10-02-2024 21:51:30:813:651                     keypressedValue                                 -1
+  10-02-2024 21:51:30:813:712                      dronePositionY                                 15
+  10-02-2024 21:51:30:813:767                      dronePositionX                                 15
+  10-02-2024 21:51:30:914:108            Server performed 1 cycle                                 -
+  10-02-2024 21:51:30:914:259                     keypressedValue                                 -1
+  10-02-2024 21:51:30:914:325                      dronePositionY                                 15
+  10-02-2024 21:51:30:914:398                      dronePositionX                                 15
+   10-02-2024 21:51:31:14:930            Server performed 1 cycle                                 -
+    10-02-2024 21:51:31:15:78                     keypressedValue                                 -1
+   10-02-2024 21:51:31:15:145                      dronePositionY                                 15
+   10-02-2024 21:51:31:15:205                      dronePositionX                                 15
+  10-02-2024 21:51:31:115:749            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:115:897                     keypressedValue                                 -1
+  10-02-2024 21:51:31:115:964                      dronePositionY                                 15
+   10-02-2024 21:51:31:116:23                      dronePositionX                                 15
+  10-02-2024 21:51:31:216:853            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:216:990                     keypressedValue                                 -1
+   10-02-2024 21:51:31:217:50                      dronePositionY                                 15
+  10-02-2024 21:51:31:217:133                      dronePositionX                                 15
+  10-02-2024 21:51:31:317:566            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:317:702                     keypressedValue                                 -1
+  10-02-2024 21:51:31:317:761                      dronePositionY                                 15
+  10-02-2024 21:51:31:317:814                      dronePositionX                                 15
+  10-02-2024 21:51:31:418:295            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:418:430                     keypressedValue                                 -1
+  10-02-2024 21:51:31:418:488                      dronePositionY                                 15
+  10-02-2024 21:51:31:418:555                      dronePositionX                                 15
+  10-02-2024 21:51:31:518:811            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:518:928                     keypressedValue                                 -1
+  10-02-2024 21:51:31:518:987                      dronePositionY                                 15
+   10-02-2024 21:51:31:519:41                      dronePositionX                                 15
+  10-02-2024 21:51:31:619:404            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:619:553                     keypressedValue                                 -1
+  10-02-2024 21:51:31:619:619                      dronePositionY                                 15
+  10-02-2024 21:51:31:619:679                      dronePositionX                                 15
+  10-02-2024 21:51:31:720:505            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:720:642                     keypressedValue                                 -1
+  10-02-2024 21:51:31:720:703                      dronePositionY                                 15
+  10-02-2024 21:51:31:720:786                      dronePositionX                                 15
+  10-02-2024 21:51:31:821:315            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:821:451                     keypressedValue                                 -1
+  10-02-2024 21:51:31:821:510                      dronePositionY                                 15
+  10-02-2024 21:51:31:821:564                      dronePositionX                                 15
+   10-02-2024 21:51:31:922:42            Server performed 1 cycle                                 -
+  10-02-2024 21:51:31:922:178                     keypressedValue                                 -1
+  10-02-2024 21:51:31:922:236                      dronePositionY                                 15
+  10-02-2024 21:51:31:922:324                      dronePositionX                                 15
+   10-02-2024 21:51:32:22:849            Server performed 1 cycle                                 -
+   10-02-2024 21:51:32:22:985                     keypressedValue                                 -1
+    10-02-2024 21:51:32:23:44                      dronePositionY                                 15
+    10-02-2024 21:51:32:23:97                      dronePositionX                                 15
+  10-02-2024 21:51:32:123:660            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:123:830                     keypressedValue                                 -1
+  10-02-2024 21:51:32:123:896                      dronePositionY                                 15
+  10-02-2024 21:51:32:123:955                      dronePositionX                                 15
+  10-02-2024 21:51:32:224:788            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:224:926                     keypressedValue                                 -1
+  10-02-2024 21:51:32:224:986                      dronePositionY                                 15
+   10-02-2024 21:51:32:225:69                      dronePositionX                                 15
+  10-02-2024 21:51:32:325:601            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:325:737                     keypressedValue                                 -1
+  10-02-2024 21:51:32:325:796                      dronePositionY                                 15
+  10-02-2024 21:51:32:325:849                      dronePositionX                                 15
+  10-02-2024 21:51:32:426:321            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:426:456                     keypressedValue                                 -1
+  10-02-2024 21:51:32:426:515                      dronePositionY                                 15
+  10-02-2024 21:51:32:426:610                      dronePositionX                                 15
+  10-02-2024 21:51:32:527:130            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:527:278                     keypressedValue                                 -1
+  10-02-2024 21:51:32:527:343                      dronePositionY                                 15
+  10-02-2024 21:51:32:527:402                      dronePositionX                                 15
+  10-02-2024 21:51:32:627:729            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:627:865                     keypressedValue                                 -1
+  10-02-2024 21:51:32:627:926                      dronePositionY                                 15
+  10-02-2024 21:51:32:627:982                      dronePositionX                                 15
+  10-02-2024 21:51:32:728:799            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:728:933                     keypressedValue                                 -1
+  10-02-2024 21:51:32:728:992                      dronePositionY                                 15
+   10-02-2024 21:51:32:729:72                      dronePositionX                                 15
+  10-02-2024 21:51:32:829:610            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:829:746                     keypressedValue                                 -1
+  10-02-2024 21:51:32:829:806                      dronePositionY                                 15
+  10-02-2024 21:51:32:829:860                      dronePositionX                                 15
+  10-02-2024 21:51:32:930:418            Server performed 1 cycle                                 -
+  10-02-2024 21:51:32:930:564                     keypressedValue                                 -1
+  10-02-2024 21:51:32:930:629                      dronePositionY                                 15
+  10-02-2024 21:51:32:930:690                      dronePositionX                                 15
+   10-02-2024 21:51:33:31:235            Server performed 1 cycle                                 -
+   10-02-2024 21:51:33:31:399                     keypressedValue                                 -1
+   10-02-2024 21:51:33:31:468                      dronePositionY                                 15
+   10-02-2024 21:51:33:31:528                      dronePositionX                                 15
+   10-02-2024 21:51:33:132:67            Server performed 1 cycle                                 -
+  10-02-2024 21:51:33:132:226                     keypressedValue                                 -1
+  10-02-2024 21:51:33:132:284                      dronePositionY                                 15
+  10-02-2024 21:51:33:132:338                      dronePositionX                                 15
+   10-02-2024 21:51:33:233:13            Server performed 1 cycle                                 -
+   10-02-2024 21:51:33:233:59                     keypressedValue                                 -1
+   10-02-2024 21:51:33:233:84                      dronePositionY                                 15
+  10-02-2024 21:51:33:233:100                      dronePositionX                                 15
+  10-02-2024 21:51:33:333:773            Server performed 1 cycle                                 -
+  10-02-2024 21:51:33:333:963                     keypressedValue                                108
+   10-02-2024 21:51:33:334:34                      dronePositionY                                 15
+   10-02-2024 21:51:33:334:95                      dronePositionX                                 15
+   10-02-2024 21:51:33:346:54                    Received SIGTERM                                 -
+   10-02-2024 21:51:33:346:91            Server performed 1 cycle                                 -
+  10-02-2024 21:51:33:346:127                     keypressedValue                                 -1
+  10-02-2024 21:51:33:346:149                      dronePositionY                                 15
+  10-02-2024 21:51:33:346:170                      dronePositionX                                 15
+  10-02-2024 21:51:33:346:226         Closing all links and pipes                                 -
+  10-02-2024 21:51:33:346:258               Closed watch2serverfd                                 -
+  10-02-2024 21:51:33:346:291               Closed server2watchfd                                 -
+  10-02-2024 21:51:33:346:323               Closed UI2server_read                                 -
+  10-02-2024 21:51:33:346:358              Closed server2UI_write                                 -
+  10-02-2024 21:51:33:346:382            Closed drone2server_read                                 -
+  10-02-2024 21:51:33:346:404           Closed server2drone_write                                 -
+  10-02-2024 21:51:33:346:425                       Closed UI_ack                                 -
+  10-02-2024 21:51:33:346:446                    Closed drone_ack                                 -
+  10-02-2024 21:51:33:346:467         Closed targets2server1_read                                 -
+  10-02-2024 21:51:33:346:489         Closed targets2server2_read                                 -
+  10-02-2024 21:51:33:346:510         Closed server2targets_write                                 -
+  10-02-2024 21:51:33:346:531                   Closed target_ack                                 -
+  10-02-2024 21:51:33:346:552             Closed server2UItargetY                                 -
+  10-02-2024 21:51:33:346:573             Closed server2UItargetX                                 -
+  10-02-2024 21:51:33:346:594       Closed obstacles2server1_read                                 -
+  10-02-2024 21:51:33:346:620       Closed obstacles2server2_read                                 -
+  10-02-2024 21:51:33:346:649       Closed server2obstacles_write                                 -
+  10-02-2024 21:51:33:346:680                Closed obstacles_ack                                 -
+  10-02-2024 21:51:33:346:716          Closed server2UIobstaclesY                                 -
+  10-02-2024 21:51:33:346:751          Closed server2UIobstaclesX                                 -
+  10-02-2024 21:51:33:346:785       Closed server2droneobstaclesY                                 -
+  10-02-2024 21:51:33:346:819       Closed server2droneobstaclesX                                 -
+  10-02-2024 21:51:33:346:849                     Killing process                                 -

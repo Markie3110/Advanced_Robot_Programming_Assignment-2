@@ -1,0 +1,1876 @@
+                     DATE/TIME                   MESSAGE/VARIABLE                               DATA
+  10-02-2024 21:50:53:779:854                         Targets PID                              65385
+  10-02-2024 21:50:53:779:877                sent pid to watchdog                                 -
+  10-02-2024 21:51:00:465:378               received watchdog pid                                 -
+  10-02-2024 21:51:00:465:477                        watchdog_pid                              65451
+  10-02-2024 21:51:00:465:541                        target_count                                  9
+  10-02-2024 21:51:00:465:595           Drone and target coincide                                 -
+  10-02-2024 21:51:00:465:647           Drone and target coincide                                 -
+  10-02-2024 21:51:00:465:701           Drone and target coincide                                 -
+  10-02-2024 21:51:00:465:753           Drone and target coincide                                 -
+  10-02-2024 21:51:00:566:133                      dronePositionY                                 15
+  10-02-2024 21:51:00:566:224                      dronePositionX                                 15
+  10-02-2024 21:51:00:666:427           Drone and target coincide                                 -
+  10-02-2024 21:51:00:666:551           Drone and target coincide                                 -
+  10-02-2024 21:51:00:666:655           Drone and target coincide                                 -
+  10-02-2024 21:51:00:666:756           Drone and target coincide                                 -
+  10-02-2024 21:51:00:766:809                      dronePositionY                                 15
+  10-02-2024 21:51:00:766:841                      dronePositionX                                 15
+   10-02-2024 21:51:00:867:40           Drone and target coincide                                 -
+  10-02-2024 21:51:00:867:128           Drone and target coincide                                 -
+  10-02-2024 21:51:00:867:185           Drone and target coincide                                 -
+  10-02-2024 21:51:00:867:272           Drone and target coincide                                 -
+  10-02-2024 21:51:00:968:133                      dronePositionY                                 15
+  10-02-2024 21:51:00:968:230                      dronePositionX                                 15
+   10-02-2024 21:51:01:68:475           Drone and target coincide                                 -
+   10-02-2024 21:51:01:68:580           Drone and target coincide                                 -
+   10-02-2024 21:51:01:68:644           Drone and target coincide                                 -
+   10-02-2024 21:51:01:68:703           Drone and target coincide                                 -
+   10-02-2024 21:51:01:68:873                      dronePositionY                                 15
+   10-02-2024 21:51:01:68:984                      dronePositionX                                 15
+  10-02-2024 21:51:01:169:244           Drone and target coincide                                 -
+  10-02-2024 21:51:01:169:330           Drone and target coincide                                 -
+  10-02-2024 21:51:01:169:386           Drone and target coincide                                 -
+  10-02-2024 21:51:01:169:439           Drone and target coincide                                 -
+  10-02-2024 21:51:01:270:408                      dronePositionY                                 15
+  10-02-2024 21:51:01:270:547                      dronePositionX                                 15
+  10-02-2024 21:51:01:370:820           Drone and target coincide                                 -
+  10-02-2024 21:51:01:370:916           Drone and target coincide                                 -
+  10-02-2024 21:51:01:370:978           Drone and target coincide                                 -
+   10-02-2024 21:51:01:371:36           Drone and target coincide                                 -
+  10-02-2024 21:51:01:466:809                      dronePositionY                                 15
+  10-02-2024 21:51:01:466:956                      dronePositionX                                 15
+  10-02-2024 21:51:01:567:214           Drone and target coincide                                 -
+  10-02-2024 21:51:01:567:310           Drone and target coincide                                 -
+  10-02-2024 21:51:01:567:384           Drone and target coincide                                 -
+  10-02-2024 21:51:01:567:484           Drone and target coincide                                 -
+  10-02-2024 21:51:01:668:365                      dronePositionY                                 15
+  10-02-2024 21:51:01:668:491                      dronePositionX                                 15
+  10-02-2024 21:51:01:768:973           Drone and target coincide                                 -
+   10-02-2024 21:51:01:769:74           Drone and target coincide                                 -
+  10-02-2024 21:51:01:769:130           Drone and target coincide                                 -
+  10-02-2024 21:51:01:769:210           Drone and target coincide                                 -
+  10-02-2024 21:51:01:869:941                      dronePositionY                                 15
+   10-02-2024 21:51:01:870:98                      dronePositionX                                 15
+  10-02-2024 21:51:01:970:515           Drone and target coincide                                 -
+  10-02-2024 21:51:01:970:618           Drone and target coincide                                 -
+  10-02-2024 21:51:01:970:674           Drone and target coincide                                 -
+  10-02-2024 21:51:01:970:729           Drone and target coincide                                 -
+  10-02-2024 21:51:01:970:965                      dronePositionY                                 15
+   10-02-2024 21:51:01:971:46                      dronePositionX                                 15
+   10-02-2024 21:51:02:71:320           Drone and target coincide                                 -
+   10-02-2024 21:51:02:71:431           Drone and target coincide                                 -
+   10-02-2024 21:51:02:71:495           Drone and target coincide                                 -
+   10-02-2024 21:51:02:71:572           Drone and target coincide                                 -
+  10-02-2024 21:51:02:172:331                      dronePositionY                                 15
+  10-02-2024 21:51:02:172:429                      dronePositionX                                 15
+  10-02-2024 21:51:02:272:681           Drone and target coincide                                 -
+  10-02-2024 21:51:02:272:783           Drone and target coincide                                 -
+  10-02-2024 21:51:02:272:839           Drone and target coincide                                 -
+  10-02-2024 21:51:02:272:919           Drone and target coincide                                 -
+  10-02-2024 21:51:02:373:995                      dronePositionY                                 15
+   10-02-2024 21:51:02:374:91                      dronePositionX                                 15
+  10-02-2024 21:51:02:474:562           Drone and target coincide                                 -
+  10-02-2024 21:51:02:474:674           Drone and target coincide                                 -
+  10-02-2024 21:51:02:474:736           Drone and target coincide                                 -
+  10-02-2024 21:51:02:474:796           Drone and target coincide                                 -
+  10-02-2024 21:51:02:475:100                      dronePositionY                                 15
+  10-02-2024 21:51:02:475:230                      dronePositionX                                 15
+  10-02-2024 21:51:02:575:486           Drone and target coincide                                 -
+  10-02-2024 21:51:02:575:581           Drone and target coincide                                 -
+  10-02-2024 21:51:02:575:652           Drone and target coincide                                 -
+  10-02-2024 21:51:02:575:751           Drone and target coincide                                 -
+  10-02-2024 21:51:02:676:411                      dronePositionY                                 15
+  10-02-2024 21:51:02:676:551                      dronePositionX                                 15
+  10-02-2024 21:51:02:776:795           Drone and target coincide                                 -
+  10-02-2024 21:51:02:776:881           Drone and target coincide                                 -
+  10-02-2024 21:51:02:776:964           Drone and target coincide                                 -
+   10-02-2024 21:51:02:777:18           Drone and target coincide                                 -
+    10-02-2024 21:51:02:878:4                      dronePositionY                                 15
+  10-02-2024 21:51:02:878:130                      dronePositionX                                 15
+  10-02-2024 21:51:02:978:587           Drone and target coincide                                 -
+  10-02-2024 21:51:02:978:696           Drone and target coincide                                 -
+  10-02-2024 21:51:02:978:757           Drone and target coincide                                 -
+  10-02-2024 21:51:02:978:817           Drone and target coincide                                 -
+   10-02-2024 21:51:02:979:79                      dronePositionY                                 15
+  10-02-2024 21:51:02:979:169                      dronePositionX                                 15
+   10-02-2024 21:51:03:79:399           Drone and target coincide                                 -
+   10-02-2024 21:51:03:79:509           Drone and target coincide                                 -
+   10-02-2024 21:51:03:79:571           Drone and target coincide                                 -
+   10-02-2024 21:51:03:79:646           Drone and target coincide                                 -
+  10-02-2024 21:51:03:180:685                      dronePositionY                                 15
+  10-02-2024 21:51:03:180:780                      dronePositionX                                 15
+    10-02-2024 21:51:03:281:4           Drone and target coincide                                 -
+  10-02-2024 21:51:03:281:129           Drone and target coincide                                 -
+  10-02-2024 21:51:03:281:226           Drone and target coincide                                 -
+  10-02-2024 21:51:03:281:330           Drone and target coincide                                 -
+  10-02-2024 21:51:03:382:147                      dronePositionY                                 15
+  10-02-2024 21:51:03:382:244                      dronePositionX                                 15
+  10-02-2024 21:51:03:482:724           Drone and target coincide                                 -
+  10-02-2024 21:51:03:482:826           Drone and target coincide                                 -
+  10-02-2024 21:51:03:482:883           Drone and target coincide                                 -
+  10-02-2024 21:51:03:482:937           Drone and target coincide                                 -
+  10-02-2024 21:51:03:483:218                      dronePositionY                                 15
+  10-02-2024 21:51:03:483:334                      dronePositionX                                 15
+  10-02-2024 21:51:03:583:582           Drone and target coincide                                 -
+  10-02-2024 21:51:03:583:679           Drone and target coincide                                 -
+  10-02-2024 21:51:03:583:741           Drone and target coincide                                 -
+  10-02-2024 21:51:03:583:824           Drone and target coincide                                 -
+  10-02-2024 21:51:03:684:842                      dronePositionY                                 15
+  10-02-2024 21:51:03:684:981                      dronePositionX                                 15
+  10-02-2024 21:51:03:785:223           Drone and target coincide                                 -
+  10-02-2024 21:51:03:785:311           Drone and target coincide                                 -
+  10-02-2024 21:51:03:785:395           Drone and target coincide                                 -
+  10-02-2024 21:51:03:785:477           Drone and target coincide                                 -
+  10-02-2024 21:51:03:886:454                      dronePositionY                                 15
+  10-02-2024 21:51:03:886:578                      dronePositionX                                 15
+   10-02-2024 21:51:03:987:66           Drone and target coincide                                 -
+  10-02-2024 21:51:03:987:174           Drone and target coincide                                 -
+  10-02-2024 21:51:03:987:236           Drone and target coincide                                 -
+  10-02-2024 21:51:03:987:295           Drone and target coincide                                 -
+  10-02-2024 21:51:03:987:559                      dronePositionY                                 15
+  10-02-2024 21:51:03:987:650                      dronePositionX                                 15
+   10-02-2024 21:51:04:87:878           Drone and target coincide                                 -
+   10-02-2024 21:51:04:87:985           Drone and target coincide                                 -
+    10-02-2024 21:51:04:88:48           Drone and target coincide                                 -
+   10-02-2024 21:51:04:88:124           Drone and target coincide                                 -
+  10-02-2024 21:51:04:189:138                      dronePositionY                                 15
+  10-02-2024 21:51:04:189:260                      dronePositionX                                 15
+  10-02-2024 21:51:04:289:505           Drone and target coincide                                 -
+  10-02-2024 21:51:04:289:606           Drone and target coincide                                 -
+  10-02-2024 21:51:04:289:662           Drone and target coincide                                 -
+  10-02-2024 21:51:04:289:742           Drone and target coincide                                 -
+  10-02-2024 21:51:04:390:747                      dronePositionY                                 15
+  10-02-2024 21:51:04:390:834                      dronePositionX                                 15
+  10-02-2024 21:51:04:491:348           Drone and target coincide                                 -
+  10-02-2024 21:51:04:491:457           Drone and target coincide                                 -
+  10-02-2024 21:51:04:491:520           Drone and target coincide                                 -
+  10-02-2024 21:51:04:491:579           Drone and target coincide                                 -
+  10-02-2024 21:51:04:491:887                      dronePositionY                                 15
+   10-02-2024 21:51:04:492:17                      dronePositionX                                 15
+  10-02-2024 21:51:04:592:265           Drone and target coincide                                 -
+  10-02-2024 21:51:04:592:361           Drone and target coincide                                 -
+  10-02-2024 21:51:04:592:458           Drone and target coincide                                 -
+  10-02-2024 21:51:04:592:553           Drone and target coincide                                 -
+  10-02-2024 21:51:04:693:445                      dronePositionY                                 15
+  10-02-2024 21:51:04:693:583                      dronePositionX                                 15
+  10-02-2024 21:51:04:793:828           Drone and target coincide                                 -
+  10-02-2024 21:51:04:793:983           Drone and target coincide                                 -
+   10-02-2024 21:51:04:794:42           Drone and target coincide                                 -
+  10-02-2024 21:51:04:794:123           Drone and target coincide                                 -
+  10-02-2024 21:51:04:796:915                      dronePositionY                                 15
+   10-02-2024 21:51:04:797:15                      dronePositionX                                 15
+  10-02-2024 21:51:04:897:259           Drone and target coincide                                 -
+  10-02-2024 21:51:04:897:352           Drone and target coincide                                 -
+  10-02-2024 21:51:04:897:435           Drone and target coincide                                 -
+  10-02-2024 21:51:04:897:491           Drone and target coincide                                 -
+  10-02-2024 21:51:04:897:567                      dronePositionY                                 15
+  10-02-2024 21:51:04:897:621                      dronePositionX                                 15
+  10-02-2024 21:51:04:998:188           Drone and target coincide                                 -
+  10-02-2024 21:51:04:998:299           Drone and target coincide                                 -
+  10-02-2024 21:51:04:998:361           Drone and target coincide                                 -
+  10-02-2024 21:51:04:998:420           Drone and target coincide                                 -
+  10-02-2024 21:51:04:998:700                      dronePositionY                                 15
+  10-02-2024 21:51:04:998:825                      dronePositionX                                 15
+    10-02-2024 21:51:05:99:75           Drone and target coincide                                 -
+   10-02-2024 21:51:05:99:172           Drone and target coincide                                 -
+   10-02-2024 21:51:05:99:236           Drone and target coincide                                 -
+   10-02-2024 21:51:05:99:296           Drone and target coincide                                 -
+   10-02-2024 21:51:05:99:598                      dronePositionY                                 15
+   10-02-2024 21:51:05:99:691                      dronePositionX                                 15
+  10-02-2024 21:51:05:199:915           Drone and target coincide                                 -
+   10-02-2024 21:51:05:200:26           Drone and target coincide                                 -
+  10-02-2024 21:51:05:200:131           Drone and target coincide                                 -
+  10-02-2024 21:51:05:200:230           Drone and target coincide                                 -
+  10-02-2024 21:51:05:200:364                      dronePositionY                                 15
+  10-02-2024 21:51:05:200:467                      dronePositionX                                 15
+  10-02-2024 21:51:05:300:717           Drone and target coincide                                 -
+  10-02-2024 21:51:05:300:805           Drone and target coincide                                 -
+  10-02-2024 21:51:05:300:862           Drone and target coincide                                 -
+  10-02-2024 21:51:05:300:915           Drone and target coincide                                 -
+  10-02-2024 21:51:05:300:986                      dronePositionY                                 15
+   10-02-2024 21:51:05:301:41                      dronePositionX                                 15
+  10-02-2024 21:51:05:401:258           Drone and target coincide                                 -
+  10-02-2024 21:51:05:401:355           Drone and target coincide                                 -
+  10-02-2024 21:51:05:401:419           Drone and target coincide                                 -
+  10-02-2024 21:51:05:401:479           Drone and target coincide                                 -
+  10-02-2024 21:51:05:401:589                      dronePositionY                                 15
+  10-02-2024 21:51:05:401:651                      dronePositionX                                 15
+  10-02-2024 21:51:05:502:210           Drone and target coincide                                 -
+  10-02-2024 21:51:05:502:324           Drone and target coincide                                 -
+  10-02-2024 21:51:05:502:389           Drone and target coincide                                 -
+  10-02-2024 21:51:05:502:450           Drone and target coincide                                 -
+  10-02-2024 21:51:05:502:802                      dronePositionY                                 15
+  10-02-2024 21:51:05:502:893                      dronePositionX                                 15
+  10-02-2024 21:51:05:603:105           Drone and target coincide                                 -
+  10-02-2024 21:51:05:603:219           Drone and target coincide                                 -
+  10-02-2024 21:51:05:603:275           Drone and target coincide                                 -
+  10-02-2024 21:51:05:603:328           Drone and target coincide                                 -
+  10-02-2024 21:51:05:603:557                      dronePositionY                                 15
+  10-02-2024 21:51:05:603:642                      dronePositionX                                 15
+  10-02-2024 21:51:05:703:864           Drone and target coincide                                 -
+  10-02-2024 21:51:05:703:960           Drone and target coincide                                 -
+   10-02-2024 21:51:05:704:22           Drone and target coincide                                 -
+   10-02-2024 21:51:05:704:82           Drone and target coincide                                 -
+  10-02-2024 21:51:05:704:351                      dronePositionY                                 15
+  10-02-2024 21:51:05:704:442                      dronePositionX                                 15
+  10-02-2024 21:51:05:804:657           Drone and target coincide                                 -
+  10-02-2024 21:51:05:804:760           Drone and target coincide                                 -
+  10-02-2024 21:51:05:804:844           Drone and target coincide                                 -
+  10-02-2024 21:51:05:804:901           Drone and target coincide                                 -
+   10-02-2024 21:51:05:805:36                      dronePositionY                                 15
+   10-02-2024 21:51:05:805:97                      dronePositionX                                 15
+  10-02-2024 21:51:05:905:315           Drone and target coincide                                 -
+  10-02-2024 21:51:05:905:411           Drone and target coincide                                 -
+  10-02-2024 21:51:05:905:473           Drone and target coincide                                 -
+  10-02-2024 21:51:05:905:532           Drone and target coincide                                 -
+  10-02-2024 21:51:05:905:647                      dronePositionY                                 15
+  10-02-2024 21:51:05:905:712                      dronePositionX                                 15
+    10-02-2024 21:51:06:6:235           Drone and target coincide                                 -
+    10-02-2024 21:51:06:6:335           Drone and target coincide                                 -
+    10-02-2024 21:51:06:6:392           Drone and target coincide                                 -
+    10-02-2024 21:51:06:6:447           Drone and target coincide                                 -
+    10-02-2024 21:51:06:6:679                      dronePositionY                                 15
+    10-02-2024 21:51:06:6:761                      dronePositionX                                 15
+   10-02-2024 21:51:06:107:43           Drone and target coincide                                 -
+  10-02-2024 21:51:06:107:145           Drone and target coincide                                 -
+  10-02-2024 21:51:06:107:203           Drone and target coincide                                 -
+  10-02-2024 21:51:06:107:257           Drone and target coincide                                 -
+  10-02-2024 21:51:06:107:613                      dronePositionY                                 15
+  10-02-2024 21:51:06:107:696                      dronePositionX                                 15
+  10-02-2024 21:51:06:207:917           Drone and target coincide                                 -
+   10-02-2024 21:51:06:208:12           Drone and target coincide                                 -
+   10-02-2024 21:51:06:208:77           Drone and target coincide                                 -
+  10-02-2024 21:51:06:208:137           Drone and target coincide                                 -
+  10-02-2024 21:51:06:208:271                      dronePositionY                                 15
+  10-02-2024 21:51:06:208:367                      dronePositionX                                 15
+  10-02-2024 21:51:06:308:689           Drone and target coincide                                 -
+  10-02-2024 21:51:06:308:792           Drone and target coincide                                 -
+  10-02-2024 21:51:06:308:875           Drone and target coincide                                 -
+  10-02-2024 21:51:06:308:933           Drone and target coincide                                 -
+  10-02-2024 21:51:06:309:134                      dronePositionY                                 15
+  10-02-2024 21:51:06:309:216                      dronePositionX                                 15
+  10-02-2024 21:51:06:409:501           Drone and target coincide                                 -
+  10-02-2024 21:51:06:409:603           Drone and target coincide                                 -
+  10-02-2024 21:51:06:409:660           Drone and target coincide                                 -
+  10-02-2024 21:51:06:409:714           Drone and target coincide                                 -
+  10-02-2024 21:51:06:409:887                      dronePositionY                                 15
+    10-02-2024 21:51:06:410:4                      dronePositionX                                 15
+  10-02-2024 21:51:06:510:519           Drone and target coincide                                 -
+  10-02-2024 21:51:06:510:621           Drone and target coincide                                 -
+  10-02-2024 21:51:06:510:679           Drone and target coincide                                 -
+  10-02-2024 21:51:06:510:733           Drone and target coincide                                 -
+   10-02-2024 21:51:06:511:38                      dronePositionY                                 15
+  10-02-2024 21:51:06:511:120                      dronePositionX                                 15
+  10-02-2024 21:51:06:611:329           Drone and target coincide                                 -
+  10-02-2024 21:51:06:611:416           Drone and target coincide                                 -
+  10-02-2024 21:51:06:611:471           Drone and target coincide                                 -
+  10-02-2024 21:51:06:611:523           Drone and target coincide                                 -
+  10-02-2024 21:51:06:611:640                      dronePositionY                                 15
+  10-02-2024 21:51:06:611:700                      dronePositionX                                 15
+  10-02-2024 21:51:06:711:925           Drone and target coincide                                 -
+   10-02-2024 21:51:06:712:19           Drone and target coincide                                 -
+   10-02-2024 21:51:06:712:80           Drone and target coincide                                 -
+  10-02-2024 21:51:06:712:140           Drone and target coincide                                 -
+  10-02-2024 21:51:06:712:220                      dronePositionY                                 15
+  10-02-2024 21:51:06:712:280                      dronePositionX                                 15
+  10-02-2024 21:51:06:812:489           Drone and target coincide                                 -
+  10-02-2024 21:51:06:812:604           Drone and target coincide                                 -
+  10-02-2024 21:51:06:812:663           Drone and target coincide                                 -
+  10-02-2024 21:51:06:812:716           Drone and target coincide                                 -
+  10-02-2024 21:51:06:812:790                      dronePositionY                                 15
+  10-02-2024 21:51:06:812:844                      dronePositionX                                 15
+   10-02-2024 21:51:06:913:59           Drone and target coincide                                 -
+  10-02-2024 21:51:06:913:155           Drone and target coincide                                 -
+  10-02-2024 21:51:06:913:217           Drone and target coincide                                 -
+  10-02-2024 21:51:06:913:276           Drone and target coincide                                 -
+  10-02-2024 21:51:06:913:382                      dronePositionY                                 15
+  10-02-2024 21:51:06:913:444                      dronePositionX                                 15
+   10-02-2024 21:51:07:13:979           Drone and target coincide                                 -
+    10-02-2024 21:51:07:14:75           Drone and target coincide                                 -
+   10-02-2024 21:51:07:14:132           Drone and target coincide                                 -
+   10-02-2024 21:51:07:14:186           Drone and target coincide                                 -
+   10-02-2024 21:51:07:14:443                      dronePositionY                                 15
+   10-02-2024 21:51:07:14:527                      dronePositionX                                 15
+  10-02-2024 21:51:07:114:781           Drone and target coincide                                 -
+  10-02-2024 21:51:07:114:883           Drone and target coincide                                 -
+  10-02-2024 21:51:07:114:940           Drone and target coincide                                 -
+  10-02-2024 21:51:07:114:994           Drone and target coincide                                 -
+  10-02-2024 21:51:07:115:338                      dronePositionY                                 15
+  10-02-2024 21:51:07:115:421                      dronePositionX                                 15
+  10-02-2024 21:51:07:215:648           Drone and target coincide                                 -
+  10-02-2024 21:51:07:215:744           Drone and target coincide                                 -
+  10-02-2024 21:51:07:215:806           Drone and target coincide                                 -
+  10-02-2024 21:51:07:215:867           Drone and target coincide                                 -
+  10-02-2024 21:51:07:215:946                      dronePositionY                                 15
+    10-02-2024 21:51:07:216:7                      dronePositionX                                 15
+  10-02-2024 21:51:07:316:225           Drone and target coincide                                 -
+  10-02-2024 21:51:07:316:321           Drone and target coincide                                 -
+  10-02-2024 21:51:07:316:418           Drone and target coincide                                 -
+  10-02-2024 21:51:07:316:477           Drone and target coincide                                 -
+  10-02-2024 21:51:07:316:585                      dronePositionY                                 15
+  10-02-2024 21:51:07:316:649                      dronePositionX                                 15
+  10-02-2024 21:51:07:416:858           Drone and target coincide                                 -
+  10-02-2024 21:51:07:416:945           Drone and target coincide                                 -
+    10-02-2024 21:51:07:417:3           Drone and target coincide                                 -
+   10-02-2024 21:51:07:417:56           Drone and target coincide                                 -
+  10-02-2024 21:51:07:417:130                      dronePositionY                                 15
+  10-02-2024 21:51:07:417:183                      dronePositionX                                 15
+  10-02-2024 21:51:07:517:344           Drone and target coincide                                 -
+  10-02-2024 21:51:07:517:431           Drone and target coincide                                 -
+  10-02-2024 21:51:07:517:486           Drone and target coincide                                 -
+  10-02-2024 21:51:07:517:539           Drone and target coincide                                 -
+  10-02-2024 21:51:07:517:769                      dronePositionY                                 15
+  10-02-2024 21:51:07:517:828                      dronePositionX                                 15
+   10-02-2024 21:51:07:618:81           Drone and target coincide                                 -
+  10-02-2024 21:51:07:618:178           Drone and target coincide                                 -
+  10-02-2024 21:51:07:618:240           Drone and target coincide                                 -
+  10-02-2024 21:51:07:618:325           Drone and target coincide                                 -
+  10-02-2024 21:51:07:618:564                      dronePositionY                                 15
+  10-02-2024 21:51:07:618:655                      dronePositionX                                 15
+  10-02-2024 21:51:07:718:875           Drone and target coincide                                 -
+  10-02-2024 21:51:07:718:961           Drone and target coincide                                 -
+   10-02-2024 21:51:07:719:17           Drone and target coincide                                 -
+   10-02-2024 21:51:07:719:69           Drone and target coincide                                 -
+  10-02-2024 21:51:07:719:140                      dronePositionY                                 15
+  10-02-2024 21:51:07:719:195                      dronePositionX                                 15
+  10-02-2024 21:51:07:819:443           Drone and target coincide                                 -
+  10-02-2024 21:51:07:819:538           Drone and target coincide                                 -
+  10-02-2024 21:51:07:819:600           Drone and target coincide                                 -
+  10-02-2024 21:51:07:819:658           Drone and target coincide                                 -
+  10-02-2024 21:51:07:819:738                      dronePositionY                                 15
+  10-02-2024 21:51:07:819:797                      dronePositionX                                 15
+   10-02-2024 21:51:07:920:23           Drone and target coincide                                 -
+  10-02-2024 21:51:07:920:119           Drone and target coincide                                 -
+  10-02-2024 21:51:07:920:179           Drone and target coincide                                 -
+  10-02-2024 21:51:07:920:237           Drone and target coincide                                 -
+  10-02-2024 21:51:07:920:318                      dronePositionY                                 15
+  10-02-2024 21:51:07:920:377                      dronePositionX                                 15
+   10-02-2024 21:51:08:20:725           Drone and target coincide                                 -
+   10-02-2024 21:51:08:20:829           Drone and target coincide                                 -
+   10-02-2024 21:51:08:20:886           Drone and target coincide                                 -
+   10-02-2024 21:51:08:20:939           Drone and target coincide                                 -
+   10-02-2024 21:51:08:21:297                      dronePositionY                                 15
+   10-02-2024 21:51:08:21:378                      dronePositionX                                 15
+  10-02-2024 21:51:08:121:593           Drone and target coincide                                 -
+  10-02-2024 21:51:08:121:689           Drone and target coincide                                 -
+  10-02-2024 21:51:08:121:750           Drone and target coincide                                 -
+  10-02-2024 21:51:08:121:808           Drone and target coincide                                 -
+    10-02-2024 21:51:08:122:8                      dronePositionY                                 15
+   10-02-2024 21:51:08:122:81                      dronePositionX                                 15
+  10-02-2024 21:51:08:222:303           Drone and target coincide                                 -
+  10-02-2024 21:51:08:222:397           Drone and target coincide                                 -
+  10-02-2024 21:51:08:222:459           Drone and target coincide                                 -
+  10-02-2024 21:51:08:222:519           Drone and target coincide                                 -
+  10-02-2024 21:51:08:222:854                      dronePositionY                                 15
+  10-02-2024 21:51:08:222:943                      dronePositionX                                 15
+  10-02-2024 21:51:08:323:156           Drone and target coincide                                 -
+  10-02-2024 21:51:08:323:271           Drone and target coincide                                 -
+  10-02-2024 21:51:08:323:355           Drone and target coincide                                 -
+  10-02-2024 21:51:08:323:409           Drone and target coincide                                 -
+  10-02-2024 21:51:08:323:608                      dronePositionY                                 15
+  10-02-2024 21:51:08:323:690                      dronePositionX                                 15
+  10-02-2024 21:51:08:423:896           Drone and target coincide                                 -
+  10-02-2024 21:51:08:423:984           Drone and target coincide                                 -
+   10-02-2024 21:51:08:424:38           Drone and target coincide                                 -
+   10-02-2024 21:51:08:424:90           Drone and target coincide                                 -
+  10-02-2024 21:51:08:424:162                      dronePositionY                                 15
+  10-02-2024 21:51:08:424:216                      dronePositionX                                 15
+  10-02-2024 21:51:08:524:584           Drone and target coincide                                 -
+  10-02-2024 21:51:08:524:689           Drone and target coincide                                 -
+  10-02-2024 21:51:08:524:747           Drone and target coincide                                 -
+  10-02-2024 21:51:08:524:821           Drone and target coincide                                 -
+  10-02-2024 21:51:08:525:198                      dronePositionY                                 15
+  10-02-2024 21:51:08:525:289                      dronePositionX                                 15
+  10-02-2024 21:51:08:625:507           Drone and target coincide                                 -
+  10-02-2024 21:51:08:625:595           Drone and target coincide                                 -
+  10-02-2024 21:51:08:625:651           Drone and target coincide                                 -
+  10-02-2024 21:51:08:625:705           Drone and target coincide                                 -
+  10-02-2024 21:51:08:625:777                      dronePositionY                                 15
+  10-02-2024 21:51:08:625:831                      dronePositionX                                 15
+   10-02-2024 21:51:08:726:73           Drone and target coincide                                 -
+  10-02-2024 21:51:08:726:168           Drone and target coincide                                 -
+  10-02-2024 21:51:08:726:230           Drone and target coincide                                 -
+  10-02-2024 21:51:08:726:288           Drone and target coincide                                 -
+  10-02-2024 21:51:08:726:535                      dronePositionY                                 15
+  10-02-2024 21:51:08:726:628                      dronePositionX                                 15
+  10-02-2024 21:51:08:826:765           Drone and target coincide                                 -
+  10-02-2024 21:51:08:826:851           Drone and target coincide                                 -
+  10-02-2024 21:51:08:826:906           Drone and target coincide                                 -
+  10-02-2024 21:51:08:826:957           Drone and target coincide                                 -
+   10-02-2024 21:51:08:827:31                      dronePositionY                                 15
+   10-02-2024 21:51:08:827:85                      dronePositionX                                 15
+  10-02-2024 21:51:08:927:294           Drone and target coincide                                 -
+  10-02-2024 21:51:08:927:380           Drone and target coincide                                 -
+  10-02-2024 21:51:08:927:434           Drone and target coincide                                 -
+  10-02-2024 21:51:08:927:487           Drone and target coincide                                 -
+  10-02-2024 21:51:08:927:715                      dronePositionY                                 15
+  10-02-2024 21:51:08:927:817                      dronePositionX                                 15
+    10-02-2024 21:51:09:28:38           Drone and target coincide                                 -
+   10-02-2024 21:51:09:28:152           Drone and target coincide                                 -
+   10-02-2024 21:51:09:28:211           Drone and target coincide                                 -
+   10-02-2024 21:51:09:28:262           Drone and target coincide                                 -
+   10-02-2024 21:51:09:28:530                      dronePositionY                                 15
+   10-02-2024 21:51:09:28:612                      dronePositionX                                 15
+  10-02-2024 21:51:09:128:828           Drone and target coincide                                 -
+  10-02-2024 21:51:09:128:917           Drone and target coincide                                 -
+  10-02-2024 21:51:09:128:974           Drone and target coincide                                 -
+   10-02-2024 21:51:09:129:27           Drone and target coincide                                 -
+  10-02-2024 21:51:09:129:322                      dronePositionY                                 15
+  10-02-2024 21:51:09:129:405                      dronePositionX                                 15
+  10-02-2024 21:51:09:229:623           Drone and target coincide                                 -
+  10-02-2024 21:51:09:229:719           Drone and target coincide                                 -
+  10-02-2024 21:51:09:229:780           Drone and target coincide                                 -
+  10-02-2024 21:51:09:229:840           Drone and target coincide                                 -
+  10-02-2024 21:51:09:230:237                      dronePositionY                                 15
+  10-02-2024 21:51:09:230:329                      dronePositionX                                 15
+  10-02-2024 21:51:09:330:580           Drone and target coincide                                 -
+  10-02-2024 21:51:09:330:684           Drone and target coincide                                 -
+  10-02-2024 21:51:09:330:767           Drone and target coincide                                 -
+  10-02-2024 21:51:09:330:824           Drone and target coincide                                 -
+  10-02-2024 21:51:09:331:135                      dronePositionY                                 15
+  10-02-2024 21:51:09:331:220                      dronePositionX                                 15
+  10-02-2024 21:51:09:431:431           Drone and target coincide                                 -
+  10-02-2024 21:51:09:431:518           Drone and target coincide                                 -
+  10-02-2024 21:51:09:431:574           Drone and target coincide                                 -
+  10-02-2024 21:51:09:431:627           Drone and target coincide                                 -
+  10-02-2024 21:51:09:431:701                      dronePositionY                                 15
+  10-02-2024 21:51:09:431:754                      dronePositionX                                 15
+  10-02-2024 21:51:09:532:128           Drone and target coincide                                 -
+  10-02-2024 21:51:09:532:241           Drone and target coincide                                 -
+  10-02-2024 21:51:09:532:303           Drone and target coincide                                 -
+  10-02-2024 21:51:09:532:361           Drone and target coincide                                 -
+  10-02-2024 21:51:09:532:745                      dronePositionY                                 15
+  10-02-2024 21:51:09:532:837                      dronePositionX                                 15
+   10-02-2024 21:51:09:633:53           Drone and target coincide                                 -
+  10-02-2024 21:51:09:633:139           Drone and target coincide                                 -
+  10-02-2024 21:51:09:633:197           Drone and target coincide                                 -
+  10-02-2024 21:51:09:633:249           Drone and target coincide                                 -
+  10-02-2024 21:51:09:633:348                      dronePositionY                                 15
+  10-02-2024 21:51:09:633:406                      dronePositionX                                 15
+  10-02-2024 21:51:09:733:650           Drone and target coincide                                 -
+  10-02-2024 21:51:09:733:766           Drone and target coincide                                 -
+  10-02-2024 21:51:09:733:830           Drone and target coincide                                 -
+  10-02-2024 21:51:09:733:890           Drone and target coincide                                 -
+  10-02-2024 21:51:09:734:302                      dronePositionY                                 15
+  10-02-2024 21:51:09:734:394                      dronePositionX                                 15
+  10-02-2024 21:51:09:834:612           Drone and target coincide                                 -
+  10-02-2024 21:51:09:836:632           Drone and target coincide                                 -
+  10-02-2024 21:51:09:836:701           Drone and target coincide                                 -
+  10-02-2024 21:51:09:836:757           Drone and target coincide                                 -
+  10-02-2024 21:51:09:836:978                      dronePositionY                                 15
+   10-02-2024 21:51:09:837:59                      dronePositionX                                 15
+  10-02-2024 21:51:09:937:284           Drone and target coincide                                 -
+  10-02-2024 21:51:09:937:371           Drone and target coincide                                 -
+  10-02-2024 21:51:09:937:426           Drone and target coincide                                 -
+  10-02-2024 21:51:09:937:478           Drone and target coincide                                 -
+  10-02-2024 21:51:09:937:547                      dronePositionY                                 15
+  10-02-2024 21:51:09:937:601                      dronePositionX                                 15
+     10-02-2024 21:51:10:38:3           Drone and target coincide                                 -
+   10-02-2024 21:51:10:38:112           Drone and target coincide                                 -
+   10-02-2024 21:51:10:38:169           Drone and target coincide                                 -
+   10-02-2024 21:51:10:38:222           Drone and target coincide                                 -
+   10-02-2024 21:51:10:38:296                      dronePositionY                                 15
+   10-02-2024 21:51:10:38:350                      dronePositionX                                 15
+  10-02-2024 21:51:10:138:533           Drone and target coincide                                 -
+  10-02-2024 21:51:10:138:632           Drone and target coincide                                 -
+  10-02-2024 21:51:10:138:695           Drone and target coincide                                 -
+  10-02-2024 21:51:10:138:752           Drone and target coincide                                 -
+  10-02-2024 21:51:10:138:832                      dronePositionY                                 15
+  10-02-2024 21:51:10:138:891                      dronePositionX                                 15
+  10-02-2024 21:51:10:239:119           Drone and target coincide                                 -
+  10-02-2024 21:51:10:239:213           Drone and target coincide                                 -
+  10-02-2024 21:51:10:239:274           Drone and target coincide                                 -
+  10-02-2024 21:51:10:239:332           Drone and target coincide                                 -
+  10-02-2024 21:51:10:239:411                      dronePositionY                                 15
+  10-02-2024 21:51:10:239:471                      dronePositionX                                 15
+   10-02-2024 21:51:10:338:79           Drone and target coincide                                 -
+  10-02-2024 21:51:10:338:165           Drone and target coincide                                 -
+  10-02-2024 21:51:10:338:223           Drone and target coincide                                 -
+  10-02-2024 21:51:10:338:276           Drone and target coincide                                 -
+  10-02-2024 21:51:10:338:568                      dronePositionY                                 15
+  10-02-2024 21:51:10:338:650                      dronePositionX                                 15
+  10-02-2024 21:51:10:438:890           Drone and target coincide                                 -
+  10-02-2024 21:51:10:438:985           Drone and target coincide                                 -
+   10-02-2024 21:51:10:439:45           Drone and target coincide                                 -
+  10-02-2024 21:51:10:439:104           Drone and target coincide                                 -
+  10-02-2024 21:51:10:439:185                      dronePositionY                                 15
+  10-02-2024 21:51:10:439:245                      dronePositionX                                 15
+  10-02-2024 21:51:10:539:578           Drone and target coincide                                 -
+  10-02-2024 21:51:10:539:688           Drone and target coincide                                 -
+  10-02-2024 21:51:10:539:751           Drone and target coincide                                 -
+  10-02-2024 21:51:10:539:809           Drone and target coincide                                 -
+  10-02-2024 21:51:10:540:197                      dronePositionY                                 15
+  10-02-2024 21:51:10:540:288                      dronePositionX                                 15
+  10-02-2024 21:51:10:640:528           Drone and target coincide                                 -
+  10-02-2024 21:51:10:640:624           Drone and target coincide                                 -
+  10-02-2024 21:51:10:640:685           Drone and target coincide                                 -
+  10-02-2024 21:51:10:640:743           Drone and target coincide                                 -
+  10-02-2024 21:51:10:640:825                      dronePositionY                                 15
+  10-02-2024 21:51:10:640:886                      dronePositionX                                 15
+  10-02-2024 21:51:10:741:116           Drone and target coincide                                 -
+  10-02-2024 21:51:10:741:210           Drone and target coincide                                 -
+  10-02-2024 21:51:10:741:271           Drone and target coincide                                 -
+  10-02-2024 21:51:10:741:329           Drone and target coincide                                 -
+  10-02-2024 21:51:10:741:409                      dronePositionY                                 15
+  10-02-2024 21:51:10:741:470                      dronePositionX                                 15
+  10-02-2024 21:51:10:841:709           Drone and target coincide                                 -
+  10-02-2024 21:51:10:841:795           Drone and target coincide                                 -
+  10-02-2024 21:51:10:841:850           Drone and target coincide                                 -
+  10-02-2024 21:51:10:841:932           Drone and target coincide                                 -
+  10-02-2024 21:51:10:842:144                      dronePositionY                                 15
+  10-02-2024 21:51:10:842:227                      dronePositionX                                 15
+  10-02-2024 21:51:10:942:443           Drone and target coincide                                 -
+  10-02-2024 21:51:10:942:539           Drone and target coincide                                 -
+  10-02-2024 21:51:10:942:600           Drone and target coincide                                 -
+  10-02-2024 21:51:10:942:658           Drone and target coincide                                 -
+  10-02-2024 21:51:10:942:739                      dronePositionY                                 15
+  10-02-2024 21:51:10:942:799                      dronePositionX                                 15
+   10-02-2024 21:51:11:43:205           Drone and target coincide                                 -
+   10-02-2024 21:51:11:43:310           Drone and target coincide                                 -
+   10-02-2024 21:51:11:43:367           Drone and target coincide                                 -
+   10-02-2024 21:51:11:43:447           Drone and target coincide                                 -
+   10-02-2024 21:51:11:43:773                      dronePositionY                                 15
+   10-02-2024 21:51:11:43:855                      dronePositionX                                 15
+   10-02-2024 21:51:11:144:63           Drone and target coincide                                 -
+  10-02-2024 21:51:11:144:149           Drone and target coincide                                 -
+  10-02-2024 21:51:11:144:205           Drone and target coincide                                 -
+  10-02-2024 21:51:11:144:259           Drone and target coincide                                 -
+  10-02-2024 21:51:11:144:561                      dronePositionY                                 15
+  10-02-2024 21:51:11:144:643                      dronePositionX                                 15
+  10-02-2024 21:51:11:244:861           Drone and target coincide                                 -
+  10-02-2024 21:51:11:244:957           Drone and target coincide                                 -
+   10-02-2024 21:51:11:245:19           Drone and target coincide                                 -
+   10-02-2024 21:51:11:245:80           Drone and target coincide                                 -
+  10-02-2024 21:51:11:245:422                      dronePositionY                                 15
+  10-02-2024 21:51:11:245:512                      dronePositionX                                 15
+  10-02-2024 21:51:11:345:764           Drone and target coincide                                 -
+  10-02-2024 21:51:11:345:859           Drone and target coincide                                 -
+  10-02-2024 21:51:11:345:953           Drone and target coincide                                 -
+   10-02-2024 21:51:11:346:19           Drone and target coincide                                 -
+  10-02-2024 21:51:11:346:101                      dronePositionY                                 15
+  10-02-2024 21:51:11:346:162                      dronePositionX                                 15
+  10-02-2024 21:51:11:446:382           Drone and target coincide                                 -
+  10-02-2024 21:51:11:446:477           Drone and target coincide                                 -
+  10-02-2024 21:51:11:446:539           Drone and target coincide                                 -
+  10-02-2024 21:51:11:446:599           Drone and target coincide                                 -
+  10-02-2024 21:51:11:446:945                      dronePositionY                                 15
+   10-02-2024 21:51:11:447:35                      dronePositionX                                 15
+  10-02-2024 21:51:11:547:381           Drone and target coincide                                 -
+  10-02-2024 21:51:11:547:495           Drone and target coincide                                 -
+  10-02-2024 21:51:11:547:559           Drone and target coincide                                 -
+  10-02-2024 21:51:11:547:619           Drone and target coincide                                 -
+  10-02-2024 21:51:11:547:999                      dronePositionY                                 15
+   10-02-2024 21:51:11:548:89                      dronePositionX                                 15
+  10-02-2024 21:51:11:648:315           Drone and target coincide                                 -
+  10-02-2024 21:51:11:648:411           Drone and target coincide                                 -
+  10-02-2024 21:51:11:648:472           Drone and target coincide                                 -
+  10-02-2024 21:51:11:648:531           Drone and target coincide                                 -
+  10-02-2024 21:51:11:648:837                      dronePositionY                                 15
+  10-02-2024 21:51:11:648:930                      dronePositionX                                 15
+  10-02-2024 21:51:11:749:152           Drone and target coincide                                 -
+  10-02-2024 21:51:11:749:248           Drone and target coincide                                 -
+  10-02-2024 21:51:11:749:340           Drone and target coincide                                 -
+  10-02-2024 21:51:11:749:401           Drone and target coincide                                 -
+  10-02-2024 21:51:11:749:531                      dronePositionY                                 15
+  10-02-2024 21:51:11:749:600                      dronePositionX                                 15
+  10-02-2024 21:51:11:849:815           Drone and target coincide                                 -
+  10-02-2024 21:51:11:849:951           Drone and target coincide                                 -
+   10-02-2024 21:51:11:850:42           Drone and target coincide                                 -
+   10-02-2024 21:51:11:850:98           Drone and target coincide                                 -
+  10-02-2024 21:51:11:850:395                      dronePositionY                                 15
+  10-02-2024 21:51:11:850:476                      dronePositionX                                 15
+  10-02-2024 21:51:11:950:678           Drone and target coincide                                 -
+  10-02-2024 21:51:11:950:776           Drone and target coincide                                 -
+  10-02-2024 21:51:11:950:832           Drone and target coincide                                 -
+  10-02-2024 21:51:11:950:884           Drone and target coincide                                 -
+  10-02-2024 21:51:11:951:127                      dronePositionY                                 15
+  10-02-2024 21:51:11:951:229                      dronePositionX                                 15
+   10-02-2024 21:51:12:51:582           Drone and target coincide                                 -
+   10-02-2024 21:51:12:51:687           Drone and target coincide                                 -
+   10-02-2024 21:51:12:51:743           Drone and target coincide                                 -
+   10-02-2024 21:51:12:51:796           Drone and target coincide                                 -
+   10-02-2024 21:51:12:52:154                      dronePositionY                                 15
+   10-02-2024 21:51:12:52:236                      dronePositionX                                 15
+  10-02-2024 21:51:12:152:408           Drone and target coincide                                 -
+  10-02-2024 21:51:12:152:456           Drone and target coincide                                 -
+  10-02-2024 21:51:12:152:485           Drone and target coincide                                 -
+  10-02-2024 21:51:12:152:514           Drone and target coincide                                 -
+  10-02-2024 21:51:12:152:684                      dronePositionY                                 15
+  10-02-2024 21:51:12:152:728                      dronePositionX                                 15
+  10-02-2024 21:51:12:253:151           Drone and target coincide                                 -
+  10-02-2024 21:51:12:253:255           Drone and target coincide                                 -
+  10-02-2024 21:51:12:253:311           Drone and target coincide                                 -
+  10-02-2024 21:51:12:253:365           Drone and target coincide                                 -
+  10-02-2024 21:51:12:253:705                      dronePositionY                                 15
+  10-02-2024 21:51:12:253:786                      dronePositionX                                 15
+    10-02-2024 21:51:12:354:3           Drone and target coincide                                 -
+  10-02-2024 21:51:12:354:105           Drone and target coincide                                 -
+  10-02-2024 21:51:12:354:199           Drone and target coincide                                 -
+  10-02-2024 21:51:12:354:260           Drone and target coincide                                 -
+  10-02-2024 21:51:12:354:574                      dronePositionY                                 15
+  10-02-2024 21:51:12:354:665                      dronePositionX                                 15
+  10-02-2024 21:51:12:454:889           Drone and target coincide                                 -
+   10-02-2024 21:51:12:455:11           Drone and target coincide                                 -
+   10-02-2024 21:51:12:455:73           Drone and target coincide                                 -
+  10-02-2024 21:51:12:455:132           Drone and target coincide                                 -
+  10-02-2024 21:51:12:455:212                      dronePositionY                                 15
+  10-02-2024 21:51:12:455:272                      dronePositionX                                 15
+  10-02-2024 21:51:12:555:570           Drone and target coincide                                 -
+  10-02-2024 21:51:12:555:674           Drone and target coincide                                 -
+  10-02-2024 21:51:12:555:730           Drone and target coincide                                 -
+  10-02-2024 21:51:12:555:783           Drone and target coincide                                 -
+  10-02-2024 21:51:12:556:143                      dronePositionY                                 15
+  10-02-2024 21:51:12:556:224                      dronePositionX                                 15
+  10-02-2024 21:51:12:656:462           Drone and target coincide                                 -
+  10-02-2024 21:51:12:656:557           Drone and target coincide                                 -
+  10-02-2024 21:51:12:656:617           Drone and target coincide                                 -
+  10-02-2024 21:51:12:656:676           Drone and target coincide                                 -
+  10-02-2024 21:51:12:656:787                      dronePositionY                                 15
+  10-02-2024 21:51:12:656:853                      dronePositionX                                 15
+   10-02-2024 21:51:12:757:72           Drone and target coincide                                 -
+  10-02-2024 21:51:12:757:159           Drone and target coincide                                 -
+  10-02-2024 21:51:12:757:215           Drone and target coincide                                 -
+  10-02-2024 21:51:12:757:267           Drone and target coincide                                 -
+  10-02-2024 21:51:12:757:400                      dronePositionY                                 15
+  10-02-2024 21:51:12:757:463                      dronePositionX                                 15
+  10-02-2024 21:51:12:857:718           Drone and target coincide                                 -
+  10-02-2024 21:51:12:857:831           Drone and target coincide                                 -
+  10-02-2024 21:51:12:857:961           Drone and target coincide                                 -
+   10-02-2024 21:51:12:858:37           Drone and target coincide                                 -
+  10-02-2024 21:51:12:858:353                      dronePositionY                                 15
+  10-02-2024 21:51:12:858:445                      dronePositionX                                 15
+  10-02-2024 21:51:12:958:669           Drone and target coincide                                 -
+  10-02-2024 21:51:12:958:764           Drone and target coincide                                 -
+  10-02-2024 21:51:12:958:827           Drone and target coincide                                 -
+  10-02-2024 21:51:12:958:886           Drone and target coincide                                 -
+  10-02-2024 21:51:12:959:119                      dronePositionY                                 15
+  10-02-2024 21:51:12:959:209                      dronePositionX                                 15
+   10-02-2024 21:51:13:59:548           Drone and target coincide                                 -
+   10-02-2024 21:51:13:59:659           Drone and target coincide                                 -
+   10-02-2024 21:51:13:59:723           Drone and target coincide                                 -
+   10-02-2024 21:51:13:59:781           Drone and target coincide                                 -
+   10-02-2024 21:51:13:60:171                      dronePositionY                                 15
+   10-02-2024 21:51:13:60:262                      dronePositionX                                 15
+  10-02-2024 21:51:13:160:504           Drone and target coincide                                 -
+  10-02-2024 21:51:13:160:591           Drone and target coincide                                 -
+  10-02-2024 21:51:13:160:648           Drone and target coincide                                 -
+  10-02-2024 21:51:13:160:700           Drone and target coincide                                 -
+  10-02-2024 21:51:13:160:848                      dronePositionY                                 15
+  10-02-2024 21:51:13:160:908                      dronePositionX                                 15
+  10-02-2024 21:51:13:261:193           Drone and target coincide                                 -
+  10-02-2024 21:51:13:261:297           Drone and target coincide                                 -
+  10-02-2024 21:51:13:261:353           Drone and target coincide                                 -
+  10-02-2024 21:51:13:261:405           Drone and target coincide                                 -
+  10-02-2024 21:51:13:261:671                      dronePositionY                                 15
+  10-02-2024 21:51:13:261:735                      dronePositionX                                 15
+    10-02-2024 21:51:13:362:3           Drone and target coincide                                 -
+  10-02-2024 21:51:13:362:115           Drone and target coincide                                 -
+  10-02-2024 21:51:13:362:211           Drone and target coincide                                 -
+  10-02-2024 21:51:13:362:273           Drone and target coincide                                 -
+  10-02-2024 21:51:13:362:592                      dronePositionY                                 15
+  10-02-2024 21:51:13:362:684                      dronePositionX                                 15
+  10-02-2024 21:51:13:462:910           Drone and target coincide                                 -
+    10-02-2024 21:51:13:463:5           Drone and target coincide                                 -
+   10-02-2024 21:51:13:463:69           Drone and target coincide                                 -
+  10-02-2024 21:51:13:463:129           Drone and target coincide                                 -
+  10-02-2024 21:51:13:463:399                      dronePositionY                                 15
+  10-02-2024 21:51:13:463:490                      dronePositionX                                 15
+  10-02-2024 21:51:13:563:718           Drone and target coincide                                 -
+  10-02-2024 21:51:13:563:805           Drone and target coincide                                 -
+  10-02-2024 21:51:13:563:861           Drone and target coincide                                 -
+  10-02-2024 21:51:13:563:914           Drone and target coincide                                 -
+  10-02-2024 21:51:13:563:987                      dronePositionY                                 15
+   10-02-2024 21:51:13:564:41                      dronePositionX                                 15
+  10-02-2024 21:51:13:664:273           Drone and target coincide                                 -
+  10-02-2024 21:51:13:664:370           Drone and target coincide                                 -
+  10-02-2024 21:51:13:664:432           Drone and target coincide                                 -
+  10-02-2024 21:51:13:664:491           Drone and target coincide                                 -
+  10-02-2024 21:51:13:664:603                      dronePositionY                                 15
+  10-02-2024 21:51:13:664:668                      dronePositionX                                 15
+  10-02-2024 21:51:13:764:888           Drone and target coincide                                 -
+  10-02-2024 21:51:13:764:986           Drone and target coincide                                 -
+   10-02-2024 21:51:13:765:49           Drone and target coincide                                 -
+  10-02-2024 21:51:13:765:108           Drone and target coincide                                 -
+  10-02-2024 21:51:13:765:317                      dronePositionY                                 15
+  10-02-2024 21:51:13:765:404                      dronePositionX                                 15
+  10-02-2024 21:51:13:865:658           Drone and target coincide                                 -
+  10-02-2024 21:51:13:865:755           Drone and target coincide                                 -
+  10-02-2024 21:51:13:865:816           Drone and target coincide                                 -
+  10-02-2024 21:51:13:865:876           Drone and target coincide                                 -
+   10-02-2024 21:51:13:866:10                      dronePositionY                                 15
+   10-02-2024 21:51:13:866:76                      dronePositionX                                 15
+  10-02-2024 21:51:13:966:280           Drone and target coincide                                 -
+  10-02-2024 21:51:13:966:385           Drone and target coincide                                 -
+  10-02-2024 21:51:13:966:443           Drone and target coincide                                 -
+  10-02-2024 21:51:13:966:495           Drone and target coincide                                 -
+  10-02-2024 21:51:13:966:833                      dronePositionY                                 15
+  10-02-2024 21:51:13:966:915                      dronePositionX                                 15
+   10-02-2024 21:51:14:67:153           Drone and target coincide                                 -
+   10-02-2024 21:51:14:67:248           Drone and target coincide                                 -
+   10-02-2024 21:51:14:67:308           Drone and target coincide                                 -
+   10-02-2024 21:51:14:67:368           Drone and target coincide                                 -
+   10-02-2024 21:51:14:67:449                      dronePositionY                                 15
+   10-02-2024 21:51:14:67:510                      dronePositionX                                 15
+  10-02-2024 21:51:14:167:750           Drone and target coincide                                 -
+  10-02-2024 21:51:14:167:845           Drone and target coincide                                 -
+  10-02-2024 21:51:14:167:907           Drone and target coincide                                 -
+  10-02-2024 21:51:14:167:967           Drone and target coincide                                 -
+   10-02-2024 21:51:14:168:87                      dronePositionY                                 15
+  10-02-2024 21:51:14:168:152                      dronePositionX                                 15
+  10-02-2024 21:51:14:268:371           Drone and target coincide                                 -
+  10-02-2024 21:51:14:268:467           Drone and target coincide                                 -
+  10-02-2024 21:51:14:268:529           Drone and target coincide                                 -
+  10-02-2024 21:51:14:268:587           Drone and target coincide                                 -
+  10-02-2024 21:51:14:268:842                      dronePositionY                                 15
+  10-02-2024 21:51:14:268:932                      dronePositionX                                 15
+  10-02-2024 21:51:14:369:187           Drone and target coincide                                 -
+  10-02-2024 21:51:14:369:281           Drone and target coincide                                 -
+  10-02-2024 21:51:14:369:342           Drone and target coincide                                 -
+  10-02-2024 21:51:14:369:401           Drone and target coincide                                 -
+  10-02-2024 21:51:14:369:482                      dronePositionY                                 15
+  10-02-2024 21:51:14:369:542                      dronePositionX                                 15
+  10-02-2024 21:51:14:469:762           Drone and target coincide                                 -
+  10-02-2024 21:51:14:469:857           Drone and target coincide                                 -
+  10-02-2024 21:51:14:469:970           Drone and target coincide                                 -
+   10-02-2024 21:51:14:470:94           Drone and target coincide                                 -
+  10-02-2024 21:51:14:470:354                      dronePositionY                                 15
+  10-02-2024 21:51:14:470:445                      dronePositionX                                 15
+  10-02-2024 21:51:14:570:741           Drone and target coincide                                 -
+  10-02-2024 21:51:14:570:843           Drone and target coincide                                 -
+  10-02-2024 21:51:14:570:899           Drone and target coincide                                 -
+  10-02-2024 21:51:14:570:952           Drone and target coincide                                 -
+  10-02-2024 21:51:14:571:308                      dronePositionY                                 15
+  10-02-2024 21:51:14:571:393                      dronePositionX                                 15
+  10-02-2024 21:51:14:671:630           Drone and target coincide                                 -
+  10-02-2024 21:51:14:671:725           Drone and target coincide                                 -
+  10-02-2024 21:51:14:671:786           Drone and target coincide                                 -
+  10-02-2024 21:51:14:671:846           Drone and target coincide                                 -
+  10-02-2024 21:51:14:671:929                      dronePositionY                                 15
+  10-02-2024 21:51:14:671:989                      dronePositionX                                 15
+  10-02-2024 21:51:14:772:215           Drone and target coincide                                 -
+  10-02-2024 21:51:14:772:310           Drone and target coincide                                 -
+  10-02-2024 21:51:14:772:371           Drone and target coincide                                 -
+  10-02-2024 21:51:14:772:430           Drone and target coincide                                 -
+  10-02-2024 21:51:14:772:671                      dronePositionY                                 15
+  10-02-2024 21:51:14:772:761                      dronePositionX                                 15
+  10-02-2024 21:51:14:872:981           Drone and target coincide                                 -
+  10-02-2024 21:51:14:882:581           Drone and target coincide                                 -
+  10-02-2024 21:51:14:882:655           Drone and target coincide                                 -
+  10-02-2024 21:51:14:882:709           Drone and target coincide                                 -
+  10-02-2024 21:51:14:882:990                      dronePositionY                                 15
+   10-02-2024 21:51:14:883:72                      dronePositionX                                 15
+  10-02-2024 21:51:14:983:295           Drone and target coincide                                 -
+  10-02-2024 21:51:14:983:393           Drone and target coincide                                 -
+  10-02-2024 21:51:14:983:454           Drone and target coincide                                 -
+  10-02-2024 21:51:14:983:512           Drone and target coincide                                 -
+  10-02-2024 21:51:14:983:593                      dronePositionY                                 15
+  10-02-2024 21:51:14:983:655                      dronePositionX                                 15
+    10-02-2024 21:51:15:84:27           Drone and target coincide                                 -
+   10-02-2024 21:51:15:84:130           Drone and target coincide                                 -
+   10-02-2024 21:51:15:84:186           Drone and target coincide                                 -
+   10-02-2024 21:51:15:84:238           Drone and target coincide                                 -
+   10-02-2024 21:51:15:84:602                      dronePositionY                                 15
+   10-02-2024 21:51:15:84:685                      dronePositionX                                 15
+  10-02-2024 21:51:15:184:902           Drone and target coincide                                 -
+  10-02-2024 21:51:15:184:995           Drone and target coincide                                 -
+   10-02-2024 21:51:15:185:79           Drone and target coincide                                 -
+  10-02-2024 21:51:15:185:133           Drone and target coincide                                 -
+  10-02-2024 21:51:15:185:232                      dronePositionY                                 15
+  10-02-2024 21:51:15:185:289                      dronePositionX                                 15
+  10-02-2024 21:51:15:285:562           Drone and target coincide                                 -
+  10-02-2024 21:51:15:285:666           Drone and target coincide                                 -
+  10-02-2024 21:51:15:285:722           Drone and target coincide                                 -
+  10-02-2024 21:51:15:285:775           Drone and target coincide                                 -
+  10-02-2024 21:51:15:286:154                      dronePositionY                                 15
+  10-02-2024 21:51:15:286:237                      dronePositionX                                 15
+  10-02-2024 21:51:15:386:446           Drone and target coincide                                 -
+  10-02-2024 21:51:15:386:558           Drone and target coincide                                 -
+  10-02-2024 21:51:15:386:617           Drone and target coincide                                 -
+  10-02-2024 21:51:15:386:670           Drone and target coincide                                 -
+  10-02-2024 21:51:15:386:912                      dronePositionY                                 15
+  10-02-2024 21:51:15:386:994                      dronePositionX                                 15
+  10-02-2024 21:51:15:487:215           Drone and target coincide                                 -
+  10-02-2024 21:51:15:487:311           Drone and target coincide                                 -
+  10-02-2024 21:51:15:487:374           Drone and target coincide                                 -
+  10-02-2024 21:51:15:487:435           Drone and target coincide                                 -
+  10-02-2024 21:51:15:487:768                      dronePositionY                                 15
+  10-02-2024 21:51:15:487:859                      dronePositionX                                 15
+  10-02-2024 21:51:15:588:190           Drone and target coincide                                 -
+  10-02-2024 21:51:15:588:292           Drone and target coincide                                 -
+  10-02-2024 21:51:15:588:349           Drone and target coincide                                 -
+  10-02-2024 21:51:15:588:401           Drone and target coincide                                 -
+  10-02-2024 21:51:15:588:759                      dronePositionY                                 15
+  10-02-2024 21:51:15:588:842                      dronePositionX                                 15
+   10-02-2024 21:51:15:689:79           Drone and target coincide                                 -
+  10-02-2024 21:51:15:689:175           Drone and target coincide                                 -
+  10-02-2024 21:51:15:689:237           Drone and target coincide                                 -
+  10-02-2024 21:51:15:689:294           Drone and target coincide                                 -
+  10-02-2024 21:51:15:689:373                      dronePositionY                                 15
+  10-02-2024 21:51:15:689:435                      dronePositionX                                 15
+  10-02-2024 21:51:15:789:646           Drone and target coincide                                 -
+  10-02-2024 21:51:15:789:735           Drone and target coincide                                 -
+  10-02-2024 21:51:15:789:791           Drone and target coincide                                 -
+  10-02-2024 21:51:15:789:844           Drone and target coincide                                 -
+  10-02-2024 21:51:15:790:244                      dronePositionY                                 15
+  10-02-2024 21:51:15:790:327                      dronePositionX                                 15
+  10-02-2024 21:51:15:890:539           Drone and target coincide                                 -
+  10-02-2024 21:51:15:890:677           Drone and target coincide                                 -
+  10-02-2024 21:51:15:890:736           Drone and target coincide                                 -
+  10-02-2024 21:51:15:890:790           Drone and target coincide                                 -
+  10-02-2024 21:51:15:890:889                      dronePositionY                                 15
+  10-02-2024 21:51:15:890:946                      dronePositionX                                 15
+  10-02-2024 21:51:15:991:242           Drone and target coincide                                 -
+  10-02-2024 21:51:15:991:346           Drone and target coincide                                 -
+  10-02-2024 21:51:15:991:403           Drone and target coincide                                 -
+  10-02-2024 21:51:15:991:458           Drone and target coincide                                 -
+  10-02-2024 21:51:15:991:780                      dronePositionY                                 15
+  10-02-2024 21:51:15:991:862                      dronePositionX                                 15
+   10-02-2024 21:51:16:92:223           Drone and target coincide                                 -
+   10-02-2024 21:51:16:92:336           Drone and target coincide                                 -
+   10-02-2024 21:51:16:92:399           Drone and target coincide                                 -
+   10-02-2024 21:51:16:92:458           Drone and target coincide                                 -
+   10-02-2024 21:51:16:92:842                      dronePositionY                                 15
+   10-02-2024 21:51:16:92:933                      dronePositionX                                 15
+  10-02-2024 21:51:16:193:149           Drone and target coincide                                 -
+  10-02-2024 21:51:16:193:236           Drone and target coincide                                 -
+  10-02-2024 21:51:16:193:292           Drone and target coincide                                 -
+  10-02-2024 21:51:16:193:345           Drone and target coincide                                 -
+  10-02-2024 21:51:16:193:589                      dronePositionY                                 15
+  10-02-2024 21:51:16:193:673                      dronePositionX                                 15
+  10-02-2024 21:51:16:293:884           Drone and target coincide                                 -
+   10-02-2024 21:51:16:294:24           Drone and target coincide                                 -
+   10-02-2024 21:51:16:294:82           Drone and target coincide                                 -
+  10-02-2024 21:51:16:294:136           Drone and target coincide                                 -
+  10-02-2024 21:51:16:294:428                      dronePositionY                                 15
+  10-02-2024 21:51:16:294:512                      dronePositionX                                 15
+  10-02-2024 21:51:16:394:731           Drone and target coincide                                 -
+  10-02-2024 21:51:16:394:827           Drone and target coincide                                 -
+  10-02-2024 21:51:16:394:918           Drone and target coincide                                 -
+  10-02-2024 21:51:16:394:977           Drone and target coincide                                 -
+  10-02-2024 21:51:16:395:274                      dronePositionY                                 15
+  10-02-2024 21:51:16:395:366                      dronePositionX                                 15
+  10-02-2024 21:51:16:495:581           Drone and target coincide                                 -
+  10-02-2024 21:51:16:495:667           Drone and target coincide                                 -
+  10-02-2024 21:51:16:495:722           Drone and target coincide                                 -
+  10-02-2024 21:51:16:495:776           Drone and target coincide                                 -
+   10-02-2024 21:51:16:496:38                      dronePositionY                                 15
+  10-02-2024 21:51:16:496:120                      dronePositionX                                 15
+  10-02-2024 21:51:16:596:495           Drone and target coincide                                 -
+  10-02-2024 21:51:16:596:598           Drone and target coincide                                 -
+  10-02-2024 21:51:16:596:654           Drone and target coincide                                 -
+  10-02-2024 21:51:16:596:707           Drone and target coincide                                 -
+   10-02-2024 21:51:16:597:69                      dronePositionY                                 15
+  10-02-2024 21:51:16:597:152                      dronePositionX                                 15
+  10-02-2024 21:51:16:697:373           Drone and target coincide                                 -
+  10-02-2024 21:51:16:697:473           Drone and target coincide                                 -
+  10-02-2024 21:51:16:697:535           Drone and target coincide                                 -
+  10-02-2024 21:51:16:697:594           Drone and target coincide                                 -
+  10-02-2024 21:51:16:697:869                      dronePositionY                                 15
+  10-02-2024 21:51:16:697:985                      dronePositionX                                 15
+  10-02-2024 21:51:16:798:202           Drone and target coincide                                 -
+  10-02-2024 21:51:16:798:289           Drone and target coincide                                 -
+  10-02-2024 21:51:16:798:345           Drone and target coincide                                 -
+  10-02-2024 21:51:16:798:398           Drone and target coincide                                 -
+  10-02-2024 21:51:16:798:714                      dronePositionY                                 15
+  10-02-2024 21:51:16:798:799                      dronePositionX                                 15
+   10-02-2024 21:51:16:899:20           Drone and target coincide                                 -
+  10-02-2024 21:51:16:899:145           Drone and target coincide                                 -
+  10-02-2024 21:51:16:899:210           Drone and target coincide                                 -
+  10-02-2024 21:51:16:899:272           Drone and target coincide                                 -
+  10-02-2024 21:51:16:899:521                      dronePositionY                                 15
+  10-02-2024 21:51:16:899:613                      dronePositionX                                 15
+  10-02-2024 21:51:16:999:826           Drone and target coincide                                 -
+  10-02-2024 21:51:16:999:912           Drone and target coincide                                 -
+  10-02-2024 21:51:16:999:969           Drone and target coincide                                 -
+     10-02-2024 21:51:17:0:23           Drone and target coincide                                 -
+    10-02-2024 21:51:17:0:302                      dronePositionY                                 15
+    10-02-2024 21:51:17:0:385                      dronePositionX                                 15
+  10-02-2024 21:51:17:100:745           Drone and target coincide                                 -
+  10-02-2024 21:51:17:100:851           Drone and target coincide                                 -
+  10-02-2024 21:51:17:100:907           Drone and target coincide                                 -
+  10-02-2024 21:51:17:100:959           Drone and target coincide                                 -
+  10-02-2024 21:51:17:101:313                      dronePositionY                                 15
+  10-02-2024 21:51:17:101:395                      dronePositionX                                 15
+  10-02-2024 21:51:17:201:617           Drone and target coincide                                 -
+  10-02-2024 21:51:17:201:712           Drone and target coincide                                 -
+  10-02-2024 21:51:17:201:774           Drone and target coincide                                 -
+  10-02-2024 21:51:17:201:833           Drone and target coincide                                 -
+  10-02-2024 21:51:17:202:206                      dronePositionY                                 15
+  10-02-2024 21:51:17:202:423                      dronePositionX                                 15
+  10-02-2024 21:51:17:302:656           Drone and target coincide                                 -
+  10-02-2024 21:51:17:302:742           Drone and target coincide                                 -
+  10-02-2024 21:51:17:302:796           Drone and target coincide                                 -
+  10-02-2024 21:51:17:302:849           Drone and target coincide                                 -
+  10-02-2024 21:51:17:302:922                      dronePositionY                                 15
+  10-02-2024 21:51:17:302:976                      dronePositionX                                 15
+  10-02-2024 21:51:17:403:189           Drone and target coincide                                 -
+  10-02-2024 21:51:17:403:292           Drone and target coincide                                 -
+  10-02-2024 21:51:17:403:373           Drone and target coincide                                 -
+  10-02-2024 21:51:17:403:430           Drone and target coincide                                 -
+  10-02-2024 21:51:17:403:729                      dronePositionY                                 15
+  10-02-2024 21:51:17:403:812                      dronePositionX                                 15
+   10-02-2024 21:51:17:504:24           Drone and target coincide                                 -
+  10-02-2024 21:51:17:504:111           Drone and target coincide                                 -
+  10-02-2024 21:51:17:504:167           Drone and target coincide                                 -
+  10-02-2024 21:51:17:504:222           Drone and target coincide                                 -
+  10-02-2024 21:51:17:504:541                      dronePositionY                                 15
+  10-02-2024 21:51:17:504:624                      dronePositionX                                 15
+  10-02-2024 21:51:17:604:986           Drone and target coincide                                 -
+   10-02-2024 21:51:17:605:91           Drone and target coincide                                 -
+  10-02-2024 21:51:17:605:147           Drone and target coincide                                 -
+  10-02-2024 21:51:17:605:200           Drone and target coincide                                 -
+  10-02-2024 21:51:17:605:558                      dronePositionY                                 15
+  10-02-2024 21:51:17:605:641                      dronePositionX                                 15
+   10-02-2024 21:51:17:706:88           Drone and target coincide                                 -
+  10-02-2024 21:51:17:706:200           Drone and target coincide                                 -
+  10-02-2024 21:51:17:706:264           Drone and target coincide                                 -
+  10-02-2024 21:51:17:706:324           Drone and target coincide                                 -
+  10-02-2024 21:51:17:706:699                      dronePositionY                                 15
+  10-02-2024 21:51:17:706:790                      dronePositionX                                 15
+   10-02-2024 21:51:17:807:13           Drone and target coincide                                 -
+  10-02-2024 21:51:17:807:110           Drone and target coincide                                 -
+  10-02-2024 21:51:17:807:172           Drone and target coincide                                 -
+  10-02-2024 21:51:17:807:232           Drone and target coincide                                 -
+  10-02-2024 21:51:17:807:542                      dronePositionY                                 15
+  10-02-2024 21:51:17:807:633                      dronePositionX                                 15
+  10-02-2024 21:51:17:907:856           Drone and target coincide                                 -
+  10-02-2024 21:51:17:907:983           Drone and target coincide                                 -
+   10-02-2024 21:51:17:908:45           Drone and target coincide                                 -
+  10-02-2024 21:51:17:908:132           Drone and target coincide                                 -
+  10-02-2024 21:51:17:908:216                      dronePositionY                                 15
+  10-02-2024 21:51:17:908:278                      dronePositionX                                 15
+    10-02-2024 21:51:18:8:491           Drone and target coincide                                 -
+    10-02-2024 21:51:18:8:578           Drone and target coincide                                 -
+    10-02-2024 21:51:18:8:634           Drone and target coincide                                 -
+    10-02-2024 21:51:18:8:688           Drone and target coincide                                 -
+    10-02-2024 21:51:18:8:923                      dronePositionY                                 15
+      10-02-2024 21:51:18:9:6                      dronePositionX                                 15
+  10-02-2024 21:51:18:109:256           Drone and target coincide                                 -
+  10-02-2024 21:51:18:109:359           Drone and target coincide                                 -
+  10-02-2024 21:51:18:109:414           Drone and target coincide                                 -
+  10-02-2024 21:51:18:109:469           Drone and target coincide                                 -
+  10-02-2024 21:51:18:109:825                      dronePositionY                                 15
+  10-02-2024 21:51:18:109:949                      dronePositionX                                 15
+  10-02-2024 21:51:18:210:187           Drone and target coincide                                 -
+  10-02-2024 21:51:18:210:273           Drone and target coincide                                 -
+  10-02-2024 21:51:18:210:331           Drone and target coincide                                 -
+  10-02-2024 21:51:18:210:384           Drone and target coincide                                 -
+  10-02-2024 21:51:18:210:619                      dronePositionY                                 15
+  10-02-2024 21:51:18:210:701                      dronePositionX                                 15
+  10-02-2024 21:51:18:310:914           Drone and target coincide                                 -
+    10-02-2024 21:51:18:311:0           Drone and target coincide                                 -
+   10-02-2024 21:51:18:311:57           Drone and target coincide                                 -
+  10-02-2024 21:51:18:311:111           Drone and target coincide                                 -
+  10-02-2024 21:51:18:311:435                      dronePositionY                                 15
+  10-02-2024 21:51:18:311:517                      dronePositionX                                 15
+  10-02-2024 21:51:18:411:738           Drone and target coincide                                 -
+  10-02-2024 21:51:18:411:915           Drone and target coincide                                 -
+   10-02-2024 21:51:18:412:26           Drone and target coincide                                 -
+  10-02-2024 21:51:18:412:133           Drone and target coincide                                 -
+  10-02-2024 21:51:18:412:341                      dronePositionY                                 15
+  10-02-2024 21:51:18:412:415                      dronePositionX                                 15
+  10-02-2024 21:51:18:512:606           Drone and target coincide                                 -
+  10-02-2024 21:51:18:512:735           Drone and target coincide                                 -
+  10-02-2024 21:51:18:512:842           Drone and target coincide                                 -
+  10-02-2024 21:51:18:512:944           Drone and target coincide                                 -
+   10-02-2024 21:51:18:513:63                      dronePositionY                                 15
+  10-02-2024 21:51:18:513:128                      dronePositionX                                 15
+  10-02-2024 21:51:18:613:320           Drone and target coincide                                 -
+  10-02-2024 21:51:18:613:444           Drone and target coincide                                 -
+  10-02-2024 21:51:18:613:591           Drone and target coincide                                 -
+  10-02-2024 21:51:18:613:698           Drone and target coincide                                 -
+  10-02-2024 21:51:18:613:818                      dronePositionY                                 15
+  10-02-2024 21:51:18:613:890                      dronePositionX                                 15
+  10-02-2024 21:51:18:714:139           Drone and target coincide                                 -
+  10-02-2024 21:51:18:714:248           Drone and target coincide                                 -
+  10-02-2024 21:51:18:714:341           Drone and target coincide                                 -
+  10-02-2024 21:51:18:714:443           Drone and target coincide                                 -
+  10-02-2024 21:51:18:714:533                      dronePositionY                                 15
+  10-02-2024 21:51:18:714:587                      dronePositionX                                 15
+  10-02-2024 21:51:18:814:701           Drone and target coincide                                 -
+  10-02-2024 21:51:18:814:731           Drone and target coincide                                 -
+  10-02-2024 21:51:18:814:746           Drone and target coincide                                 -
+  10-02-2024 21:51:18:814:759           Drone and target coincide                                 -
+  10-02-2024 21:51:18:814:775                      dronePositionY                                 15
+  10-02-2024 21:51:18:814:788                      dronePositionX                                 15
+   10-02-2024 21:51:18:915:26           Drone and target coincide                                 -
+  10-02-2024 21:51:18:915:154           Drone and target coincide                                 -
+  10-02-2024 21:51:18:915:292           Drone and target coincide                                 -
+  10-02-2024 21:51:18:915:385           Drone and target coincide                                 -
+  10-02-2024 21:51:18:915:574                      dronePositionY                                 15
+  10-02-2024 21:51:18:915:642                      dronePositionX                                 15
+   10-02-2024 21:51:19:15:846           Drone and target coincide                                 -
+   10-02-2024 21:51:19:15:988           Drone and target coincide                                 -
+    10-02-2024 21:51:19:16:99           Drone and target coincide                                 -
+   10-02-2024 21:51:19:16:205           Drone and target coincide                                 -
+   10-02-2024 21:51:19:16:444                      dronePositionY                                 15
+   10-02-2024 21:51:19:16:521                      dronePositionX                                 15
+  10-02-2024 21:51:19:116:885           Drone and target coincide                                 -
+   10-02-2024 21:51:19:117:12           Drone and target coincide                                 -
+  10-02-2024 21:51:19:117:109           Drone and target coincide                                 -
+  10-02-2024 21:51:19:117:197           Drone and target coincide                                 -
+  10-02-2024 21:51:19:117:457                      dronePositionY                                 15
+  10-02-2024 21:51:19:117:528                      dronePositionX                                 15
+  10-02-2024 21:51:19:217:698           Drone and target coincide                                 -
+  10-02-2024 21:51:19:217:823           Drone and target coincide                                 -
+  10-02-2024 21:51:19:217:961           Drone and target coincide                                 -
+   10-02-2024 21:51:19:218:61           Drone and target coincide                                 -
+  10-02-2024 21:51:19:218:279                      dronePositionY                                 15
+  10-02-2024 21:51:19:218:348                      dronePositionX                                 15
+  10-02-2024 21:51:19:318:532           Drone and target coincide                                 -
+  10-02-2024 21:51:19:318:586           Drone and target coincide                                 -
+  10-02-2024 21:51:19:318:617           Drone and target coincide                                 -
+  10-02-2024 21:51:19:318:647           Drone and target coincide                                 -
+  10-02-2024 21:51:19:318:710                      dronePositionY                                 15
+  10-02-2024 21:51:19:318:732                      dronePositionX                                 15
+  10-02-2024 21:51:19:418:916           Drone and target coincide                                 -
+   10-02-2024 21:51:19:419:98           Drone and target coincide                                 -
+  10-02-2024 21:51:19:419:210           Drone and target coincide                                 -
+  10-02-2024 21:51:19:419:315           Drone and target coincide                                 -
+  10-02-2024 21:51:19:419:520                      dronePositionY                                 15
+  10-02-2024 21:51:19:419:594                      dronePositionX                                 15
+  10-02-2024 21:51:19:519:781           Drone and target coincide                                 -
+  10-02-2024 21:51:19:519:879           Drone and target coincide                                 -
+  10-02-2024 21:51:19:519:971           Drone and target coincide                                 -
+   10-02-2024 21:51:19:520:66           Drone and target coincide                                 -
+  10-02-2024 21:51:19:520:171                      dronePositionY                                 15
+  10-02-2024 21:51:19:520:230                      dronePositionX                                 15
+  10-02-2024 21:51:19:620:417           Drone and target coincide                                 -
+  10-02-2024 21:51:19:620:545           Drone and target coincide                                 -
+  10-02-2024 21:51:19:620:650           Drone and target coincide                                 -
+  10-02-2024 21:51:19:620:751           Drone and target coincide                                 -
+  10-02-2024 21:51:19:620:921                      dronePositionY                                 15
+  10-02-2024 21:51:19:620:990                      dronePositionX                                 15
+  10-02-2024 21:51:19:721:178           Drone and target coincide                                 -
+  10-02-2024 21:51:19:721:298           Drone and target coincide                                 -
+  10-02-2024 21:51:19:721:393           Drone and target coincide                                 -
+  10-02-2024 21:51:19:721:490           Drone and target coincide                                 -
+  10-02-2024 21:51:19:721:596                      dronePositionY                                 15
+  10-02-2024 21:51:19:721:653                      dronePositionX                                 15
+  10-02-2024 21:51:19:821:832           Drone and target coincide                                 -
+  10-02-2024 21:51:19:821:988           Drone and target coincide                                 -
+   10-02-2024 21:51:19:822:98           Drone and target coincide                                 -
+  10-02-2024 21:51:19:822:203           Drone and target coincide                                 -
+  10-02-2024 21:51:19:822:446                      dronePositionY                                 15
+  10-02-2024 21:51:19:822:523                      dronePositionX                                 15
+  10-02-2024 21:51:19:922:742           Drone and target coincide                                 -
+  10-02-2024 21:51:19:924:951           Drone and target coincide                                 -
+   10-02-2024 21:51:19:925:32           Drone and target coincide                                 -
+   10-02-2024 21:51:19:925:95           Drone and target coincide                                 -
+  10-02-2024 21:51:19:925:178                      dronePositionY                                 15
+  10-02-2024 21:51:19:925:238                      dronePositionX                                 15
+   10-02-2024 21:51:20:25:691           Drone and target coincide                                 -
+   10-02-2024 21:51:20:25:793           Drone and target coincide                                 -
+   10-02-2024 21:51:20:25:849           Drone and target coincide                                 -
+   10-02-2024 21:51:20:25:938           Drone and target coincide                                 -
+    10-02-2024 21:51:20:26:55                      dronePositionY                                 15
+   10-02-2024 21:51:20:26:116                      dronePositionX                                 15
+  10-02-2024 21:51:20:126:321           Drone and target coincide                                 -
+  10-02-2024 21:51:20:126:433           Drone and target coincide                                 -
+  10-02-2024 21:51:20:126:497           Drone and target coincide                                 -
+  10-02-2024 21:51:20:126:555           Drone and target coincide                                 -
+  10-02-2024 21:51:20:126:637                      dronePositionY                                 15
+  10-02-2024 21:51:20:126:699                      dronePositionX                                 15
+  10-02-2024 21:51:20:226:833           Drone and target coincide                                 -
+  10-02-2024 21:51:20:226:882           Drone and target coincide                                 -
+  10-02-2024 21:51:20:226:912           Drone and target coincide                                 -
+  10-02-2024 21:51:20:226:940           Drone and target coincide                                 -
+  10-02-2024 21:51:20:226:979                      dronePositionY                                 15
+    10-02-2024 21:51:20:227:8                      dronePositionX                                 15
+  10-02-2024 21:51:20:327:215           Drone and target coincide                                 -
+  10-02-2024 21:51:20:327:301           Drone and target coincide                                 -
+  10-02-2024 21:51:20:327:356           Drone and target coincide                                 -
+  10-02-2024 21:51:20:327:409           Drone and target coincide                                 -
+  10-02-2024 21:51:20:327:480                      dronePositionY                                 15
+  10-02-2024 21:51:20:327:534                      dronePositionX                                 15
+  10-02-2024 21:51:20:426:630           Drone and target coincide                                 -
+  10-02-2024 21:51:20:426:757           Drone and target coincide                                 -
+  10-02-2024 21:51:20:426:852           Drone and target coincide                                 -
+  10-02-2024 21:51:20:426:913           Drone and target coincide                                 -
+  10-02-2024 21:51:20:426:990                      dronePositionY                                 15
+   10-02-2024 21:51:20:427:49                      dronePositionX                                 15
+  10-02-2024 21:51:20:527:233           Drone and target coincide                                 -
+  10-02-2024 21:51:20:527:351           Drone and target coincide                                 -
+  10-02-2024 21:51:20:527:449           Drone and target coincide                                 -
+  10-02-2024 21:51:20:527:543           Drone and target coincide                                 -
+  10-02-2024 21:51:20:527:662                      dronePositionY                                 15
+  10-02-2024 21:51:20:527:724                      dronePositionX                                 15
+  10-02-2024 21:51:20:627:905           Drone and target coincide                                 -
+   10-02-2024 21:51:20:628:30           Drone and target coincide                                 -
+  10-02-2024 21:51:20:628:138           Drone and target coincide                                 -
+  10-02-2024 21:51:20:628:242           Drone and target coincide                                 -
+  10-02-2024 21:51:20:628:487                      dronePositionY                                 15
+  10-02-2024 21:51:20:628:592                      dronePositionX                                 15
+  10-02-2024 21:51:20:728:787           Drone and target coincide                                 -
+  10-02-2024 21:51:20:728:915           Drone and target coincide                                 -
+   10-02-2024 21:51:20:729:26           Drone and target coincide                                 -
+  10-02-2024 21:51:20:729:136           Drone and target coincide                                 -
+  10-02-2024 21:51:20:729:263                      dronePositionY                                 15
+  10-02-2024 21:51:20:729:328                      dronePositionX                                 15
+  10-02-2024 21:51:20:829:502           Drone and target coincide                                 -
+  10-02-2024 21:51:20:829:612           Drone and target coincide                                 -
+  10-02-2024 21:51:20:829:712           Drone and target coincide                                 -
+  10-02-2024 21:51:20:829:807           Drone and target coincide                                 -
+   10-02-2024 21:51:20:830:65                      dronePositionY                                 15
+  10-02-2024 21:51:20:830:138                      dronePositionX                                 15
+  10-02-2024 21:51:20:930:311           Drone and target coincide                                 -
+  10-02-2024 21:51:20:930:419           Drone and target coincide                                 -
+  10-02-2024 21:51:20:930:570           Drone and target coincide                                 -
+  10-02-2024 21:51:20:930:678           Drone and target coincide                                 -
+  10-02-2024 21:51:20:930:913                      dronePositionY                                 15
+  10-02-2024 21:51:20:930:990                      dronePositionX                                 15
+   10-02-2024 21:51:21:31:184           Drone and target coincide                                 -
+   10-02-2024 21:51:21:31:311           Drone and target coincide                                 -
+   10-02-2024 21:51:21:31:413           Drone and target coincide                                 -
+   10-02-2024 21:51:21:31:513           Drone and target coincide                                 -
+   10-02-2024 21:51:21:31:708                      dronePositionY                                 15
+   10-02-2024 21:51:21:31:780                      dronePositionX                                 15
+  10-02-2024 21:51:21:132:109           Drone and target coincide                                 -
+  10-02-2024 21:51:21:132:238           Drone and target coincide                                 -
+  10-02-2024 21:51:21:132:338           Drone and target coincide                                 -
+  10-02-2024 21:51:21:132:430           Drone and target coincide                                 -
+  10-02-2024 21:51:21:132:715                      dronePositionY                                 15
+  10-02-2024 21:51:21:132:791                      dronePositionX                                 15
+  10-02-2024 21:51:21:232:972           Drone and target coincide                                 -
+   10-02-2024 21:51:21:233:84           Drone and target coincide                                 -
+  10-02-2024 21:51:21:233:180           Drone and target coincide                                 -
+  10-02-2024 21:51:21:233:274           Drone and target coincide                                 -
+  10-02-2024 21:51:21:233:463                      dronePositionY                                 15
+  10-02-2024 21:51:21:233:530                      dronePositionX                                 15
+  10-02-2024 21:51:21:333:714           Drone and target coincide                                 -
+  10-02-2024 21:51:21:333:842           Drone and target coincide                                 -
+  10-02-2024 21:51:21:333:978           Drone and target coincide                                 -
+   10-02-2024 21:51:21:334:76           Drone and target coincide                                 -
+  10-02-2024 21:51:21:334:307                      dronePositionY                                 15
+  10-02-2024 21:51:21:334:377                      dronePositionX                                 15
+  10-02-2024 21:51:21:434:562           Drone and target coincide                                 -
+  10-02-2024 21:51:21:434:723           Drone and target coincide                                 -
+  10-02-2024 21:51:21:434:828           Drone and target coincide                                 -
+  10-02-2024 21:51:21:434:924           Drone and target coincide                                 -
+  10-02-2024 21:51:21:435:128                      dronePositionY                                 15
+  10-02-2024 21:51:21:435:202                      dronePositionX                                 15
+  10-02-2024 21:51:21:535:390           Drone and target coincide                                 -
+  10-02-2024 21:51:21:535:512           Drone and target coincide                                 -
+  10-02-2024 21:51:21:535:618           Drone and target coincide                                 -
+  10-02-2024 21:51:21:535:724           Drone and target coincide                                 -
+  10-02-2024 21:51:21:535:932                      dronePositionY                                 15
+    10-02-2024 21:51:21:536:6                      dronePositionX                                 15
+  10-02-2024 21:51:21:636:205           Drone and target coincide                                 -
+  10-02-2024 21:51:21:636:333           Drone and target coincide                                 -
+  10-02-2024 21:51:21:636:437           Drone and target coincide                                 -
+  10-02-2024 21:51:21:636:540           Drone and target coincide                                 -
+  10-02-2024 21:51:21:636:707                      dronePositionY                                 15
+  10-02-2024 21:51:21:636:778                      dronePositionX                                 15
+  10-02-2024 21:51:21:736:967           Drone and target coincide                                 -
+   10-02-2024 21:51:21:737:93           Drone and target coincide                                 -
+  10-02-2024 21:51:21:737:198           Drone and target coincide                                 -
+  10-02-2024 21:51:21:737:301           Drone and target coincide                                 -
+  10-02-2024 21:51:21:737:470                      dronePositionY                                 15
+  10-02-2024 21:51:21:737:539                      dronePositionX                                 15
+  10-02-2024 21:51:21:837:721           Drone and target coincide                                 -
+  10-02-2024 21:51:21:837:841           Drone and target coincide                                 -
+  10-02-2024 21:51:21:837:985           Drone and target coincide                                 -
+   10-02-2024 21:51:21:838:97           Drone and target coincide                                 -
+  10-02-2024 21:51:21:838:337                      dronePositionY                                 15
+  10-02-2024 21:51:21:838:413                      dronePositionX                                 15
+  10-02-2024 21:51:21:938:605           Drone and target coincide                                 -
+  10-02-2024 21:51:21:938:777           Drone and target coincide                                 -
+  10-02-2024 21:51:21:938:891           Drone and target coincide                                 -
+    10-02-2024 21:51:21:939:0           Drone and target coincide                                 -
+  10-02-2024 21:51:21:939:123                      dronePositionY                                 15
+  10-02-2024 21:51:21:939:188                      dronePositionX                                 15
+   10-02-2024 21:51:22:39:375           Drone and target coincide                                 -
+   10-02-2024 21:51:22:39:481           Drone and target coincide                                 -
+   10-02-2024 21:51:22:39:603           Drone and target coincide                                 -
+   10-02-2024 21:51:22:39:705           Drone and target coincide                                 -
+   10-02-2024 21:51:22:39:800                      dronePositionY                                 15
+   10-02-2024 21:51:22:39:855                      dronePositionX                                 15
+   10-02-2024 21:51:22:140:28           Drone and target coincide                                 -
+  10-02-2024 21:51:22:140:136           Drone and target coincide                                 -
+  10-02-2024 21:51:22:140:235           Drone and target coincide                                 -
+  10-02-2024 21:51:22:140:326           Drone and target coincide                                 -
+  10-02-2024 21:51:22:140:578                      dronePositionY                                 15
+  10-02-2024 21:51:22:140:647                      dronePositionX                                 15
+  10-02-2024 21:51:22:240:815           Drone and target coincide                                 -
+  10-02-2024 21:51:22:240:937           Drone and target coincide                                 -
+   10-02-2024 21:51:22:241:38           Drone and target coincide                                 -
+  10-02-2024 21:51:22:241:132           Drone and target coincide                                 -
+  10-02-2024 21:51:22:241:349                      dronePositionY                                 15
+  10-02-2024 21:51:22:241:419                      dronePositionX                                 15
+  10-02-2024 21:51:22:341:623           Drone and target coincide                                 -
+  10-02-2024 21:51:22:341:752           Drone and target coincide                                 -
+  10-02-2024 21:51:22:341:853           Drone and target coincide                                 -
+  10-02-2024 21:51:22:341:990           Drone and target coincide                                 -
+  10-02-2024 21:51:22:342:233                      dronePositionY                                 15
+  10-02-2024 21:51:22:342:303                      dronePositionX                                 15
+  10-02-2024 21:51:22:442:485           Drone and target coincide                                 -
+  10-02-2024 21:51:22:442:646           Drone and target coincide                                 -
+  10-02-2024 21:51:22:442:748           Drone and target coincide                                 -
+  10-02-2024 21:51:22:442:850           Drone and target coincide                                 -
+   10-02-2024 21:51:22:443:46                      dronePositionY                                 15
+  10-02-2024 21:51:22:443:119                      dronePositionX                                 15
+  10-02-2024 21:51:22:543:296           Drone and target coincide                                 -
+  10-02-2024 21:51:22:543:407           Drone and target coincide                                 -
+  10-02-2024 21:51:22:543:501           Drone and target coincide                                 -
+  10-02-2024 21:51:22:543:597           Drone and target coincide                                 -
+  10-02-2024 21:51:22:543:785                      dronePositionY                                 15
+  10-02-2024 21:51:22:543:852                      dronePositionX                                 15
+  10-02-2024 21:51:22:644:222           Drone and target coincide                                 -
+  10-02-2024 21:51:22:644:362           Drone and target coincide                                 -
+  10-02-2024 21:51:22:644:474           Drone and target coincide                                 -
+  10-02-2024 21:51:22:644:574           Drone and target coincide                                 -
+  10-02-2024 21:51:22:644:854                      dronePositionY                                 15
+  10-02-2024 21:51:22:644:931                      dronePositionX                                 15
+  10-02-2024 21:51:22:745:116           Drone and target coincide                                 -
+  10-02-2024 21:51:22:745:267           Drone and target coincide                                 -
+  10-02-2024 21:51:22:745:361           Drone and target coincide                                 -
+  10-02-2024 21:51:22:745:458           Drone and target coincide                                 -
+  10-02-2024 21:51:22:745:565                      dronePositionY                                 15
+  10-02-2024 21:51:22:745:623                      dronePositionX                                 15
+  10-02-2024 21:51:22:845:821           Drone and target coincide                                 -
+  10-02-2024 21:51:22:845:987           Drone and target coincide                                 -
+   10-02-2024 21:51:22:846:90           Drone and target coincide                                 -
+  10-02-2024 21:51:22:846:190           Drone and target coincide                                 -
+  10-02-2024 21:51:22:846:399                      dronePositionY                                 15
+  10-02-2024 21:51:22:846:469                      dronePositionX                                 15
+  10-02-2024 21:51:22:946:650           Drone and target coincide                                 -
+  10-02-2024 21:51:22:946:773           Drone and target coincide                                 -
+  10-02-2024 21:51:22:946:925           Drone and target coincide                                 -
+   10-02-2024 21:51:22:947:30           Drone and target coincide                                 -
+  10-02-2024 21:51:22:947:265                      dronePositionY                                 15
+  10-02-2024 21:51:22:947:340                      dronePositionX                                 15
+   10-02-2024 21:51:23:47:531           Drone and target coincide                                 -
+   10-02-2024 21:51:23:47:658           Drone and target coincide                                 -
+   10-02-2024 21:51:23:47:763           Drone and target coincide                                 -
+   10-02-2024 21:51:23:47:864           Drone and target coincide                                 -
+    10-02-2024 21:51:23:48:60                      dronePositionY                                 15
+   10-02-2024 21:51:23:48:133                      dronePositionX                                 15
+  10-02-2024 21:51:23:148:447           Drone and target coincide                                 -
+  10-02-2024 21:51:23:148:576           Drone and target coincide                                 -
+  10-02-2024 21:51:23:148:677           Drone and target coincide                                 -
+  10-02-2024 21:51:23:148:768           Drone and target coincide                                 -
+   10-02-2024 21:51:23:149:22                      dronePositionY                                 15
+   10-02-2024 21:51:23:149:91                      dronePositionX                                 15
+  10-02-2024 21:51:23:249:268           Drone and target coincide                                 -
+  10-02-2024 21:51:23:249:377           Drone and target coincide                                 -
+  10-02-2024 21:51:23:249:475           Drone and target coincide                                 -
+  10-02-2024 21:51:23:249:570           Drone and target coincide                                 -
+  10-02-2024 21:51:23:249:781                      dronePositionY                                 15
+  10-02-2024 21:51:23:249:853                      dronePositionX                                 15
+   10-02-2024 21:51:23:350:65           Drone and target coincide                                 -
+  10-02-2024 21:51:23:350:196           Drone and target coincide                                 -
+  10-02-2024 21:51:23:350:296           Drone and target coincide                                 -
+  10-02-2024 21:51:23:350:391           Drone and target coincide                                 -
+  10-02-2024 21:51:23:350:605                      dronePositionY                                 15
+  10-02-2024 21:51:23:350:675                      dronePositionX                                 15
+  10-02-2024 21:51:23:450:879           Drone and target coincide                                 -
+    10-02-2024 21:51:23:451:5           Drone and target coincide                                 -
+  10-02-2024 21:51:23:451:159           Drone and target coincide                                 -
+  10-02-2024 21:51:23:451:264           Drone and target coincide                                 -
+  10-02-2024 21:51:23:451:470                      dronePositionY                                 15
+  10-02-2024 21:51:23:451:546                      dronePositionX                                 15
+  10-02-2024 21:51:23:551:736           Drone and target coincide                                 -
+  10-02-2024 21:51:23:551:861           Drone and target coincide                                 -
+  10-02-2024 21:51:23:551:965           Drone and target coincide                                 -
+   10-02-2024 21:51:23:552:68           Drone and target coincide                                 -
+  10-02-2024 21:51:23:552:277                      dronePositionY                                 15
+  10-02-2024 21:51:23:552:352                      dronePositionX                                 15
+  10-02-2024 21:51:23:652:667           Drone and target coincide                                 -
+  10-02-2024 21:51:23:652:797           Drone and target coincide                                 -
+  10-02-2024 21:51:23:652:898           Drone and target coincide                                 -
+  10-02-2024 21:51:23:652:990           Drone and target coincide                                 -
+  10-02-2024 21:51:23:653:244                      dronePositionY                                 15
+  10-02-2024 21:51:23:653:313                      dronePositionX                                 15
+  10-02-2024 21:51:23:753:501           Drone and target coincide                                 -
+  10-02-2024 21:51:23:753:633           Drone and target coincide                                 -
+  10-02-2024 21:51:23:753:742           Drone and target coincide                                 -
+  10-02-2024 21:51:23:753:845           Drone and target coincide                                 -
+   10-02-2024 21:51:23:754:18                      dronePositionY                                 15
+   10-02-2024 21:51:23:754:93                      dronePositionX                                 15
+  10-02-2024 21:51:23:854:320           Drone and target coincide                                 -
+  10-02-2024 21:51:23:854:415           Drone and target coincide                                 -
+  10-02-2024 21:51:23:854:476           Drone and target coincide                                 -
+  10-02-2024 21:51:23:854:534           Drone and target coincide                                 -
+  10-02-2024 21:51:23:854:616                      dronePositionY                                 15
+  10-02-2024 21:51:23:854:678                      dronePositionX                                 15
+  10-02-2024 21:51:23:954:898           Drone and target coincide                                 -
+   10-02-2024 21:51:23:955:26           Drone and target coincide                                 -
+   10-02-2024 21:51:23:955:96           Drone and target coincide                                 -
+  10-02-2024 21:51:23:955:157           Drone and target coincide                                 -
+  10-02-2024 21:51:23:955:411                      dronePositionY                                 15
+  10-02-2024 21:51:23:955:502                      dronePositionX                                 15
+   10-02-2024 21:51:24:55:721           Drone and target coincide                                 -
+   10-02-2024 21:51:24:55:805           Drone and target coincide                                 -
+   10-02-2024 21:51:24:55:860           Drone and target coincide                                 -
+   10-02-2024 21:51:24:55:912           Drone and target coincide                                 -
+   10-02-2024 21:51:24:55:982                      dronePositionY                                 15
+    10-02-2024 21:51:24:56:63                      dronePositionX                                 15
+  10-02-2024 21:51:24:156:299           Drone and target coincide                                 -
+  10-02-2024 21:51:24:156:406           Drone and target coincide                                 -
+  10-02-2024 21:51:24:156:464           Drone and target coincide                                 -
+  10-02-2024 21:51:24:156:518           Drone and target coincide                                 -
+  10-02-2024 21:51:24:156:773                      dronePositionY                                 15
+  10-02-2024 21:51:24:156:854                      dronePositionX                                 15
+  10-02-2024 21:51:24:257:125           Drone and target coincide                                 -
+  10-02-2024 21:51:24:257:230           Drone and target coincide                                 -
+  10-02-2024 21:51:24:257:290           Drone and target coincide                                 -
+  10-02-2024 21:51:24:257:343           Drone and target coincide                                 -
+  10-02-2024 21:51:24:257:503                      dronePositionY                                 15
+  10-02-2024 21:51:24:257:564                      dronePositionX                                 15
+  10-02-2024 21:51:24:357:966           Drone and target coincide                                 -
+   10-02-2024 21:51:24:358:65           Drone and target coincide                                 -
+  10-02-2024 21:51:24:358:122           Drone and target coincide                                 -
+  10-02-2024 21:51:24:358:177           Drone and target coincide                                 -
+  10-02-2024 21:51:24:358:483                      dronePositionY                                 15
+  10-02-2024 21:51:24:358:564                      dronePositionX                                 15
+  10-02-2024 21:51:24:458:674           Drone and target coincide                                 -
+  10-02-2024 21:51:24:458:731           Drone and target coincide                                 -
+  10-02-2024 21:51:24:458:768           Drone and target coincide                                 -
+  10-02-2024 21:51:24:458:802           Drone and target coincide                                 -
+  10-02-2024 21:51:24:458:848                      dronePositionY                                 15
+  10-02-2024 21:51:24:458:883                      dronePositionX                                 15
+  10-02-2024 21:51:24:559:292           Drone and target coincide                                 -
+  10-02-2024 21:51:24:559:404           Drone and target coincide                                 -
+  10-02-2024 21:51:24:559:469           Drone and target coincide                                 -
+  10-02-2024 21:51:24:559:529           Drone and target coincide                                 -
+  10-02-2024 21:51:24:559:774                      dronePositionY                                 15
+  10-02-2024 21:51:24:559:864                      dronePositionX                                 15
+  10-02-2024 21:51:24:660:310           Drone and target coincide                                 -
+  10-02-2024 21:51:24:660:422           Drone and target coincide                                 -
+  10-02-2024 21:51:24:660:488           Drone and target coincide                                 -
+  10-02-2024 21:51:24:660:547           Drone and target coincide                                 -
+  10-02-2024 21:51:24:660:824                      dronePositionY                                 15
+  10-02-2024 21:51:24:660:914                      dronePositionX                                 15
+  10-02-2024 21:51:24:761:131           Drone and target coincide                                 -
+  10-02-2024 21:51:24:761:220           Drone and target coincide                                 -
+  10-02-2024 21:51:24:761:278           Drone and target coincide                                 -
+  10-02-2024 21:51:24:761:332           Drone and target coincide                                 -
+  10-02-2024 21:51:24:761:555                      dronePositionY                                 15
+  10-02-2024 21:51:24:761:636                      dronePositionX                                 15
+  10-02-2024 21:51:24:861:969           Drone and target coincide                                 -
+   10-02-2024 21:51:24:862:70           Drone and target coincide                                 -
+  10-02-2024 21:51:24:862:127           Drone and target coincide                                 -
+  10-02-2024 21:51:24:862:181           Drone and target coincide                                 -
+  10-02-2024 21:51:24:862:487                      dronePositionY                                 15
+  10-02-2024 21:51:24:862:571                      dronePositionX                                 15
+  10-02-2024 21:51:24:962:790           Drone and target coincide                                 -
+  10-02-2024 21:51:24:962:899           Drone and target coincide                                 -
+  10-02-2024 21:51:24:965:795           Drone and target coincide                                 -
+  10-02-2024 21:51:24:965:952           Drone and target coincide                                 -
+  10-02-2024 21:51:24:966:216                      dronePositionY                                 15
+  10-02-2024 21:51:24:966:306                      dronePositionX                                 15
+   10-02-2024 21:51:25:66:498           Drone and target coincide                                 -
+   10-02-2024 21:51:25:66:615           Drone and target coincide                                 -
+   10-02-2024 21:51:25:66:723           Drone and target coincide                                 -
+   10-02-2024 21:51:25:66:805           Drone and target coincide                                 -
+   10-02-2024 21:51:25:66:911                      dronePositionY                                 15
+   10-02-2024 21:51:25:66:973                      dronePositionX                                 15
+  10-02-2024 21:51:25:167:147           Drone and target coincide                                 -
+  10-02-2024 21:51:25:167:256           Drone and target coincide                                 -
+  10-02-2024 21:51:25:167:349           Drone and target coincide                                 -
+  10-02-2024 21:51:25:167:419           Drone and target coincide                                 -
+  10-02-2024 21:51:25:167:518                      dronePositionY                                 15
+  10-02-2024 21:51:25:167:575                      dronePositionX                                 15
+  10-02-2024 21:51:25:267:787           Drone and target coincide                                 -
+  10-02-2024 21:51:25:267:910           Drone and target coincide                                 -
+    10-02-2024 21:51:25:268:8           Drone and target coincide                                 -
+  10-02-2024 21:51:25:268:108           Drone and target coincide                                 -
+  10-02-2024 21:51:25:268:206                      dronePositionY                                 15
+  10-02-2024 21:51:25:268:285                      dronePositionX                                 15
+  10-02-2024 21:51:25:368:460           Drone and target coincide                                 -
+  10-02-2024 21:51:25:368:591           Drone and target coincide                                 -
+  10-02-2024 21:51:25:368:697           Drone and target coincide                                 -
+  10-02-2024 21:51:25:368:807           Drone and target coincide                                 -
+  10-02-2024 21:51:25:368:922                      dronePositionY                                 15
+    10-02-2024 21:51:25:369:8                      dronePositionX                                 15
+  10-02-2024 21:51:25:469:197           Drone and target coincide                                 -
+  10-02-2024 21:51:25:469:333           Drone and target coincide                                 -
+  10-02-2024 21:51:25:469:478           Drone and target coincide                                 -
+  10-02-2024 21:51:25:469:608           Drone and target coincide                                 -
+  10-02-2024 21:51:25:469:720                      dronePositionY                                 15
+  10-02-2024 21:51:25:469:792                      dronePositionX                                 15
+   10-02-2024 21:51:25:570:14           Drone and target coincide                                 -
+  10-02-2024 21:51:25:570:137           Drone and target coincide                                 -
+  10-02-2024 21:51:25:570:237           Drone and target coincide                                 -
+  10-02-2024 21:51:25:570:336           Drone and target coincide                                 -
+  10-02-2024 21:51:25:570:432                      dronePositionY                                 15
+  10-02-2024 21:51:25:570:510                      dronePositionX                                 15
+  10-02-2024 21:51:25:670:676           Drone and target coincide                                 -
+  10-02-2024 21:51:25:670:794           Drone and target coincide                                 -
+  10-02-2024 21:51:25:670:894           Drone and target coincide                                 -
+  10-02-2024 21:51:25:670:976           Drone and target coincide                                 -
+   10-02-2024 21:51:25:671:72                      dronePositionY                                 15
+  10-02-2024 21:51:25:671:133                      dronePositionX                                 15
+  10-02-2024 21:51:25:771:409           Drone and target coincide                                 -
+  10-02-2024 21:51:25:771:546           Drone and target coincide                                 -
+  10-02-2024 21:51:25:771:653           Drone and target coincide                                 -
+  10-02-2024 21:51:25:771:764           Drone and target coincide                                 -
+  10-02-2024 21:51:25:771:878                      dronePositionY                                 15
+  10-02-2024 21:51:25:771:962                      dronePositionX                                 15
+  10-02-2024 21:51:25:872:220           Drone and target coincide                                 -
+  10-02-2024 21:51:25:872:343           Drone and target coincide                                 -
+  10-02-2024 21:51:25:872:437           Drone and target coincide                                 -
+  10-02-2024 21:51:25:872:532           Drone and target coincide                                 -
+  10-02-2024 21:51:25:872:645                      dronePositionY                                 15
+  10-02-2024 21:51:25:872:724                      dronePositionX                                 15
+   10-02-2024 21:51:25:973:34           Drone and target coincide                                 -
+  10-02-2024 21:51:25:973:170           Drone and target coincide                                 -
+  10-02-2024 21:51:25:973:313           Drone and target coincide                                 -
+  10-02-2024 21:51:25:973:417           Drone and target coincide                                 -
+  10-02-2024 21:51:25:973:529                      dronePositionY                                 15
+  10-02-2024 21:51:25:973:601                      dronePositionX                                 15
+   10-02-2024 21:51:26:73:781           Drone and target coincide                                 -
+   10-02-2024 21:51:26:73:897           Drone and target coincide                                 -
+    10-02-2024 21:51:26:74:47           Drone and target coincide                                 -
+   10-02-2024 21:51:26:74:154           Drone and target coincide                                 -
+   10-02-2024 21:51:26:74:266                      dronePositionY                                 15
+   10-02-2024 21:51:26:74:352                      dronePositionX                                 15
+  10-02-2024 21:51:26:174:531           Drone and target coincide                                 -
+  10-02-2024 21:51:26:174:689           Drone and target coincide                                 -
+  10-02-2024 21:51:26:174:795           Drone and target coincide                                 -
+  10-02-2024 21:51:26:174:888           Drone and target coincide                                 -
+  10-02-2024 21:51:26:174:994                      dronePositionY                                 15
+   10-02-2024 21:51:26:175:65                      dronePositionX                                 15
+  10-02-2024 21:51:26:275:243           Drone and target coincide                                 -
+  10-02-2024 21:51:26:275:351           Drone and target coincide                                 -
+  10-02-2024 21:51:26:275:443           Drone and target coincide                                 -
+  10-02-2024 21:51:26:275:536           Drone and target coincide                                 -
+  10-02-2024 21:51:26:275:632                      dronePositionY                                 15
+  10-02-2024 21:51:26:275:709                      dronePositionX                                 15
+  10-02-2024 21:51:26:375:890           Drone and target coincide                                 -
+    10-02-2024 21:51:26:376:6           Drone and target coincide                                 -
+  10-02-2024 21:51:26:376:109           Drone and target coincide                                 -
+  10-02-2024 21:51:26:376:214           Drone and target coincide                                 -
+  10-02-2024 21:51:26:376:319                      dronePositionY                                 15
+  10-02-2024 21:51:26:376:380                      dronePositionX                                 15
+  10-02-2024 21:51:26:476:561           Drone and target coincide                                 -
+  10-02-2024 21:51:26:476:703           Drone and target coincide                                 -
+  10-02-2024 21:51:26:476:770           Drone and target coincide                                 -
+  10-02-2024 21:51:26:476:849           Drone and target coincide                                 -
+  10-02-2024 21:51:26:476:924                      dronePositionY                                 15
+  10-02-2024 21:51:26:476:978                      dronePositionX                                 15
+  10-02-2024 21:51:26:577:157           Drone and target coincide                                 -
+  10-02-2024 21:51:26:577:270           Drone and target coincide                                 -
+  10-02-2024 21:51:26:577:353           Drone and target coincide                                 -
+  10-02-2024 21:51:26:577:425           Drone and target coincide                                 -
+  10-02-2024 21:51:26:577:507                      dronePositionY                                 15
+  10-02-2024 21:51:26:577:561                      dronePositionX                                 15
+  10-02-2024 21:51:26:677:839           Drone and target coincide                                 -
+    10-02-2024 21:51:26:678:7           Drone and target coincide                                 -
+  10-02-2024 21:51:26:678:119           Drone and target coincide                                 -
+  10-02-2024 21:51:26:678:227           Drone and target coincide                                 -
+  10-02-2024 21:51:26:678:336                      dronePositionY                                 15
+  10-02-2024 21:51:26:678:423                      dronePositionX                                 15
+  10-02-2024 21:51:26:778:674           Drone and target coincide                                 -
+  10-02-2024 21:51:26:778:810           Drone and target coincide                                 -
+  10-02-2024 21:51:26:778:916           Drone and target coincide                                 -
+   10-02-2024 21:51:26:779:27           Drone and target coincide                                 -
+  10-02-2024 21:51:26:779:141                      dronePositionY                                 15
+  10-02-2024 21:51:26:779:226                      dronePositionX                                 15
+  10-02-2024 21:51:26:879:487           Drone and target coincide                                 -
+  10-02-2024 21:51:26:879:623           Drone and target coincide                                 -
+  10-02-2024 21:51:26:879:731           Drone and target coincide                                 -
+  10-02-2024 21:51:26:879:839           Drone and target coincide                                 -
+  10-02-2024 21:51:26:879:990                      dronePositionY                                 15
+   10-02-2024 21:51:26:880:67                      dronePositionX                                 15
+  10-02-2024 21:51:26:980:305           Drone and target coincide                                 -
+  10-02-2024 21:51:26:980:444           Drone and target coincide                                 -
+  10-02-2024 21:51:26:980:586           Drone and target coincide                                 -
+  10-02-2024 21:51:26:980:691           Drone and target coincide                                 -
+  10-02-2024 21:51:26:980:801                      dronePositionY                                 15
+  10-02-2024 21:51:26:980:873                      dronePositionX                                 15
+   10-02-2024 21:51:27:81:144           Drone and target coincide                                 -
+   10-02-2024 21:51:27:81:267           Drone and target coincide                                 -
+   10-02-2024 21:51:27:81:364           Drone and target coincide                                 -
+   10-02-2024 21:51:27:81:462           Drone and target coincide                                 -
+   10-02-2024 21:51:27:81:562                      dronePositionY                                 15
+   10-02-2024 21:51:27:81:640                      dronePositionX                                 15
+  10-02-2024 21:51:27:182:150           Drone and target coincide                                 -
+  10-02-2024 21:51:27:182:273           Drone and target coincide                                 -
+  10-02-2024 21:51:27:182:371           Drone and target coincide                                 -
+  10-02-2024 21:51:27:182:467           Drone and target coincide                                 -
+  10-02-2024 21:51:27:182:565                      dronePositionY                                 15
+  10-02-2024 21:51:27:182:647                      dronePositionX                                 15
+  10-02-2024 21:51:27:282:822           Drone and target coincide                                 -
+  10-02-2024 21:51:27:282:938           Drone and target coincide                                 -
+   10-02-2024 21:51:27:283:36           Drone and target coincide                                 -
+  10-02-2024 21:51:27:283:144           Drone and target coincide                                 -
+  10-02-2024 21:51:27:283:253                      dronePositionY                                 15
+  10-02-2024 21:51:27:283:340                      dronePositionX                                 15
+  10-02-2024 21:51:27:383:515           Drone and target coincide                                 -
+  10-02-2024 21:51:27:383:618           Drone and target coincide                                 -
+  10-02-2024 21:51:27:383:707           Drone and target coincide                                 -
+  10-02-2024 21:51:27:383:805           Drone and target coincide                                 -
+  10-02-2024 21:51:27:383:909                      dronePositionY                                 15
+  10-02-2024 21:51:27:383:966                      dronePositionX                                 15
+  10-02-2024 21:51:27:484:138           Drone and target coincide                                 -
+  10-02-2024 21:51:27:484:243           Drone and target coincide                                 -
+  10-02-2024 21:51:27:484:365           Drone and target coincide                                 -
+  10-02-2024 21:51:27:484:452           Drone and target coincide                                 -
+  10-02-2024 21:51:27:484:542                      dronePositionY                                 15
+  10-02-2024 21:51:27:484:644                      dronePositionX                                 15
+  10-02-2024 21:51:27:584:908           Drone and target coincide                                 -
+   10-02-2024 21:51:27:585:31           Drone and target coincide                                 -
+  10-02-2024 21:51:27:585:127           Drone and target coincide                                 -
+  10-02-2024 21:51:27:585:225           Drone and target coincide                                 -
+  10-02-2024 21:51:27:585:326                      dronePositionY                                 15
+  10-02-2024 21:51:27:585:404                      dronePositionX                                 15
+  10-02-2024 21:51:27:685:889           Drone and target coincide                                 -
+   10-02-2024 21:51:27:686:62           Drone and target coincide                                 -
+  10-02-2024 21:51:27:686:169           Drone and target coincide                                 -
+  10-02-2024 21:51:27:686:276           Drone and target coincide                                 -
+  10-02-2024 21:51:27:686:388                      dronePositionY                                 15
+  10-02-2024 21:51:27:686:472                      dronePositionX                                 15
+  10-02-2024 21:51:27:786:733           Drone and target coincide                                 -
+  10-02-2024 21:51:27:786:855           Drone and target coincide                                 -
+  10-02-2024 21:51:27:786:952           Drone and target coincide                                 -
+   10-02-2024 21:51:27:787:48           Drone and target coincide                                 -
+  10-02-2024 21:51:27:787:146                      dronePositionY                                 15
+  10-02-2024 21:51:27:787:226                      dronePositionX                                 15
+  10-02-2024 21:51:27:887:543           Drone and target coincide                                 -
+  10-02-2024 21:51:27:887:666           Drone and target coincide                                 -
+  10-02-2024 21:51:27:887:764           Drone and target coincide                                 -
+  10-02-2024 21:51:27:887:860           Drone and target coincide                                 -
+   10-02-2024 21:51:27:888:15                      dronePositionY                                 15
+   10-02-2024 21:51:27:888:82                      dronePositionX                                 15
+  10-02-2024 21:51:27:988:262           Drone and target coincide                                 -
+  10-02-2024 21:51:27:988:406           Drone and target coincide                                 -
+  10-02-2024 21:51:27:988:505           Drone and target coincide                                 -
+  10-02-2024 21:51:27:988:576           Drone and target coincide                                 -
+  10-02-2024 21:51:27:988:672                      dronePositionY                                 15
+  10-02-2024 21:51:27:988:729                      dronePositionX                                 15
+   10-02-2024 21:51:28:88:909           Drone and target coincide                                 -
+    10-02-2024 21:51:28:89:20           Drone and target coincide                                 -
+   10-02-2024 21:51:28:89:118           Drone and target coincide                                 -
+   10-02-2024 21:51:28:89:193           Drone and target coincide                                 -
+   10-02-2024 21:51:28:89:290                      dronePositionY                                 15
+   10-02-2024 21:51:28:89:348                      dronePositionX                                 15
+  10-02-2024 21:51:28:189:722           Drone and target coincide                                 -
+  10-02-2024 21:51:28:189:858           Drone and target coincide                                 -
+   10-02-2024 21:51:28:190:11           Drone and target coincide                                 -
+  10-02-2024 21:51:28:190:130           Drone and target coincide                                 -
+  10-02-2024 21:51:28:190:279                      dronePositionY                                 15
+  10-02-2024 21:51:28:190:348                      dronePositionX                                 15
+  10-02-2024 21:51:28:290:541           Drone and target coincide                                 -
+  10-02-2024 21:51:28:290:676           Drone and target coincide                                 -
+  10-02-2024 21:51:28:290:782           Drone and target coincide                                 -
+  10-02-2024 21:51:28:290:893           Drone and target coincide                                 -
+    10-02-2024 21:51:28:291:4                      dronePositionY                                 15
+   10-02-2024 21:51:28:291:92                      dronePositionX                                 15
+  10-02-2024 21:51:28:391:357           Drone and target coincide                                 -
+  10-02-2024 21:51:28:391:492           Drone and target coincide                                 -
+  10-02-2024 21:51:28:391:599           Drone and target coincide                                 -
+  10-02-2024 21:51:28:391:709           Drone and target coincide                                 -
+  10-02-2024 21:51:28:391:820                      dronePositionY                                 15
+  10-02-2024 21:51:28:391:909                      dronePositionX                                 15
+  10-02-2024 21:51:28:492:184           Drone and target coincide                                 -
+  10-02-2024 21:51:28:492:306           Drone and target coincide                                 -
+  10-02-2024 21:51:28:492:431           Drone and target coincide                                 -
+  10-02-2024 21:51:28:492:526           Drone and target coincide                                 -
+  10-02-2024 21:51:28:492:620                      dronePositionY                                 15
+  10-02-2024 21:51:28:492:697                      dronePositionX                                 15
+  10-02-2024 21:51:28:592:993           Drone and target coincide                                 -
+  10-02-2024 21:51:28:593:116           Drone and target coincide                                 -
+  10-02-2024 21:51:28:593:216           Drone and target coincide                                 -
+  10-02-2024 21:51:28:593:312           Drone and target coincide                                 -
+  10-02-2024 21:51:28:593:421                      dronePositionY                                 15
+  10-02-2024 21:51:28:593:499                      dronePositionX                                 15
+   10-02-2024 21:51:28:694:64           Drone and target coincide                                 -
+  10-02-2024 21:51:28:694:201           Drone and target coincide                                 -
+  10-02-2024 21:51:28:694:307           Drone and target coincide                                 -
+  10-02-2024 21:51:28:694:415           Drone and target coincide                                 -
+  10-02-2024 21:51:28:694:528                      dronePositionY                                 15
+  10-02-2024 21:51:28:694:614                      dronePositionX                                 15
+  10-02-2024 21:51:28:794:879           Drone and target coincide                                 -
+    10-02-2024 21:51:28:795:1           Drone and target coincide                                 -
+   10-02-2024 21:51:28:795:99           Drone and target coincide                                 -
+  10-02-2024 21:51:28:795:198           Drone and target coincide                                 -
+  10-02-2024 21:51:28:795:297                      dronePositionY                                 15
+  10-02-2024 21:51:28:795:376                      dronePositionX                                 15
+  10-02-2024 21:51:28:895:693           Drone and target coincide                                 -
+  10-02-2024 21:51:28:895:828           Drone and target coincide                                 -
+  10-02-2024 21:51:28:895:934           Drone and target coincide                                 -
+   10-02-2024 21:51:28:896:80           Drone and target coincide                                 -
+  10-02-2024 21:51:28:896:194                      dronePositionY                                 15
+  10-02-2024 21:51:28:896:267                      dronePositionX                                 15
+  10-02-2024 21:51:28:996:507           Drone and target coincide                                 -
+  10-02-2024 21:51:28:996:642           Drone and target coincide                                 -
+  10-02-2024 21:51:28:996:783           Drone and target coincide                                 -
+  10-02-2024 21:51:28:996:888           Drone and target coincide                                 -
+    10-02-2024 21:51:28:997:1                      dronePositionY                                 15
+   10-02-2024 21:51:28:997:72                      dronePositionX                                 15
+   10-02-2024 21:51:29:97:259           Drone and target coincide                                 -
+   10-02-2024 21:51:29:97:381           Drone and target coincide                                 -
+   10-02-2024 21:51:29:97:484           Drone and target coincide                                 -
+   10-02-2024 21:51:29:97:586           Drone and target coincide                                 -
+   10-02-2024 21:51:29:97:695                      dronePositionY                                 15
+   10-02-2024 21:51:29:97:777                      dronePositionX                                 15
+  10-02-2024 21:51:29:198:331           Drone and target coincide                                 -
+  10-02-2024 21:51:29:198:466           Drone and target coincide                                 -
+  10-02-2024 21:51:29:198:573           Drone and target coincide                                 -
+  10-02-2024 21:51:29:198:681           Drone and target coincide                                 -
+  10-02-2024 21:51:29:198:792                      dronePositionY                                 15
+  10-02-2024 21:51:29:198:877                      dronePositionX                                 15
+   10-02-2024 21:51:29:299:61           Drone and target coincide                                 -
+  10-02-2024 21:51:29:299:180           Drone and target coincide                                 -
+  10-02-2024 21:51:29:299:282           Drone and target coincide                                 -
+  10-02-2024 21:51:29:299:391           Drone and target coincide                                 -
+  10-02-2024 21:51:29:299:503                      dronePositionY                                 15
+  10-02-2024 21:51:29:299:589                      dronePositionX                                 15
+  10-02-2024 21:51:29:399:778           Drone and target coincide                                 -
+  10-02-2024 21:51:29:399:897           Drone and target coincide                                 -
+  10-02-2024 21:51:29:399:998           Drone and target coincide                                 -
+   10-02-2024 21:51:29:400:96           Drone and target coincide                                 -
+  10-02-2024 21:51:29:400:205                      dronePositionY                                 15
+  10-02-2024 21:51:29:400:287                      dronePositionX                                 15
+  10-02-2024 21:51:29:500:466           Drone and target coincide                                 -
+  10-02-2024 21:51:29:500:574           Drone and target coincide                                 -
+  10-02-2024 21:51:29:500:694           Drone and target coincide                                 -
+  10-02-2024 21:51:29:500:780           Drone and target coincide                                 -
+  10-02-2024 21:51:29:500:873                      dronePositionY                                 15
+  10-02-2024 21:51:29:500:941                      dronePositionX                                 15
+  10-02-2024 21:51:29:601:113           Drone and target coincide                                 -
+  10-02-2024 21:51:29:601:258           Drone and target coincide                                 -
+  10-02-2024 21:51:29:601:356           Drone and target coincide                                 -
+  10-02-2024 21:51:29:601:441           Drone and target coincide                                 -
+  10-02-2024 21:51:29:601:534                      dronePositionY                                 15
+  10-02-2024 21:51:29:601:596                      dronePositionX                                 15
+  10-02-2024 21:51:29:701:778           Drone and target coincide                                 -
+  10-02-2024 21:51:29:701:896           Drone and target coincide                                 -
+   10-02-2024 21:51:29:702:48           Drone and target coincide                                 -
+  10-02-2024 21:51:29:702:147           Drone and target coincide                                 -
+  10-02-2024 21:51:29:702:258                      dronePositionY                                 15
+  10-02-2024 21:51:29:702:332                      dronePositionX                                 15
+  10-02-2024 21:51:29:802:511           Drone and target coincide                                 -
+  10-02-2024 21:51:29:802:623           Drone and target coincide                                 -
+  10-02-2024 21:51:29:802:718           Drone and target coincide                                 -
+  10-02-2024 21:51:29:802:806           Drone and target coincide                                 -
+  10-02-2024 21:51:29:802:902                      dronePositionY                                 15
+  10-02-2024 21:51:29:802:970                      dronePositionX                                 15
+  10-02-2024 21:51:29:903:228           Drone and target coincide                                 -
+  10-02-2024 21:51:29:903:352           Drone and target coincide                                 -
+  10-02-2024 21:51:29:903:450           Drone and target coincide                                 -
+  10-02-2024 21:51:29:903:548           Drone and target coincide                                 -
+  10-02-2024 21:51:29:903:647                      dronePositionY                                 15
+  10-02-2024 21:51:29:903:728                      dronePositionX                                 15
+     10-02-2024 21:51:30:4:31           Drone and target coincide                                 -
+    10-02-2024 21:51:30:4:160           Drone and target coincide                                 -
+    10-02-2024 21:51:30:7:402           Drone and target coincide                                 -
+    10-02-2024 21:51:30:7:507           Drone and target coincide                                 -
+    10-02-2024 21:51:30:7:654                      dronePositionY                                 15
+    10-02-2024 21:51:30:7:720                      dronePositionX                                 15
+  10-02-2024 21:51:30:108:103           Drone and target coincide                                 -
+  10-02-2024 21:51:30:108:228           Drone and target coincide                                 -
+  10-02-2024 21:51:30:108:325           Drone and target coincide                                 -
+  10-02-2024 21:51:30:108:428           Drone and target coincide                                 -
+  10-02-2024 21:51:30:108:528                      dronePositionY                                 15
+  10-02-2024 21:51:30:108:607                      dronePositionX                                 15
+  10-02-2024 21:51:30:209:173           Drone and target coincide                                 -
+  10-02-2024 21:51:30:209:309           Drone and target coincide                                 -
+  10-02-2024 21:51:30:209:415           Drone and target coincide                                 -
+  10-02-2024 21:51:30:209:525           Drone and target coincide                                 -
+  10-02-2024 21:51:30:209:637                      dronePositionY                                 15
+  10-02-2024 21:51:30:209:723                      dronePositionX                                 15
+   10-02-2024 21:51:30:310:19           Drone and target coincide                                 -
+  10-02-2024 21:51:30:310:154           Drone and target coincide                                 -
+  10-02-2024 21:51:30:310:261           Drone and target coincide                                 -
+  10-02-2024 21:51:30:310:369           Drone and target coincide                                 -
+  10-02-2024 21:51:30:310:477                      dronePositionY                                 15
+  10-02-2024 21:51:30:310:566                      dronePositionX                                 15
+  10-02-2024 21:51:30:410:834           Drone and target coincide                                 -
+  10-02-2024 21:51:30:410:959           Drone and target coincide                                 -
+   10-02-2024 21:51:30:411:57           Drone and target coincide                                 -
+  10-02-2024 21:51:30:411:155           Drone and target coincide                                 -
+  10-02-2024 21:51:30:411:291                      dronePositionY                                 15
+  10-02-2024 21:51:30:411:366                      dronePositionX                                 15
+  10-02-2024 21:51:30:511:551           Drone and target coincide                                 -
+  10-02-2024 21:51:30:511:674           Drone and target coincide                                 -
+  10-02-2024 21:51:30:511:810           Drone and target coincide                                 -
+  10-02-2024 21:51:30:511:905           Drone and target coincide                                 -
+   10-02-2024 21:51:30:512:11                      dronePositionY                                 15
+   10-02-2024 21:51:30:512:86                      dronePositionX                                 15
+  10-02-2024 21:51:30:612:269           Drone and target coincide                                 -
+  10-02-2024 21:51:30:612:381           Drone and target coincide                                 -
+  10-02-2024 21:51:30:612:479           Drone and target coincide                                 -
+  10-02-2024 21:51:30:612:555           Drone and target coincide                                 -
+  10-02-2024 21:51:30:612:651                      dronePositionY                                 15
+  10-02-2024 21:51:30:612:710                      dronePositionX                                 15
+  10-02-2024 21:51:30:712:889           Drone and target coincide                                 -
+    10-02-2024 21:51:30:713:4           Drone and target coincide                                 -
+  10-02-2024 21:51:30:713:102           Drone and target coincide                                 -
+  10-02-2024 21:51:30:713:187           Drone and target coincide                                 -
+  10-02-2024 21:51:30:713:284                      dronePositionY                                 15
+  10-02-2024 21:51:30:713:365                      dronePositionX                                 15
+  10-02-2024 21:51:30:813:539           Drone and target coincide                                 -
+  10-02-2024 21:51:30:813:643           Drone and target coincide                                 -
+  10-02-2024 21:51:30:813:740           Drone and target coincide                                 -
+  10-02-2024 21:51:30:813:839           Drone and target coincide                                 -
+  10-02-2024 21:51:30:813:992                      dronePositionY                                 15
+   10-02-2024 21:51:30:814:60                      dronePositionX                                 15
+  10-02-2024 21:51:30:914:248           Drone and target coincide                                 -
+  10-02-2024 21:51:30:914:376           Drone and target coincide                                 -
+  10-02-2024 21:51:30:914:490           Drone and target coincide                                 -
+  10-02-2024 21:51:30:914:579           Drone and target coincide                                 -
+  10-02-2024 21:51:30:914:687                      dronePositionY                                 15
+  10-02-2024 21:51:30:914:783                      dronePositionX                                 15
+   10-02-2024 21:51:31:14:970           Drone and target coincide                                 -
+    10-02-2024 21:51:31:15:89           Drone and target coincide                                 -
+   10-02-2024 21:51:31:15:226           Drone and target coincide                                 -
+   10-02-2024 21:51:31:15:323           Drone and target coincide                                 -
+   10-02-2024 21:51:31:15:429                      dronePositionY                                 15
+   10-02-2024 21:51:31:15:501                      dronePositionX                                 15
+  10-02-2024 21:51:31:115:755           Drone and target coincide                                 -
+  10-02-2024 21:51:31:115:892           Drone and target coincide                                 -
+    10-02-2024 21:51:31:116:1           Drone and target coincide                                 -
+  10-02-2024 21:51:31:116:112           Drone and target coincide                                 -
+  10-02-2024 21:51:31:116:222                      dronePositionY                                 15
+  10-02-2024 21:51:31:116:308                      dronePositionX                                 15
+  10-02-2024 21:51:31:216:856           Drone and target coincide                                 -
+  10-02-2024 21:51:31:216:979           Drone and target coincide                                 -
+   10-02-2024 21:51:31:217:78           Drone and target coincide                                 -
+  10-02-2024 21:51:31:217:175           Drone and target coincide                                 -
+  10-02-2024 21:51:31:217:278                      dronePositionY                                 15
+  10-02-2024 21:51:31:217:357                      dronePositionX                                 15
+  10-02-2024 21:51:31:317:569           Drone and target coincide                                 -
+  10-02-2024 21:51:31:317:692           Drone and target coincide                                 -
+  10-02-2024 21:51:31:317:790           Drone and target coincide                                 -
+  10-02-2024 21:51:31:317:888           Drone and target coincide                                 -
+   10-02-2024 21:51:31:318:52                      dronePositionY                                 15
+  10-02-2024 21:51:31:318:113                      dronePositionX                                 15
+  10-02-2024 21:51:31:418:300           Drone and target coincide                                 -
+  10-02-2024 21:51:31:418:422           Drone and target coincide                                 -
+  10-02-2024 21:51:31:418:523           Drone and target coincide                                 -
+  10-02-2024 21:51:31:418:619           Drone and target coincide                                 -
+  10-02-2024 21:51:31:418:726                      dronePositionY                                 15
+  10-02-2024 21:51:31:418:809                      dronePositionX                                 15
+  10-02-2024 21:51:31:518:982           Drone and target coincide                                 -
+   10-02-2024 21:51:31:519:93           Drone and target coincide                                 -
+  10-02-2024 21:51:31:519:218           Drone and target coincide                                 -
+  10-02-2024 21:51:31:519:310           Drone and target coincide                                 -
+  10-02-2024 21:51:31:519:401                      dronePositionY                                 15
+  10-02-2024 21:51:31:519:477                      dronePositionX                                 15
+  10-02-2024 21:51:31:619:661           Drone and target coincide                                 -
+  10-02-2024 21:51:31:619:776           Drone and target coincide                                 -
+  10-02-2024 21:51:31:619:874           Drone and target coincide                                 -
+  10-02-2024 21:51:31:619:976           Drone and target coincide                                 -
+  10-02-2024 21:51:31:620:125                      dronePositionY                                 15
+  10-02-2024 21:51:31:620:196                      dronePositionX                                 15
+  10-02-2024 21:51:31:720:510           Drone and target coincide                                 -
+  10-02-2024 21:51:31:720:633           Drone and target coincide                                 -
+  10-02-2024 21:51:31:720:732           Drone and target coincide                                 -
+  10-02-2024 21:51:31:720:831           Drone and target coincide                                 -
+  10-02-2024 21:51:31:720:931                      dronePositionY                                 15
+   10-02-2024 21:51:31:721:14                      dronePositionX                                 15
+  10-02-2024 21:51:31:821:318           Drone and target coincide                                 -
+  10-02-2024 21:51:31:821:440           Drone and target coincide                                 -
+  10-02-2024 21:51:31:821:536           Drone and target coincide                                 -
+  10-02-2024 21:51:31:821:635           Drone and target coincide                                 -
+  10-02-2024 21:51:31:821:736                      dronePositionY                                 15
+  10-02-2024 21:51:31:821:815                      dronePositionX                                 15
+   10-02-2024 21:51:31:922:46           Drone and target coincide                                 -
+  10-02-2024 21:51:31:922:168           Drone and target coincide                                 -
+  10-02-2024 21:51:31:922:265           Drone and target coincide                                 -
+  10-02-2024 21:51:31:922:363           Drone and target coincide                                 -
+  10-02-2024 21:51:31:922:496                      dronePositionY                                 15
+  10-02-2024 21:51:31:922:570                      dronePositionX                                 15
+   10-02-2024 21:51:32:22:854           Drone and target coincide                                 -
+   10-02-2024 21:51:32:22:978           Drone and target coincide                                 -
+   10-02-2024 21:51:32:23:106           Drone and target coincide                                 -
+   10-02-2024 21:51:32:23:199           Drone and target coincide                                 -
+   10-02-2024 21:51:32:23:292                      dronePositionY                                 15
+   10-02-2024 21:51:32:23:366                      dronePositionX                                 15
+  10-02-2024 21:51:32:123:665           Drone and target coincide                                 -
+  10-02-2024 21:51:32:123:804           Drone and target coincide                                 -
+  10-02-2024 21:51:32:123:910           Drone and target coincide                                 -
+   10-02-2024 21:51:32:124:19           Drone and target coincide                                 -
+  10-02-2024 21:51:32:124:132                      dronePositionY                                 15
+  10-02-2024 21:51:32:124:218                      dronePositionX                                 15
+  10-02-2024 21:51:32:224:794           Drone and target coincide                                 -
+  10-02-2024 21:51:32:224:915           Drone and target coincide                                 -
+   10-02-2024 21:51:32:225:13           Drone and target coincide                                 -
+  10-02-2024 21:51:32:225:111           Drone and target coincide                                 -
+  10-02-2024 21:51:32:225:210                      dronePositionY                                 15
+  10-02-2024 21:51:32:225:290                      dronePositionX                                 15
+  10-02-2024 21:51:32:325:605           Drone and target coincide                                 -
+  10-02-2024 21:51:32:325:727           Drone and target coincide                                 -
+  10-02-2024 21:51:32:325:824           Drone and target coincide                                 -
+  10-02-2024 21:51:32:325:995           Drone and target coincide                                 -
+   10-02-2024 21:51:32:326:95                      dronePositionY                                 15
+  10-02-2024 21:51:32:326:158                      dronePositionX                                 15
+  10-02-2024 21:51:32:426:325           Drone and target coincide                                 -
+  10-02-2024 21:51:32:426:443           Drone and target coincide                                 -
+  10-02-2024 21:51:32:426:539           Drone and target coincide                                 -
+  10-02-2024 21:51:32:426:637           Drone and target coincide                                 -
+  10-02-2024 21:51:32:426:786                      dronePositionY                                 15
+  10-02-2024 21:51:32:426:855                      dronePositionX                                 15
+  10-02-2024 21:51:32:527:133           Drone and target coincide                                 -
+  10-02-2024 21:51:32:527:272           Drone and target coincide                                 -
+  10-02-2024 21:51:32:527:412           Drone and target coincide                                 -
+  10-02-2024 21:51:32:527:516           Drone and target coincide                                 -
+  10-02-2024 21:51:32:527:625                      dronePositionY                                 15
+  10-02-2024 21:51:32:527:698                      dronePositionX                                 15
+  10-02-2024 21:51:32:627:879           Drone and target coincide                                 -
+  10-02-2024 21:51:32:627:991           Drone and target coincide                                 -
+   10-02-2024 21:51:32:628:87           Drone and target coincide                                 -
+  10-02-2024 21:51:32:628:175           Drone and target coincide                                 -
+  10-02-2024 21:51:32:628:271                      dronePositionY                                 15
+  10-02-2024 21:51:32:628:340                      dronePositionX                                 15
+  10-02-2024 21:51:32:728:802           Drone and target coincide                                 -
+  10-02-2024 21:51:32:728:926           Drone and target coincide                                 -
+   10-02-2024 21:51:32:729:22           Drone and target coincide                                 -
+  10-02-2024 21:51:32:729:114           Drone and target coincide                                 -
+  10-02-2024 21:51:32:729:221                      dronePositionY                                 15
+  10-02-2024 21:51:32:729:297                      dronePositionX                                 15
+  10-02-2024 21:51:32:829:614           Drone and target coincide                                 -
+  10-02-2024 21:51:32:829:735           Drone and target coincide                                 -
+  10-02-2024 21:51:32:829:832           Drone and target coincide                                 -
+  10-02-2024 21:51:32:829:967           Drone and target coincide                                 -
+   10-02-2024 21:51:32:830:71                      dronePositionY                                 15
+  10-02-2024 21:51:32:830:148                      dronePositionX                                 15
+  10-02-2024 21:51:32:930:425           Drone and target coincide                                 -
+  10-02-2024 21:51:32:930:560           Drone and target coincide                                 -
+  10-02-2024 21:51:32:930:665           Drone and target coincide                                 -
+  10-02-2024 21:51:32:930:780           Drone and target coincide                                 -
+  10-02-2024 21:51:32:930:893                      dronePositionY                                 15
+  10-02-2024 21:51:32:930:977                      dronePositionX                                 15
+   10-02-2024 21:51:33:31:238           Drone and target coincide                                 -
+   10-02-2024 21:51:33:31:386           Drone and target coincide                                 -
+   10-02-2024 21:51:33:31:560           Drone and target coincide                                 -
+   10-02-2024 21:51:33:31:658           Drone and target coincide                                 -
+   10-02-2024 21:51:33:31:765                      dronePositionY                                 15
+   10-02-2024 21:51:33:31:833                      dronePositionX                                 15
+   10-02-2024 21:51:33:132:70           Drone and target coincide                                 -
+  10-02-2024 21:51:33:132:193           Drone and target coincide                                 -
+  10-02-2024 21:51:33:132:291           Drone and target coincide                                 -
+  10-02-2024 21:51:33:132:388           Drone and target coincide                                 -
+  10-02-2024 21:51:33:132:488                      dronePositionY                                 15
+  10-02-2024 21:51:33:132:567                      dronePositionX                                 15
+   10-02-2024 21:51:33:233:14           Drone and target coincide                                 -
+   10-02-2024 21:51:33:233:53           Drone and target coincide                                 -
+   10-02-2024 21:51:33:233:79           Drone and target coincide                                 -
+  10-02-2024 21:51:33:233:107           Drone and target coincide                                 -
+  10-02-2024 21:51:33:233:141                      dronePositionY                                 15
+  10-02-2024 21:51:33:233:159                      dronePositionX                                 15
+  10-02-2024 21:51:33:333:776           Drone and target coincide                                 -
+  10-02-2024 21:51:33:333:951           Drone and target coincide                                 -
+   10-02-2024 21:51:33:334:68           Drone and target coincide                                 -
+  10-02-2024 21:51:33:334:177           Drone and target coincide                                 -
+  10-02-2024 21:51:33:334:289                      dronePositionY                                 15
+  10-02-2024 21:51:33:334:373                      dronePositionX                                 15
+  10-02-2024 21:51:33:345:943                   Received SIGTERM
+                                 -
+  10-02-2024 21:51:33:345:993           Drone and target coincide                                 -
+   10-02-2024 21:51:33:346:29           Drone and target coincide                                 -
+   10-02-2024 21:51:33:346:65           Drone and target coincide                                 -
+  10-02-2024 21:51:33:346:103           Drone and target coincide                                 -
+  10-02-2024 21:51:33:346:331                      dronePositionY                                 15
+  10-02-2024 21:51:33:346:361                      dronePositionX                                 15
+  10-02-2024 21:51:33:346:383             closing links and pipes                                 -
+  10-02-2024 21:51:33:346:406              Closed targets2watchfd                                 -
+  10-02-2024 21:51:33:346:427              Closed watch2targetsfd                                 -
+  10-02-2024 21:51:33:346:449        Closed targets2server1_write                                 -
+  10-02-2024 21:51:33:346:473        Closed targets2server2_write                                 -
+  10-02-2024 21:51:33:346:506          Closed server2targets_read                                 -
+  10-02-2024 21:51:33:346:543                   Closed target_ack                                 -
+  10-02-2024 21:51:33:346:574                     Killing process                                 -
