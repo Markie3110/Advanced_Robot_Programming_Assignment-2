@@ -26,7 +26,7 @@ Shown here is the software architecture of the system depicting the parent/child
 
 Overview
 ----------------------
-As depicted in the architecture, the system consists of 5 core processes, namely: main, server, user interface, drone and watchdog, that all work concurrently to run the simulator. Besides the core programs, we also have two header files stored in the include folder: parameters and log that are used by the core files during runtime. A detailed description of each is given below.
+As depicted in the architecture, the system consists of 7 core processes, namely: main, server, user interface, drone, targets, obstacles and watchdog, that all work concurrently to run the simulator. Besides the core programs, we also have two header files stored in the include folder: parameters and log that are used by the core files during runtime. A detailed description of each is given below.
 
 ### Main ###
 Main is the parent process of the entire system and is solely responsible for executing each and every individual process required by the simulator. It does this by repeatedly forking itself using the `fork()` function, and then executing each process within the newly created child with `execvp()`. Once all the necessary processes have been created, main waits until all the created children have ended their execution, following which it itself is terminated.
